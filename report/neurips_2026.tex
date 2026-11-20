@@ -1,0 +1,159 @@
+\documentclass{article}
+
+% if you need to pass options to natbib, use, e.g.:
+%     \PassOptionsToPackage{numbers, compress}{natbib}
+% before loading neurips_2026
+
+% The authors should use one of these tracks.
+% Before accepting by the NeurIPS conference, select one of the options below.
+% 0. "default" for submission
+\usepackage{neurips_2026}
+% the "default" option is equal to the "main" option, which is used for the Main Track with double-blind reviewing.
+% 1. "main" option is used for the Main Track
+%  \usepackage[main]{neurips_2026}
+% 2. "position" option is used for the Position Paper Track
+%  \usepackage[position]{neurips_2026}
+% 3. "eandd" option is used for the Evaluations & Datasets Track
+ % \usepackage[eandd]{neurips_2026}
+% 4. "creativeai" option is used for the Creative AI Track
+%  \usepackage[creativeai]{neurips_2026}
+% 5. "sglblindworkshop" option is used for the Workshop with single-blind reviewing
+ % \usepackage[sglblindworkshop]{neurips_2026}
+% 6. "dblblindworkshop" option is used for the Workshop with double-blind reviewing
+%  \usepackage[dblblindworkshop]{neurips_2026}
+
+% After being accepted, the authors should add "final" behind the track to compile a camera-ready version.
+% 1. Main Track
+ % \usepackage[main, final]{neurips_2026}
+% 2. Position Paper Track
+%  \usepackage[position, final]{neurips_2026}
+% 3. Evaluations & Datasets Track
+ % \usepackage[eandd, final]{neurips_2026}
+% 4. Creative AI Track
+%  \usepackage[creativeai, final]{neurips_2026}
+% 5. Workshop with single-blind reviewing
+%  \usepackage[sglblindworkshop, final]{neurips_2026}
+% 6. Workshop with double-blind reviewing
+%  \usepackage[dblblindworkshop, final]{neurips_2026}
+% Note. For the workshop paper template, both \title{} and \workshoptitle{} are required, with the former indicating the paper title shown in the title and the latter indicating the workshop title displayed in the footnote.
+% For workshops (5., 6.), the authors should add the name of the workshop, "\workshoptitle" command is used to set the workshop title.
+% \workshoptitle{WORKSHOP TITLE}
+
+% "preprint" option is used for arXiv or other preprint submissions
+ % \usepackage[preprint]{neurips_2026}
+
+% to avoid loading the natbib package, add option nonatbib:
+%    \usepackage[nonatbib]{neurips_2026}
+
+\usepackage[utf8]{inputenc} % allow utf-8 input
+\usepackage[T1]{fontenc}    % use 8-bit T1 fonts
+\usepackage{hyperref}       % hyperlinks
+\usepackage{url}            % simple URL typesetting
+\usepackage{booktabs}       % professional-quality tables
+\usepackage{amsfonts}       % blackboard math symbols
+\usepackage{nicefrac}       % compact symbols for 1/2, etc.
+\usepackage{microtype}      % microtypography
+\usepackage{xcolor}         % colors
+
+% Note. For the workshop paper template, both \title{} and \workshoptitle{} are required, with the former indicating the paper title shown in the title and the latter indicating the workshop title displayed in the footnote. 
+\title{Machine Learning Project: Classification of Coffee and prediction of the lot quality.}
+
+
+% The \author macro works with any number of authors. There are two commands
+% used to separate the names and addresses of multiple authors: \And and \AND.
+%
+% Using \And between authors leaves it to LaTeX to determine where to break the
+% lines. Using \AND forces a line break at that point. So, if LaTeX puts 3 of 4
+% authors names on the first line, and the last on the second line, try using
+% \AND instead of \And before the third author name.
+
+
+\author{%
+  Arthur BELLOC
+\\
+  Azel OUABDESSLAM\\
+  Thomas PAUTRAS\\
+  Vladimir VARENNE-WELNOVSKI\\
+  \texttt{arthur.belloc@edu.devinci.fr} \\
+  % examples of more authors
+  % \And
+  % Coauthor \\
+  % Affiliation \\
+  % Address \\
+  % \texttt{email} \\
+  % \AND
+  % Coauthor \\
+  % Affiliation \\
+  % Address \\
+  % \texttt{email} \\
+  % \And
+  % Coauthor \\
+  % Affiliation \\
+  % Address \\
+  % \texttt{email} \\
+  % \And
+  % Coauthor \\
+  % Affiliation \\
+  % Address \\
+  % \texttt{email} \\
+}
+
+
+\begin{document}
+
+
+\maketitle
+
+
+\begin{abstract}
+  The outcome of our project is to classify coffee lots in different \texttt{quality\_class}. We also aim to add another dataset to yield more interessting contextual links to deeply understand what features makes a coffee well rated and to predict more efficiently its quality. Some contextual features like more information about the countries, way of harvesting coffee,... will help us make sure our predictions are accurate. All those result could be used in order to create a tool for the coffee roasters and coffee shops to predict an average quality of the lots they plan to buy.
+\end{abstract}
+
+
+
+\section{The Dataset}
+
+
+\href{https://www.kaggle.com/datasets/abdurrahmanhakanacar/specialty-coffee-quality-and-sensory-profiles-cqi}{Specialty Coffee Quality (CQI) Dataset}
+
+
+\subsection{Choose a Project Topic}
+
+
+We chose the coffee classification topic, as we firstly found it very interesting. We were curious which metrics actually make good coffee bean, and we saw a good potential to develop a strong classification and rating model on this topic.
+
+Moreover, working on this topic will make us discover the answer to what makes a coffee bean great in the first place. But we also aim, As stated in the \hyperref[sec:abstract]{abstract}, to contextualise those results with geopolitical and environemental data from other datasets in order to deeply link those result to the reality of our world.
+
+Finally, even if the Coffee itself is not that related to the Data\&IA major, the way we plan to use the classification data yielded is strongly linked to how we use model performance outcomes in companies in order to build tools or to modify processes in order to achieve more productivity.
+
+
+
+\subsection{Identify and Collect the Dataset}
+
+The dataset is from Kaggle, and it contains 1,337 CQI-certified lots (2010–2018) with SCA sensory scores and terroir data.  
+
+This dataset classify coffee lots in several ratings class, using the ratings of the Specialty Coffee Association (SCA) and the Coffee Quality Institute (CQI). The ratings are on 100 and are embedded in 4 classes:  
+
+-  \texttt{Presidential(90+)}  
+
+-  \texttt{Exemplary(85-89)}  
+
+-  \texttt{Speciality(80-84)}  
+
+-  \texttt{Commercial/Sub-Grade(<80)}  
+
+We can see that 4 over 5 classes are in the 80 to 90 range. To have significant results, our model need to be very good, as the boundaries between the 3 top classes are extremely close.
+
+Thankfully, it has a 10/10 usability score on kaggle, which ensure us to have exploitable results, and a strong features base to go further in the classification model we aim to build.  
+
+\section{Machine Learning Problem and Baseline}
+
+\subsection{Define the Machine Learning Problem}
+
+\subsection{Define Your Baseline}
+
+\section{Write the Project Specification}
+
+
+
+\end{document}
