@@ -1,0 +1,1338 @@
+lot_id,country_of_origin,region,farm_name,producer,variety,processing_method,harvest_year,grading_year,altitude_mean_meters,moisture_percentage,category_one_defects,category_two_defects,color
+LOT-0001,Ethiopia,Guji-Hambela,Metad Plc,Metad Plc,,Washed / Wet,2014,2015,2075.0,12.0,0,0,Green
+LOT-0002,Ethiopia,Guji-Hambela,Metad Plc,Metad Plc,Other,Washed / Wet,2014,2015,2075.0,12.0,0,1,Green
+LOT-0003,Guatemala,,"San Marcos Barrancas ""San Cristobal Cuch",,Bourbon,,,2010,1700.0,,0,0,
+LOT-0004,Ethiopia,Oromia,Yidnekachew Dabessa Coffee Plantation,Yidnekachew Dabessa Coffee Plantation,,Natural / Dry,2014,2015,2000.0,11.0,0,2,Green
+LOT-0005,Ethiopia,Guji-Hambela,Metad Plc,Metad Plc,Other,Washed / Wet,2014,2015,2075.0,12.0,0,2,Green
+LOT-0006,Brazil,,,,,Natural / Dry,2013,2013,,11.0,0,1,Blue-Green
+LOT-0007,Peru,,,Hvc,Other,Washed / Wet,2012,2012,,11.0,0,0,Blue-Green
+LOT-0008,Ethiopia,Oromia,Aolme,Bazen Agricultural & Industrial Dev'T Plc,,,March 2010,2010,1635.0,3.0,0,0,
+LOT-0009,Ethiopia,Oromiya,Aolme,Bazen Agricultural & Industrial Dev'T Plc,,,March 2010,2010,1635.0,3.0,0,0,
+LOT-0010,Ethiopia,"Snnp/Kaffa Zone,Gimbowereda",Tulla Coffee Farm,Diamond Enterprise Plc,Other,Natural / Dry,2014,2015,1822.5,10.0,0,4,Green
+LOT-0011,Ethiopia,Oromia,Fahem Coffee Plantation,Fahem Coffee Plantation,,Natural / Dry,2014,2015,1905.0,10.0,0,1,
+LOT-0012,United States,Antioquia,El Filo,Alfredo De Jesús López Pérez,Other,Washed / Wet,2014,2015,1872.0,,0,0,
+LOT-0013,United States,Antioquia,Los Cedros,Jorge Walter Restrepo,Other,Washed / Wet,2014,2015,1943.0,,0,0,
+LOT-0014,United States (Hawaii),Kona,Arianna Farms,"Robert, Sharon, Arianna Wood",,,Sept 2009 - April 2010,2010,609.6,,0,2,
+LOT-0015,Ethiopia,Oromiya,Aolme,Bazen Agricultural & Industrial Dev'T Plc,,,March 2010,2010,1635.0,5.0,0,2,
+LOT-0016,United States,Antioquia,El Águila,María Leticia Diosa,Other,Washed / Wet,2014,2015,2080.0,,0,0,
+LOT-0017,Indonesia,Sulawesi,Toarco Jaya,P.T. Toarco Jaya,,,May-August,2010,1500.0,3.0,0,0,
+LOT-0018,Ethiopia,Yirgacheffe,,Green Gold Ethiopia | Phone: 0114342032,,,2009/2010,2010,,5.0,0,2,
+LOT-0019,Ethiopia,Gedio,Drima Zede,Levelup,Ethiopian Yirgacheffe,Natural / Dry,2014,2015,1850.0,,0,8,
+LOT-0020,China,Yunnan,Echo Coffee,Echo Coffee,Catimor,Washed / Wet,2015,2016,1450.0,10.0,0,0,Green
+LOT-0021,United States,Antioquia,El Rodeo,Nicolás Rueda Urrego,Other,Washed / Wet,2014,2015,2019.0,,0,0,
+LOT-0022,Mexico,Xalapa,La Herradura,Roberto Licona Franco,Other,Washed / Wet,2012,2012,1320.0,13.0,0,0,Green
+LOT-0023,Costa Rica,San Ramon,Several,Several,Caturra,Washed / Wet,2014,2014,1300.0,11.0,0,2,Green
+LOT-0024,Ethiopia,Sidamo,,,,Natural / Dry,2013,2013,,11.0,0,1,Blue-Green
+LOT-0025,United States,Antioquia,La Curva,Silvia Elena Higuita,Other,Washed / Wet,2014,2015,2112.0,,0,0,
+LOT-0026,Ethiopia,Sidamo,,Green Gold Ethiopia | Phone: 0114342032,,,2009/2010,2010,,5.0,0,2,
+LOT-0027,Brazil,South Of Minas,Fazenda Kaquend,Ralph Junqueira,Bourbon,Natural / Dry,2011,2011,1250.0,12.0,0,2,Green
+LOT-0028,Uganda,Kapchorwa Eastern,Chebonet (23) Women Coffee,Kabum Trading Company,Sl14,Washed / Wet,2013,2014,1950.0,12.0,0,1,Green
+LOT-0029,Honduras,Comayagua,Los Hicaques,Reinerio Zepeda,Caturra,,2016,2017,1400.0,10.0,0,3,Green
+LOT-0030,Nicaragua,,,,,,,2010,,8.0,0,2,
+LOT-0031,Taiwan,"Leye, Alishan Township, Chiayi County",Tsoustructive Garden 鄒築園,"Fang,Zheng-Lun 方政倫",Sumatra,Pulped natural / honey,2015,2016,1200.0,,0,0,Green
+LOT-0032,Tanzania,,,,,Natural / Dry,2012,2013,,11.0,0,1,Blue-Green
+LOT-0033,Brazil,Vale Da Grama,Fazenda Recreio,Homero Texeira De Macedo Junior,Bourbon,Natural / Dry,2011,2011,1300.0,12.0,0,2,Green
+LOT-0034,Costa Rica,West And Central Valley,Exclusive Coffees S.A.,Exclusive Coffees S.A.,Caturra,Washed / Wet,2015/2016,2015,1300.0,,0,0,Blue-Green
+LOT-0035,Ethiopia,Yirgacheffe,"Phone Number | 0911-51-08-01, Email | At",Contact Name | Ato Teshome Belamo,,,2009/2010,2010,,10.0,0,2,
+LOT-0036,Ethiopia,Oromia,Haider Abamecha Coffee Plantation,Haider Abamecha Abadiko,,Natural / Dry,2014,2015,1775.0,10.0,0,3,Green
+LOT-0037,Kenya,Muranga,Kangunu,Kangunu,Sl34,Washed / Wet,2013,2014,1800.0,12.0,0,1,Blue-Green
+LOT-0038,United States (Hawaii),Kona,Kona Pacific Farmers Cooperative,Kona Pacific Farmers Co-Op,,,2010,2011,,,2,1,
+LOT-0039,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2012,2012,,,1,4,
+LOT-0040,Thailand,Chiang Rai,Co-Op #12,Itdp,Caturra,Washed / Wet,2012,2012,1300.0,10.0,1,9,Green
+LOT-0041,Brazil,Sul De Minas - Carmo De Minas,Pereira Estate Coffee,Maria Rogeria Costa Pereira,Yellow Bourbon,,2010,2011,,,0,3,
+LOT-0042,Brazil,Sul De Minas - Carmo De Minas,Pereira Estate Coffee,Maria Rogeria Costa Pereira,Yellow Bourbon,,2010,2011,,8.0,0,2,
+LOT-0043,United States,Antioquia,La Primavera,Hugo Sepúlveda Montoya,Other,Washed / Wet,2014,2015,1941.0,,0,0,
+LOT-0044,Kenya,Nyeri,Jungle Estate,Jungle Estate,Sl28,Natural / Dry,2014,2015,1754.0,11.0,0,2,Blue-Green
+LOT-0045,Brazil,South Of Minas,Fazenda Kaquend,Ralph Junqueira,Bourbon,Semi-washed / Semi-pulped,2011,2011,1250.0,11.0,0,2,Blue-Green
+LOT-0046,Taiwan,Natou County,Sunshine Valley Estate 向陽高山咖啡,Lin Yen Chien 林言謙,Bourbon,Semi-washed / Semi-pulped,2015,2015,1000.0,12.0,0,0,Green
+LOT-0047,Kenya,Kiambu,Kianjavi,,Sl28,Washed / Wet,2013,2014,1860.0,11.0,0,1,Green
+LOT-0048,Uganda,"Sipi, Mt Elgon",,Kawacom,Other,Washed / Wet,2012,2012,1650.0,10.0,0,0,Blue-Green
+LOT-0049,Colombia,Tolima,Ecobio Colombia,,Caturra,Washed / Wet,2013,2014,1200.0,12.0,1,1,Green
+LOT-0050,Ethiopia,Sidamo,Contact | Sidacoop@Ethionet.Net,Sidama Coffee Farmers Coop. Union,,,2009/2010,2010,1750.0,,0,4,
+LOT-0051,Uganda,Eastern Uganda,Kaasayi,Kaasay Farmer Group,,Semi-washed / Semi-pulped,2014,2014,,,0,0,
+LOT-0052,United States (Hawaii),Kona,Hula Daddy Kona Coffee,Hula Daddy Kona Coffee,,,Fall 2009,2010,426.7,,0,0,
+LOT-0053,Colombia,Huila,,,Caturra,Washed / Wet,2013,2013,1800.0,,1,0,Blue-Green
+LOT-0054,Uganda,Eastern,Sipi Organic Coffee Project,Kawacom (U)Ltd,Sl14,Natural / Dry,2013,2014,1650.0,12.0,0,0,Green
+LOT-0055,Guatemala,Nuevo Oriente,La Esperanza Y Anexos,Margarita Avila De Nuyens,Bourbon,Washed / Wet,2016,2016,,10.0,0,3,Green
+LOT-0056,Panama,Boquete,La Berlina Estate,Plinio Ruiz,Gesha,Washed / Wet,2017,2017,1600.0,8.0,0,0,Blue-Green
+LOT-0057,Guatemala,Acatenango,Valparaiso,Sertrasa,Bourbon,Washed / Wet,2012,2012,1524.0,12.0,0,3,Green
+LOT-0058,Guatemala,Nuevo Oriente,Finca El Limon,William Estuardo Martinez Pacheco,Catuai,Washed / Wet,2012,2012,1417.3,10.0,0,1,Blue-Green
+LOT-0059,Ethiopia,Oromia,,Ibrahim Hussien Specialty Coffee Producer And Exporter,,Washed / Wet,2014,2015,1900.0,10.0,0,4,Green
+LOT-0060,Ethiopia,Addis Ababa,Seid Damtew Coffee Planation,Seid Damtew Coffee Export And Plantation,Caturra,Natural / Dry,2017,2017,,9.0,0,7,
+LOT-0061,Papua New Guinea,Eastern Highlands Province,Tairora Cherry – Bonta,"Colbran Coffeelands, Ltd.",,Washed / Wet,2012,2012,1700.0,12.0,0,1,Blue-Green
+LOT-0062,Peru,Cajamarca,,,,Washed / Wet,2013,2014,,10.0,4,6,Green
+LOT-0063,El Salvador,"Ataco, Apaneca - Ilamatepec Mountain Range",Finca La Esmeralda,Oscar Roberto Murgas Linares,Bourbon,Semi-washed / Semi-pulped,2012,2013,1350.0,11.0,0,0,
+LOT-0064,El Salvador,Apaneca,El Majahual,Aida Batlle,Bourbon,Washed / Wet,2013,2013,1500.0,10.0,0,3,Blue-Green
+LOT-0065,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2012,2012,,,0,1,
+LOT-0066,Panama,Boquete,Elida Estate,Lamastus,Caturra,Natural / Dry,2014,2015,1680.0,9.0,2,2,
+LOT-0067,Kenya,Kirinyaga,Inoi,,Sl28,Natural / Dry,2014,2015,1900.0,10.0,0,3,Green
+LOT-0068,Ethiopia,Oromia,,Assefa Belay Coffee Producer,Other,Natural / Dry,2015,2015,1900.0,12.0,0,7,Green
+LOT-0069,Uganda,Bulambuli Eastern Region,Buginyanya,Kyagalanyi Coffee Ltd,Sl14,Washed / Wet,2013,2014,1600.0,12.0,0,1,Green
+LOT-0070,Guatemala,Huehuetenango,Asoperc,Asociacion De Permacultores De Cuilco (Santos Lopez Mejia),Bourbon,Washed / Wet,2013,2013,1731.3,11.0,0,1,Green
+LOT-0071,Ethiopia,Oromia,,Assefa Belay Coffee Producer,,Washed / Wet,2015,2015,1900.0,10.0,0,18,Green
+LOT-0072,El Salvador,Apaneca,Sierra Nevada,J. Hill Y Cia Sa De Cv,,,2009 / 2010,2010,1400.0,,0,0,
+LOT-0073,Brazil,South Of Minas,Fazenda Serra De Três Barras,José Vagner Ribeiro Junqueira,Bourbon,Semi-washed / Semi-pulped,2011,2011,1250.0,11.0,0,1,Blue-Green
+LOT-0074,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2012,2012,,,4,6,
+LOT-0075,Uganda,Kapchorwa,Chesiyo Farmer Group,Chesiyo Farmer Group,Sl14,Washed / Wet,2013,2014,1950.0,12.0,0,5,Green
+LOT-0076,Kenya,Central Kenya,,Blend From Various Producers,Sl34,Washed / Wet,2012,2013,1200.0,,0,6,Green
+LOT-0077,Ethiopia,Yirgacheffe,,Contact Name | Hailu Gebre Hiwot,Typica,,2009/2010,2010,,10.0,0,3,
+LOT-0078,Kenya,Central Kenya,,Kianjogu - Rutuma F.C.S. Ltd.,Sl34,Washed / Wet,2012,2013,1600.0,,0,2,Green
+LOT-0079,Ethiopia,Yirgacheffe,Phone Number | 0911-513824 Email: Gmt.Ft,"Contact Name | Egziabhez Mezgebe, Gmt Industrial Plc",,,2009/2010,2010,,5.0,0,2,
+LOT-0080,Guatemala,Huehuetenango,El Injerto S.A.,Arturo Aguirre,Pacamara,Natural / Dry,2014,2015,1770.0,11.0,0,1,Green
+LOT-0081,Costa Rica,West Valley,Several,Cafe Altura De San Ramon,Caturra,Washed / Wet,2014,2014,1300.0,,0,0,Blue-Green
+LOT-0082,China,Yunnan,Pu'Er City Longke Coffee Co.Ltd,Pu'Er City Longke Coffee Co.Ltd,Catimor,Natural / Dry,2015,2016,1700.0,10.0,0,0,Green
+LOT-0083,Costa Rica,San Ramon,Several,Several,Caturra,Washed / Wet,2014,2014,1300.0,10.0,0,2,Blue-Green
+LOT-0084,Guatemala,Oriente,La Esperanza Y Anexos,Margarita Avila De Nuyens,Bourbon,,2016,2016,,10.0,0,2,Green
+LOT-0085,Colombia,Santander,,,Caturra,Natural / Dry,2014,2014,1550.0,12.0,0,2,Green
+LOT-0086,Colombia,Santander,Various,Varios,Caturra,Washed / Wet,2015,2015,1550.0,11.0,0,0,Green
+LOT-0087,Guatemala,Huehuetenango,Coop. Hoja Blanca - Fedecocagua,Coop. Hoja Blanca - Fedecocagua,Caturra,Washed / Wet,2012,2012,1400.0,,0,7,
+LOT-0088,Indonesia,Lintong,,,Sumatra Lintong,Semi-washed / Semi-pulped,2012,2012,1325.0,11.0,0,3,Green
+LOT-0089,Colombia,Cundinamarca,,Orlando Ortiz /Wilson Ortiz/Gilberto Acosta,Caturra,Natural / Dry,2012,2012,2136.0,11.0,0,8,Green
+LOT-0090,Colombia,Pasto,,Jose Albeiro Gomez / Luis Jaber Realpe,Caturra,Natural / Dry,2015,2015,2560.0,,0,0,
+LOT-0091,Ethiopia,Aricha,Aricha Coop,Bnt,,Natural / Dry,2014,2014,1700.0,10.0,2,7,Green
+LOT-0092,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2014,2014,,11.0,2,2,Blue-Green
+LOT-0093,Ethiopia,"Kefa Zone, Gimbo Distict, At A Place Called Woka Araba, South West Ethiopia.",Seid Damtew Coffee Planation,Seid Damtew Coffee Planation,Other,Natural / Dry,2016,2016,,11.0,0,8,Green
+LOT-0094,United States (Hawaii),Kona,Kona Pacific Farmers Cooperative,,,,,2010,,,0,0,
+LOT-0095,Ethiopia,Sidamo,,Exporter Name | Muluneh Kaka | Phone: 0114390290,,,2010,2010,,,0,5,
+LOT-0096,United States (Hawaii),Kona,,Kona Pacific Farmers Cooperative,,,2010-2011,2010,,,1,7,
+LOT-0097,Brazil,Grama Valley,Sitío São Geraldo,Idalina M. De Andrade Ferreira,Mundo Novo,Natural / Dry,2012,2012,1100.0,12.0,0,3,Green
+LOT-0098,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2016,2017,,,0,3,Green
+LOT-0099,Costa Rica,Tarrazu,Estate La Patricia,Manuel Montero,Catuai,Washed / Wet,2016,2017,1900.0,12.0,1,1,Green
+LOT-0100,Kenya,,,,,Washed / Wet,2015,2016,,11.0,0,7,Green
+LOT-0101,Guatemala,"Chuva, San Marcos",La Igualdad,Federico Weller,,,2009/2010,2010,1325.9,4.0,0,1,
+LOT-0102,United States (Hawaii),Kona,Kona Pacific Farmers Cooperative,,,,,2011,,,0,1,
+LOT-0103,Mexico,Mexico,Kassandra,Finca Kassandra,Pacamara,,2010-2011,2011,1400.0,,0,0,
+LOT-0104,Mexico,Veracruz,Various,Varios Productores Minifundistas,Typica,Washed / Wet,2015,2016,1300.0,9.0,0,3,Green
+LOT-0105,Kenya,Central Kenya,Machure Estate,,Sl34,Washed / Wet,2012,2013,1580.0,,0,5,Green
+LOT-0106,Uganda,Eastern Uganda,Mount Elgon Area,Kyagalanyi Coffee Ltd,Sl14,Washed / Wet,2016,2017,1800.0,11.0,0,1,Green
+LOT-0107,Brazil,South Of Minas,Fazenda Grota Funda,Glaucio Carneiro Pinto,Bourbon,Natural / Dry,2011,2011,1200.0,11.0,0,2,Green
+LOT-0108,Kenya,,,,,,2009-2010,2010,,6.0,1,9,
+LOT-0109,Brazil,South Of Minas,Sitio Claro,Ricardo Luiz Ferreira,Catuai,Natural / Dry,2011,2011,1000.0,12.0,0,2,Green
+LOT-0110,Mexico,Coatepec,El Suspiro,Artemio Zapata Tejeda,Typica,Semi-washed / Semi-pulped,2012,2012,1200.0,11.0,0,0,
+LOT-0111,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2012,2012,1775.0,11.0,0,3,Green
+LOT-0112,Taiwan,Natou County,Baishengcun Coffee 百勝村咖啡莊園,Su Chuen Shian 蘇春賢,Typica,Semi-washed / Semi-pulped,2015,2015,800.0,11.0,0,0,Green
+LOT-0113,Tanzania,Mbeya,Hasambo Amcos,Hasambo Amcos,Other,Washed / Wet,2014,2014,1620.0,12.0,0,2,Green
+LOT-0114,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2015,2015,1775.0,12.0,0,1,Green
+LOT-0115,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2016,2016,,,1,2,
+LOT-0116,Uganda,Eastern,Mt.Elgon Bugisu Shamba 2,Sipi Organic Coffee Project,Sl14,Natural / Dry,2013,2014,1650.0,12.0,0,1,Green
+LOT-0117,Ethiopia,Sidamo,Contact | Sidacoop@Ethionet.Net,Sidama Coffee Farmers Coop. Union,,,2009/2010,2010,1750.0,10.0,0,4,
+LOT-0118,Ethiopia,Sidamo,Contact | Sidacoop@Ethionet.Net,Sidama Coffee Farmers Coop. Union,,,2009/2010,2010,1750.0,10.0,0,2,
+LOT-0119,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2012,2012,,,3,15,
+LOT-0120,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Shi Fang Yuan 十方源,Wang Chao Yung 王超永,Typica,Natural / Dry,2016,2016,350.0,,0,0,Green
+LOT-0121,Thailand,Thailand,Matsuzawa Coffee,Matsuzawa Coffee,Caturra,Pulped natural / honey,2015,2016,,12.0,0,0,Green
+LOT-0122,Kenya,Nyeri,Karatina,Karatina,Sl34,Washed / Wet,2014,2015,1800.0,13.0,0,0,Green
+LOT-0123,Honduras,Marcala,Cerro Bueno,Omar Acosta,Catuai,Washed / Wet,2014,2014,1450.0,11.0,0,4,Green
+LOT-0124,El Salvador,Santa Ana,Several,Several Producers,,,2010-2011,2011,1200.0,15.0,0,3,
+LOT-0125,Nicaragua,Jinotega,Santa Martha,Juan Alvaro Munguia,,,2009 - 2010,2010,925.0,18.0,0,2,
+LOT-0126,Japan,Ada Okinawa Japan,Ada Farm,Taijiro Tokuda,Mundo Novo,Pulped natural / honey,,2016,,12.0,0,0,Green
+LOT-0127,Indonesia,"Temanggung, Indonesia",Sran Temanggung Plantation,Pt. Shriya Artha Nusantara,Java,Washed / Wet,2016,2016,1200.0,12.0,0,7,Green
+LOT-0128,El Salvador,Apaneca,Monterrey,J.J. Borja Nathan,Bourbon,Washed / Wet,2016,2017,1350.0,,0,2,Blue-Green
+LOT-0129,Colombia,Santander,,,Caturra,Washed / Wet,2013,2013,1550.0,,0,0,Green
+LOT-0130,Ethiopia,Sidamo,Contact | Sidacoop@Ethionet.Net,Sidama Coffee Farmers Coop. Union,,,2009/2010,2010,1750.0,20.0,0,3,
+LOT-0131,Peru,"Penachi, Cecanor",,Cecanor,,,,2011,,,0,3,
+LOT-0132,Uganda,Mbale,,,Other,Washed / Wet,2012,2012,1775.0,11.0,0,3,Blue-Green
+LOT-0133,Mexico,El Remudadero,"El Nogal, La Higuera, Los Laureles","Jorge Torres Beltran, Vicente Hernandez Ochoa, Ignacio Torres",Typica,Washed / Wet,2012,2012,1200.0,13.0,0,3,
+LOT-0134,Guatemala,Acatenango,Valparaiso,Sertrasa,Bourbon,Washed / Wet,2012,2012,1524.0,12.0,0,4,Green
+LOT-0135,Guatemala,Oriente,Agropecuaria Quiagral,Agropecuaria Quiagral,Bourbon,Washed / Wet,2012,2012,1310.6,11.0,0,4,Green
+LOT-0136,Kenya,Nyeri,,Sasini,Sl28,Washed / Wet,2012,2012,2000.0,11.0,0,0,Blue-Green
+LOT-0137,Costa Rica,Costa Rica,Finca Salaca Las Brisas,Maria Elena Castro,Other,Other,2014,2015,1750.0,8.0,0,1,Green
+LOT-0138,Taiwan,Taichung Xinshe 台中市新社區,Dragon 龍咖啡,Gu Yong Long 古永龍,Typica,Washed / Wet,2013/2014,2013,1000.0,11.0,0,0,Green
+LOT-0139,Costa Rica,,,,,Washed / Wet,2012,2014,,,1,10,Green
+LOT-0140,Costa Rica,West Valley,Various,Coricafe Blend,Catuai,Washed / Wet,2014,2014,1200.0,11.0,0,4,Green
+LOT-0141,Costa Rica,Tarrazu,Coopetarrazú,Coopetarrazú,Caturra,Washed / Wet,2014,2015,1750.0,12.0,0,0,Green
+LOT-0142,Ethiopia,Yirgacheffe,Moplaco,Moplaco,Ethiopian Yirgacheffe,Washed / Wet,2014,2015,1900.0,10.0,0,3,
+LOT-0143,Guatemala,Acatenango,San Diego Buena Vista,Juan Bock,Bourbon,Washed / Wet,2015,2016,1600.0,10.0,0,1,Green
+LOT-0144,Costa Rica,Tarrazu,Rio Jorco,Johanna,Catuai,Washed / Wet,2015,2016,1150.0,10.0,0,2,Blue-Green
+LOT-0145,Guatemala,Jalapa,El Morito,Roberto Monterroso,Pacas,Washed / Wet,2014,2014,1524.0,11.0,0,1,Green
+LOT-0146,Brazil,Mountains Of Minas Gerais,Fazenda Vista Alegre,Geraldo Paixão,Catuai,Semi-washed / Semi-pulped,2011,2011,1100.0,11.0,0,1,Blue-Green
+LOT-0147,Colombia,Huila,Various,Varios,Caturra,Washed / Wet,2012,2012,1800.0,11.0,0,6,Green
+LOT-0148,Brazil,Vale Da Grama,Fazenda Recreio,Homero Texeira De Macedo Junior,Bourbon,Semi-washed / Semi-pulped,2011,2011,1300.0,12.0,0,2,Green
+LOT-0149,Costa Rica,Tres Rios,La Chaparral,,Bourbon,Semi-washed / Semi-pulped,2012,2013,1575.0,12.0,0,2,Blue-Green
+LOT-0150,Colombia,Huila,,,Caturra,Washed / Wet,2012,2013,1750.0,,0,2,Green
+LOT-0151,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2013,2013,1750.0,,0,5,
+LOT-0152,Kenya,,,Changeru Wet Mill,Sl28,Washed / Wet,2013,2013,,,0,0,Green
+LOT-0153,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2016,2016,,,0,5,Green
+LOT-0154,Kenya,Nyeri,Blend,Blend,Peaberry,Washed / Wet,2013,2014,1800.0,10.0,0,2,Blue-Green
+LOT-0155,Colombia,Santander,,,Caturra,Washed / Wet,2013,2013,1550.0,,0,0,
+LOT-0156,Guatemala,Oriente,El Papaturro,Amilcar Lapola,Bourbon,Washed / Wet,2014,2014,1219.2,9.0,0,0,Green
+LOT-0157,Kenya,Nyeri,Jungle Estate,Jungle Estate,Sl34,Washed / Wet,,2018,1754.0,11.0,0,5,Blue-Green
+LOT-0158,Colombia,Santander,,,Other,Washed / Wet,2016,2017,1500.0,,0,4,Blue-Green
+LOT-0159,Costa Rica,Valle Central,,Various,Caturra,Washed / Wet,2017 / 2018,2017,1200.0,10.0,0,2,Blue-Green
+LOT-0160,Uganda,Eastern Uganda,Kawacom Sipi Project,Kawacom Uganda Ltd,Sl14,Washed / Wet,2016,2017,1750.0,11.0,0,1,Green
+LOT-0161,Colombia,Cauca,,,Other,Washed / Wet,2015/2016,2015,1800.0,12.0,1,0,Green
+LOT-0162,Brazil,Mmm,,Mmm,,,mmm,2011,,,0,4,
+LOT-0163,Brazil,Test,,,,,TEST,2011,,,2,0,
+LOT-0164,Guatemala,Oriente,El Sacramento,Luis Rodriguez,Bourbon,Washed / Wet,2013,2013,1310.6,11.0,0,2,Green
+LOT-0165,Kenya,Nyeri,Rumukia Farmers,,Sl28,Washed / Wet,2012,2012,2000.0,11.0,0,0,Blue-Green
+LOT-0166,Mexico,Hustusco,La Barranca,Maria Imelda Uscanga Martinez,Typica,Washed / Wet,2012,2012,1350.0,12.0,0,0,Green
+LOT-0167,Mexico,Jaltenango,Finca El Retiro,Santiago Jose Arguello Campos,Typica,Washed / Wet,2012,2012,1500.0,11.0,0,4,
+LOT-0168,Guatemala,"El Tumbador, San Marcos",Nueva Granada,"Agricola Nueva Granada, S.A",Bourbon,Washed / Wet,2012,2012,,11.0,0,2,Green
+LOT-0169,Costa Rica,Tarrazu,Coopetarrazú,Coopetarrazú,Caturra,Washed / Wet,2014,2015,1700.0,11.0,0,0,Green
+LOT-0170,China,Yunnan,"Puer Jiangcheng Fuwang Coffee Biotechnology Co., Ltd","Puer Jiangcheng Fuwang Coffee Biotechnology Co., Ltd",Other,Washed / Wet,2013,2014,1100.0,,0,2,Green
+LOT-0171,China,Yunnan,Menglian Ban’An Coffee Processing Factory,Menglian Ban’An Coffee Processing Factory,Catimor,Washed / Wet,2015,2016,1680.0,10.0,0,1,Green
+LOT-0172,Colombia,Pitalito,,Franklin Dussan,Caturra,Natural / Dry,2015/2016,2016,,,0,1,Green
+LOT-0173,Taiwan,"Mountain Ali, Taiwan",Tropica Galliard,Kao Ming Lee,Typica,Washed / Wet,2012,2013,1200.0,11.0,0,0,Blue-Green
+LOT-0174,Costa Rica,Tarrazu,Several Farmers,Beneficio San Diego,Caturra,Washed / Wet,2016,2017,1300.0,10.0,0,3,Blue-Green
+LOT-0175,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2014,2014,1775.0,,0,3,Green
+LOT-0176,Indonesia,Sumatra Brastagi,Darmawi,Surbakti,Mandheling,Other,2017,2017,1400.0,,0,3,Blue-Green
+LOT-0177,Mexico,Tapachula,Finca La Chiripa,Maria Amalia Guadalupe Toriello Elorza,Pacamara,Washed / Wet,2012,2012,900.0,12.0,2,4,
+LOT-0178,Ethiopia,Limu,Phone Number | 0911-513824 Email: Gmt.Ft,"Contact Name | Egziabhez Mezgebe, Gmt Industrial Plc",,,2009/2010,2010,,20.0,0,2,
+LOT-0179,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2012,2013,,11.0,0,1,Blue-Green
+LOT-0180,Colombia,Huila,,,Caturra,Washed / Wet,2016,2017,,,0,5,Green
+LOT-0181,Mexico,Tuxtla Gutierrez,La Distancia,Victor Hugo Melchor Cordova,Typica,Washed / Wet,2012,2012,1700.0,12.0,0,1,Blue-Green
+LOT-0182,Brazil,Vale Da Grama,Santa Alina,Lucia Maria Da Silva Dias,Yellow Bourbon,,2011,2011,1275.0,,0,4,
+LOT-0183,Ethiopia,Limu,,Oromia Coffee Farmers Cooperative Union,,,,2011,1493.5,,0,1,
+LOT-0184,Guatemala,Nuevo Oriente,Las Minas,Miguel Hernandez,,,December 2009-March 2010,2010,1386.8,4.0,1,1,
+LOT-0185,Kenya,Nyeri,Kigwandi,Mutheka,Sl28,Washed / Wet,2017 / 2018,2017,1800.0,11.0,0,4,Green
+LOT-0186,Colombia,Huila,,,Caturra,Washed / Wet,2013,2013,1800.0,,0,0,Green
+LOT-0187,Colombia,Huila,,Franklin Dussan / Andres Rodriguez/Hipolito Torres,Caturra,Natural / Dry,2015,2015,442.0,11.0,6,0,Green
+LOT-0188,Colombia,La Plata,,,,,2016,2016,,,0,4,
+LOT-0189,Honduras,Comayagua,Las Cuchillas,Nahun Maldonado,Caturra,,2016,2017,1500.0,10.0,0,3,Green
+LOT-0190,Honduras,Central Region,Los Hicaques,Reinerio Zepeda,Catuai,Washed / Wet,2016,2016,1500.0,11.0,0,2,Green
+LOT-0191,Brazil,South Of Minas,Fazenda Baipendi,Antônio Pelucio,,,2011,2011,1050.0,2.0,0,2,
+LOT-0192,Taiwan,國姓鄉 Guoshing Township,馨晴咖啡 Good Mood Coffee,黃美桃 Huang Mei Tao,Typica,Washed / Wet,2016,2017,1000.0,12.0,0,0,Blue-Green
+LOT-0193,Colombia,Huila,,Franklin Dussan/Andres Rodriguez/Hipolito Torres,Caturra,Natural / Dry,2015,2015,442.0,12.0,3,0,Green
+LOT-0194,Mexico,Veracruz,Finca Los Barreales,Manuel Herrera Juarez,Bourbon,Washed / Wet,2012,2012,1170.0,12.0,0,0,Green
+LOT-0195,Mexico,San Pedro Cotzilnam,Pante Carajillo,Jesus Salazar Velasco,Typica,Semi-washed / Semi-pulped,2012,2012,1450.0,12.0,0,1,Green
+LOT-0196,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2012,2012,,11.0,1,1,Blue-Green
+LOT-0197,Colombia,Cauca,,,Caturra,Washed / Wet,2013,2013,1700.0,11.0,0,2,Green
+LOT-0198,Guatemala,Oriente,El Papaturro,Amilcar Lapola,Bourbon,Other,2014,2014,1219.2,10.0,0,1,Green
+LOT-0199,Tanzania,Mbeya,Suma Jkt Itende,Taylor Winch (T) Ltd,Other,Washed / Wet,2014,2014,1600.0,12.0,0,2,Green
+LOT-0200,Tanzania,Shizingo Village,Jacksom Mwasenga,Tembo Coffee Company Ltd,Other,Washed / Wet,2014,2014,1620.0,12.0,0,7,Green
+LOT-0201,China,Yunnan,Menglian County Nayun Town Mangzhang Coffee Farm,Menglian County Nayun Town Mangzhang Coffee Farm,Catimor,Natural / Dry,2015,2016,1400.0,10.0,0,1,Green
+LOT-0202,Colombia,Cauca,,,Other,Washed / Wet,2015/2016,2015,1800.0,12.0,0,0,Green
+LOT-0203,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2015,2015,1775.0,12.0,4,2,Green
+LOT-0204,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2015,2015,1775.0,11.0,0,3,Green
+LOT-0205,Guatemala,Antigua,Finca Medina,Finca Medina,Caturra,Washed / Wet,2016,2016,1500.0,11.0,0,4,Green
+LOT-0206,Guatemala,Huehuetenango,Finca San Vicente,Horacio Cifuentes Martinez,Caturra,Washed / Wet,2015,2016,1099.4,10.0,0,1,Green
+LOT-0207,Colombia,Nariño,,Jose Albeiro Gomez,Caturra,Natural / Dry,2016,2016,2560.0,11.0,0,2,Green
+LOT-0208,Thailand,Chiang Rai Thailand,Matsuzawa Coffee,Matsuzawa Coffee,Catimor,Natural / Dry,2015,2016,1200.0,12.0,0,0,Green
+LOT-0209,Mexico,"La Concordia, Chiapas",Finca Santa Teresa,Ernst Pohlenz Aguilar,Bourbon,Washed / Wet,2012,2012,1400.0,10.0,0,4,Blue-Green
+LOT-0210,Uganda,Kasese,,,Other,Natural / Dry,2012,2012,1700.0,13.0,4,29,Green
+LOT-0211,Guatemala,San Marcos,Piamonte,Jorge Leal,Bourbon,Washed / Wet,2017,2017,1700.0,13.0,0,1,Green
+LOT-0212,Colombia,Huila,,,Other,Washed / Wet,2014/2015,2014,1530.0,12.0,0,4,Green
+LOT-0213,Ethiopia,Snnprg; Kafa; Telo Woreda; Shada Kebele,Asefa Dukamo Coffee Plantation,Tariku Oljira,Gesha,Natural / Dry,2014,2015,1606.5,10.0,0,5,Green
+LOT-0214,Costa Rica,Tarrazu,Gamboa,Martin Gutierrez,Caturra,Washed / Wet,2014,2015,1850.0,,0,0,Blue-Green
+LOT-0215,Brazil,Cerrado,Pantano,Mauro Galheri,Catuai,Natural / Dry,2015,2015,1150.0,,0,16,
+LOT-0216,Guatemala,,,,,Washed / Wet,2013,2014,,11.0,0,0,Blue-Green
+LOT-0217,Nicaragua,Jinotega,Las Nubes,Cooperativa El Gorrion Rl,Caturra,Natural / Dry,2015,2015,1000.0,12.0,0,0,Blue-Green
+LOT-0218,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2015,2015,1775.0,,0,0,Blue-Green
+LOT-0219,Guatemala,Solola,Santo Tomas Pachuj,Fernando Fahsen,Caturra,Washed / Wet,2016,2016,1565.0,10.0,0,10,Green
+LOT-0220,Guatemala,Norte,Chapultepec,Chapultepec,Bourbon,Washed / Wet,2016,2016,3280.0,10.0,0,2,Green
+LOT-0221,Guatemala,Huehuetenango,Finca La Joya,Dary Colman Alvarado Villatoro,Caturra,Washed / Wet,2016,2016,1116.8,11.0,0,6,Green
+LOT-0222,Costa Rica,Tarrazu,Los Girasoles,Los Angeles Micro-Mill (Ricardo Calderón),Caturra,Washed / Wet,2016,2016,1700.0,9.0,0,2,Blue-Green
+LOT-0223,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2016,2016,,,0,2,Green
+LOT-0224,Tanzania,Arusha,Selian Coffee Estate,Selian Coffee Estate,Other,Washed / Wet,2014,2014,1400.0,13.0,0,0,Green
+LOT-0225,Colombia,Huila,,,Caturra,Washed / Wet,2012,2012,1750.0,,0,2,Green
+LOT-0226,El Salvador,Apaneca,El Majahual,Aida Batlle,Bourbon,Natural / Dry,2013,2013,1500.0,11.0,0,2,Blue-Green
+LOT-0227,Brazil,"Minas Gerais, Br",Café Do Paraíso,Café Do Paraíso,Mundo Novo,Natural / Dry,2012,2013,1038.5,11.0,0,3,Green
+LOT-0228,Guatemala,Oriente,La Union Monte Verde,"Agricola Monte Verde, S.A.",Bourbon,Washed / Wet,2013,2013,1310.6,11.0,0,4,Green
+LOT-0229,Uganda,Mt. Rwenzori,,,Other,Washed / Wet,2012,2012,1600.0,11.0,0,1,Green
+LOT-0230,Guatemala,Guatemala,El Limon,William Estuardo Martinez Pacheco,Catuai,Natural / Dry,2012,2012,,11.0,0,2,Blue-Green
+LOT-0231,Kenya,Kenya,,,Sl28,Washed / Wet,2013,2013,250.5,8.0,0,0,Green
+LOT-0232,Indonesia,Aceh Tengah,"Mus, Eman",Anton Gayo,Mandheling,Natural / Dry,2017,2017,,12.0,0,0,Blue-Green
+LOT-0233,Colombia,Huila,,Franklin Dussan / Hipolito Torres,Caturra,Washed / Wet,2017 / 2018,2017,442.0,,1,3,Green
+LOT-0234,Taiwan,"Nanxi Dist., Tainan City 臺南市楠西區",Chang Yu Liang 張玉良,Chang Yu Liang 張玉良,Typica,Washed / Wet,2016,2016,968.0,10.0,0,4,Blue-Green
+LOT-0235,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2014,2014,1775.0,,0,2,
+LOT-0236,Guatemala,Oriente,La Esperanza Y Anexos,Margarita Avila De Nuyens,Bourbon,Washed / Wet,2016,2016,,10.0,0,4,Green
+LOT-0237,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2012,2013,,11.0,1,9,Green
+LOT-0238,Mexico,Santo Domingo Cacalotepec,La Lagunilla,Andres Martinez Leon,Typica,Washed / Wet,2012,2012,1480.0,11.0,1,10,Green
+LOT-0239,Ethiopia,"Ethiopia, Sidamo",,,Other,Natural / Dry,2012,2012,1800.0,9.0,0,15,
+LOT-0240,Guatemala,"Aldea Xeucalvitz, Ixil Region, Quiche Department",Aprocafi,Asociacion De Productores De Cafe De La Region Ixil,Bourbon,Washed / Wet,2014,2014,1550.0,10.0,0,10,Blue-Green
+LOT-0241,Costa Rica,,,,,Washed / Wet,2017,2018,,8.0,1,13,
+LOT-0242,Kenya,Central Kenya,-,-,Sl28,Washed / Wet,2012,2012,1650.0,,0,0,Blue-Green
+LOT-0243,Thailand,Thailand,Doi Tung Development Project,Doi Tung Development Project,Other,Washed / Wet,2012,2012,,12.0,0,0,Green
+LOT-0244,Kenya,Blend,,Blend Of Various Producers,Sl34,Washed / Wet,2012,2013,1200.0,,0,2,Green
+LOT-0245,Colombia,Cauca,,,Caturra,Washed / Wet,2013,2013,1700.0,11.0,0,1,Green
+LOT-0246,Brazil,South Of Minas,Fazenda Rio Verde,Ipanema Coffees,Yellow Bourbon,Natural / Dry,2013/2014,2014,1260.0,10.0,0,0,Green
+LOT-0247,Ethiopia,Sidamo,,,Other,Natural / Dry,2013,2014,1550.0,9.0,4,40,Green
+LOT-0248,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2014,2014,1775.0,12.0,0,3,Green
+LOT-0249,Colombia,Santander,,,Caturra,Natural / Dry,2014,2014,1450.0,12.0,0,0,Green
+LOT-0250,Colombia,Huila,,,,Washed / Wet,2014,2014,1480.0,12.0,0,0,Green
+LOT-0251,Guatemala,Oriente,El Papaturro,Amilcar Lapola,Bourbon,Other,2014,2014,1219.2,10.0,0,0,Green
+LOT-0252,Guatemala,Oriente,El Papaturro,Amilcar Lapola,Bourbon,Natural / Dry,2014,2014,1219.2,10.0,0,1,Green
+LOT-0253,Colombia,Huila,,,Other,Washed / Wet,2014/2015,2014,1600.0,11.0,2,7,Green
+LOT-0254,Guatemala,Huehuetenango,Finca Los Cerros Y Anexos,Otoniel Villatoro Lopez,Caturra,Washed / Wet,2015,2015,1706.9,12.0,0,7,Green
+LOT-0255,Honduras,Comayagua,Las Cuchillas,Nahun Maldonado,Caturra,Washed / Wet,2017,2017,1500.0,10.0,0,5,Green
+LOT-0256,Ethiopia,Sidamo,Kerchanshe,Kerchanshe Trading P.L.C,Gesha,Natural / Dry,2017,2017,1800.0,11.0,3,1,Green
+LOT-0257,Uganda,Kasese,,,Other,Washed / Wet,2012,2012,1700.0,10.0,10,26,Green
+LOT-0258,Thailand,,Doi Tung Development Project,,,,2011,2011,,6.0,0,0,
+LOT-0259,Brazil,South Of Minas,Fazenda Capoeirnha,Ipanema Agricola S.A,Bourbon,Natural / Dry,2017 / 2018,2017,890.0,,0,3,Green
+LOT-0260,Colombia,Santander,,,Caturra,Natural / Dry,2014,2014,1550.0,12.0,0,3,Green
+LOT-0261,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2014,2014,1775.0,,0,1,Green
+LOT-0262,Colombia,Huila,,,,Washed / Wet,2014,2015,,,1,1,
+LOT-0263,Colombia,Huila,,,,Washed / Wet,2015,2015,,,0,0,
+LOT-0264,Mexico,Xicotepec De Juarez,Finca Cuetzalingo,Oscar Ortega Carballo,Typica,Washed / Wet,2012,2012,900.0,12.0,10,32,Blue-Green
+LOT-0265,Taiwan,台灣,Very Famous Intl.名門義理國際股份有限公司,Yang Teng Ko楊登嵙,,Natural / Dry,2014,2015,,,0,0,Blue-Green
+LOT-0266,Colombia,La Plata,,,,,2016,2016,,,1,5,
+LOT-0267,Taiwan,"Leye, Alishan Township, Chiayi County 嘉義阿里山樂野村",Tsoustructive Garden 鄒築園,"Fang,Zheng-Lun 方政倫",Typica,Washed / Wet,2015,2016,1200.0,11.0,0,3,Green
+LOT-0268,Colombia,Huila,,Franklin Dussan / Hipolito Torres,,,2016,2016,442.0,11.0,1,2,Green
+LOT-0269,Brazil,South Of Minas,Capoeirinha,Ipanema Agricola,Bourbon,Natural / Dry,2016,2016,934.0,11.0,0,7,Green
+LOT-0270,Thailand,Chiangrai,Saveg Coffee Farm,"Phatang, Saveg",Catimor,Natural / Dry,2015,2016,1350.0,10.0,0,1,Blue-Green
+LOT-0271,Mexico,Veracruz,Cafetal,Cafes Tomari Sa De Cv,Mundo Novo,Washed / Wet,2017,2017,1300.0,11.0,0,5,Green
+LOT-0272,Taiwan,台中和平區,神谷山莊園,張瑞宏,Typica,Washed / Wet,2014,2014,950.0,6.0,0,0,Green
+LOT-0273,Mexico,La Concordia,Finca Sant Rosa,Arturo Lievano Moreno,Typica,Washed / Wet,2012,2012,1500.0,11.0,0,2,
+LOT-0274,Mexico,La Yerbabuena,Comunidad La Yerbabuena,Coop,Typica,Washed / Wet,2012,2012,1400.0,,0,2,Green
+LOT-0275,Colombia,Nariño,,Jose Albeiro Gomez,Caturra,Washed / Wet,2017,2017,2527.0,,1,6,Green
+LOT-0276,Ecuador,"Province Of Manabi, Ecuador",Finca El Trueno,,,Natural / Dry,2013,2013,800.0,9.0,0,0,Blue-Green
+LOT-0277,Guatemala,Oriente,El Papaturro,Amilcar Lapola,Bourbon,Washed / Wet,2014,2014,1219.2,10.0,0,1,Green
+LOT-0278,Costa Rica,Central Valley,Various,Varios,Catuai,Washed / Wet,2013,2014,1300.0,10.0,0,3,Green
+LOT-0279,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Bourbon,Semi-washed / Semi-pulped,2014/2015,2014,1200.0,,0,1,Green
+LOT-0280,Colombia,Huila,,,Caturra,Washed / Wet,2013,2013,1750.0,11.0,0,1,Green
+LOT-0281,Ethiopia,Oromia,,Sumeya Yasin,,Natural / Dry,2014,2015,1676.5,12.0,0,4,Green
+LOT-0282,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",鄉舍咖啡 Hometown Coffee,Zeng Jian Nan 曾建男,Typica,Washed / Wet,2014,2015,525.0,,0,1,Green
+LOT-0283,Taiwan,台灣,優遊吧斯股份有限公司Yuyupas International Corp.,鄭虞坪,,,2016,2016,1200.0,,0,0,
+LOT-0284,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Yellow Bourbon,Natural / Dry,2015/2016,2015,,,0,0,Green
+LOT-0285,Guatemala,Antigua,Finca Medina,Finca Medina,Bourbon,Washed / Wet,2016,2016,1500.0,11.0,0,6,Green
+LOT-0286,Costa Rica,Tarrazu,Gamboa,Martin Gutierrez,Caturra,Washed / Wet,2015,2016,1850.0,,0,0,Blue-Green
+LOT-0287,Colombia,Huila,,La Plata,Caturra,,2016,2017,,,1,0,Green
+LOT-0288,Brazil,South Of Minas,Fazenda Rio Verde,Ipanema Coffees,Yellow Bourbon,Natural / Dry,2013/2014,2013,1260.0,10.0,0,0,Green
+LOT-0289,Thailand,"Doi Chaang Village, Chiang Rai, Thialand","Doi Chaang Coffee Original Co.,Ltd",Doi Chaang Community Enterprise Piko,,,2011,2011,1499.9,2.0,0,2,
+LOT-0290,Brazil,Carmo De Minas,Fazenda Do Sertao,Nazareth Dias Pereira,Yellow Bourbon,Semi-washed / Semi-pulped,2011/2012,2011,1250.0,12.0,0,3,Green
+LOT-0291,Mexico,Petatlan,Predio Cañada Del Encino,Filemon Mendoza Campos,Bourbon,Natural / Dry,2012,2012,1218.0,10.0,0,2,Green
+LOT-0292,Mexico,"La Concordia, Chiapas",Finca Santa Teresa,Ernst Pohlenz Aguilar,Pacas,Natural / Dry,2012,2012,1300.0,11.0,0,4,
+LOT-0293,Ethiopia,Sidamo,"Phone Number | 0911-51-08-01, Email | At",Contact Name | Ato Teshome Belamo,,,2010,2010,,10.0,0,3,
+LOT-0294,Thailand,,Doi Tung Development Project,,,,2011,2011,,,0,0,
+LOT-0295,Guatemala,Oriente,Finca El Morito,Roberto Monterroso,Bourbon,Washed / Wet,2013,2013,1310.6,11.0,0,3,Green
+LOT-0296,Uganda,Sheema South Western,Kyangundu Cooperative Society,Ankole Coffee Producers Coop,,,2013,2014,1488.0,12.0,0,2,Green
+LOT-0297,Colombia,Huila,,Franklin Dussan / Hipolito Torres,Caturra,Washed / Wet,2017,2017,442.0,11.0,0,1,Green
+LOT-0298,Taiwan,"台南市東山區 (Dongshan Dist., Tainan City)",崁頭山咖啡館 (Kan Tou Mountain Coffee),曾如楓 & 郭俊宏 (Tseng Ju Feng & Kuo Jun Hong),Typica,Natural / Dry,2016,2017,750.0,,0,0,Green
+LOT-0299,Colombia,Huila,,La Plata,,Washed / Wet,2016,2017,,,1,4,Green
+LOT-0300,China,Yunnan,Pu’Er Specialty Coffee Cupping Center,Pu’Er Specialty Coffee Cupping Center,Catimor,Washed / Wet,2015,2016,1650.0,10.0,0,2,Green
+LOT-0301,Colombia,Huila,,Franklin Dussan,Caturra,Natural / Dry,2015/2016,2015,442.0,,0,0,Green
+LOT-0302,Uganda,West Nile,Erussi Farmers Group,Nile Highland Arabica Coffee Farmers,Bourbon,Natural / Dry,2013,2014,1400.0,12.0,0,0,Green
+LOT-0303,Brazil,South Of Minas,Fazenda Capoeirnha,Ipanema Agricola S.A,Bourbon,Natural / Dry,2017 / 2018,2017,890.0,11.0,0,5,Green
+LOT-0304,United States (Puerto Rico),Yauco Region,Hacienda Caracolillo,Hacienda Alto Grande,Other,Washed / Wet,2013,2014,853.4,12.0,0,1,Green
+LOT-0305,Kenya,Nyeri,,Karogoto,Sl28,Washed / Wet,,2018,1800.0,11.0,0,2,Green
+LOT-0306,United States (Hawaii),Kona,,,,,,2010,,,0,0,
+LOT-0307,Colombia,Huila,,,Caturra,Washed / Wet,2013,2013,1750.0,11.0,0,3,Green
+LOT-0308,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2013,2013,,,0,0,Blue-Green
+LOT-0309,Mexico,"Huazalingo, Hidalgo",Naranjal,"Martinez Magdalena, Agapita",Caturra,Natural / Dry,2012,2012,700.0,13.0,5,5,
+LOT-0310,Guatemala,Quetzaltenango,Several Farms,Several Producres,Caturra,Washed / Wet,2012,2012,1300.0,11.0,0,1,Blue-Green
+LOT-0311,Colombia,Cauca,,Carlos Peneche/Jesus Peneche/Flor Chacón,,,January 2011,2011,1600.0,10.0,0,1,
+LOT-0312,Colombia,Cundinamarca,,,,,4T/10,2011,1600.0,6.0,0,1,
+LOT-0313,Colombia,Huila,,,Caturra,Washed / Wet,2013,2013,1750.0,,0,1,Blue-Green
+LOT-0314,Colombia,Huila,,,Other,Washed / Wet,2014,2014,1550.0,,0,3,Green
+LOT-0315,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2014,2014,1775.0,,0,5,Green
+LOT-0316,Brazil,South Of Minas,Fazenda Capoeirnha,Ipanema Agricola S.A,Bourbon,Natural / Dry,2017 / 2018,2017,890.0,11.0,0,2,Green
+LOT-0317,Taiwan,"Leye, Alishan Township, Chiayi County",Tsoustructive Garden 鄒築園,"Fang,Zheng-Lun 方政倫",Caturra,Natural / Dry,2015,2016,1200.0,10.0,0,0,Blue-Green
+LOT-0318,Brazil,South Of Minas,Capoeirinha,Ipanema Agricola,Bourbon,Natural / Dry,2016,2016,934.0,11.0,0,3,Green
+LOT-0319,Honduras,Comayagua,Los Hicaques,Reinerio Zepeda,Caturra,Washed / Wet,2016,2017,1400.0,10.0,0,2,Green
+LOT-0320,Kenya,Meru County,,Nchoroiboro / Kiriani Factory,Sl28,Washed / Wet,2017,2017,1700.0,11.0,0,0,Blue-Green
+LOT-0321,Nicaragua,Jinotega,Santa Matilde,Ronaldo Lacayo Cardenal,Caturra,Washed / Wet,2016,2017,1250.0,10.0,0,3,Green
+LOT-0322,United States (Hawaii),,,,,,,2011,,,0,0,
+LOT-0323,Guatemala,"Sacatepequez, Guatemala",Finca Medina,"Siembras Vision, S.A",Caturra,Washed / Wet,2012,2012,1524.0,10.0,0,0,Green
+LOT-0324,Indonesia,East Java,"Ijen Highland, East Java",Pt. Perkebunan Nusantara Xii,Typica,Washed / Wet,2012,2012,1400.0,12.0,0,0,Green
+LOT-0325,Mexico,Xicotepec De Juarez,Finca Apoxtla,Juan Luis Ortega Carballo,Typica,Washed / Wet,2012,2012,1100.0,12.0,4,11,Green
+LOT-0326,Guatemala,Oriente,Agropecuaria Quiagral,Agropecuaria Quiagral,Bourbon,Washed / Wet,2012,2012,1310.6,11.0,0,13,Green
+LOT-0327,Guatemala,Oriente,Finca Quequesquez,Finca Quequesquez,Caturra,Natural / Dry,2012,2012,1450.0,11.0,0,1,Green
+LOT-0328,Colombia,Huila,,,Caturra,Washed / Wet,2012,2012,1750.0,11.0,0,1,Green
+LOT-0329,Guatemala,Oriente,El Sacramento,Luis Rodriguez,Bourbon,Washed / Wet,2013,2013,1310.6,11.0,0,2,Green
+LOT-0330,Guatemala,Oriente,La Union Monte Verde,"Agricola Monte Verde, S.A.",Bourbon,Washed / Wet,2013,2013,1310.6,12.0,1,3,Green
+LOT-0331,Colombia,Huila,,Huila,Caturra,Washed / Wet,2013,2013,1900.0,,0,1,Green
+LOT-0332,Colombia,Huila Supremo,Various,,Caturra,Washed / Wet,2013,2013,1750.0,,0,3,Green
+LOT-0333,Guatemala,Huehuetenango,Finca Las Cuevitas,Francisco Luis Martinez Lopez,Bourbon,Washed / Wet,2014,2014,1356.7,10.0,0,0,Green
+LOT-0334,Colombia,Huila,,Agrotello Coop,Caturra,Washed / Wet,2014/2015,2014,1625.0,11.0,0,4,
+LOT-0335,Thailand,Thailand,,Doi Tung Development Project,,Washed / Wet,2014,2015,800.0,12.0,0,0,Blue-Green
+LOT-0336,Costa Rica,West Valley,,,,,,2016,1350.0,11.0,0,1,Blue-Green
+LOT-0337,Mexico,Xalapa,Ojo De Agua,Julian Alberto Urrutia Moya,Typica,Washed / Wet,2012,2012,1000.0,12.0,0,2,
+LOT-0338,Colombia,Cundinamarca,,Orlando Ortiz/Wilson Sanchez/Gilberto Acosta,Caturra,Natural / Dry,2012,2012,2136.0,11.0,0,4,Green
+LOT-0339,Brazil,South Of Minas,Fazenda Jericó,Alvaro Resende Aguiar,Catuai,Semi-washed / Semi-pulped,2012,2012,1100.0,12.0,0,2,Blue-Green
+LOT-0340,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2012,2012,1775.0,11.0,0,3,Green
+LOT-0341,Colombia,Santander,,,Caturra,Washed / Wet,2014,2014,1550.0,12.0,0,1,Green
+LOT-0342,Colombia,Santander,,,Caturra,Washed / Wet,2014,2014,1550.0,,0,0,
+LOT-0343,Taiwan,Taichung Xinshe 台中市新社區,Dragon Coffee 龍咖啡,Gu Zhi Min 古智閔,Typica,Other,2013/2014,2013,1000.0,11.0,0,0,Green
+LOT-0344,China,Yunnan,Menglian Mang Pan Professional Cooperative,Menglian Mang Pan Professional Cooperative,Catimor,Washed / Wet,2015,2016,1100.0,10.0,0,4,Green
+LOT-0345,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2016,2016,,11.0,0,4,Green
+LOT-0346,Guatemala,Huehuetenango,Finca Santa Clara,Juan Ramirez Morales,Caturra,Washed / Wet,2016,2016,1128.4,11.0,0,0,Green
+LOT-0347,Colombia,Cundinamarca,,,Caturra,Natural / Dry,2014,2014,1600.0,,0,0,Green
+LOT-0348,Uganda,Eastern,Bulamburi Coffee Farmers,Bulamburi Coffee Farmers Association,Sl14,Washed / Wet,2013,2014,1800.0,12.0,0,5,Green
+LOT-0349,Ethiopia,Yirgacheffe,Lomi Tasha,Levelup,Other,Washed / Wet,2014,2015,1850.0,,0,7,
+LOT-0350,Mexico,"Chiapas, Jaltenango",Exportadora Café California,Exportadora Café California,Caturra,Washed / Wet,2014,2015,1200.0,12.0,1,13,Green
+LOT-0351,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2015,2015,1775.0,12.0,0,3,Green
+LOT-0352,Brazil,South Of Minas,Fazenda Capoeirnha,Ipanema Agricola S.A,Bourbon,Natural / Dry,2017 / 2018,2017,890.0,11.0,0,5,Green
+LOT-0353,Colombia,Huila,,,Caturra,Washed / Wet,2013,2013,1750.0,11.0,0,2,Green
+LOT-0354,Colombia,Cundinamarca,,Orlando Moreno / Willson Sanchez,Caturra,Washed / Wet,2016,2017,1799.0,,0,5,Blue-Green
+LOT-0355,Colombia,Huila,,,Caturra,Washed / Wet,2013,2013,1750.0,,1,1,Green
+LOT-0356,Honduras,Comayagua,Los Hicaques,Reynerio Zepeda,Caturra,Natural / Dry,2014/2015,2014,1350.0,10.0,0,3,Green
+LOT-0357,Colombia,Cundinamarca,,,Caturra,Washed / Wet,2014,2014,1650.0,,2,0,
+LOT-0358,Colombia,Huila,,,Caturra,Washed / Wet,2014,2015,1850.0,11.0,0,0,Green
+LOT-0359,Mexico,Xalapa,Finca Los Barreales 1112Lban,Manuel Herrera Juarez,Bourbon,Natural / Dry,2012,2012,1170.0,13.0,0,14,Green
+LOT-0360,Guatemala,Atitlan,Santo Tomas Pachuj,Rnp Santo Tomas Pachuj / Kanematsu Corporation,Caturra,Washed / Wet,2012,2012,1524.0,10.0,0,5,Green
+LOT-0361,Mexico,Chilón,,Armando Gutierrez Guzman,Typica,Semi-washed / Semi-pulped,2012,2012,940.0,11.0,0,12,Green
+LOT-0362,Colombia,Huila,,,,Washed / Wet,2014,2015,,,1,0,
+LOT-0363,Ethiopia,Oromia,,Debesa,,Natural / Dry,2014,2015,1600.0,10.0,1,18,
+LOT-0364,Indonesia,Bener Meriah,Yusrin,Yusrin,Sumatra,Semi-washed / Semi-pulped,2015,2015,1500.0,13.0,0,8,Blue-Green
+LOT-0365,Tanzania,Nkure- Meru,Ano Family,Mr & Mrs Damari Absalome,Ruiru 11,Washed / Wet,2015,2015,1400.0,13.0,0,21,Green
+LOT-0366,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2015,2015,1775.0,12.0,0,4,Green
+LOT-0367,Guatemala,Oriente,La Esperanza,Margarita Avila De Nuyens,Bourbon,Washed / Wet,2016,2016,1219.2,10.0,0,5,Blue-Green
+LOT-0368,Colombia,Pitalito,,Mecias Urbano / Yaniver Alvarez,Caturra,Natural / Dry,2016,2016,1000.0,,0,0,Green
+LOT-0369,Costa Rica,Tarrazu,,Martin Gutierrez,Caturra,Washed / Wet,2015,2016,1850.0,,0,0,Blue-Green
+LOT-0370,Taiwan,,南投縣魚池鄉水社村中正路63-1號,黑咖啡道王憲備0912326001,,,2016 / 2017,2017,,11.0,0,0,Blue-Green
+LOT-0371,Mexico,Totutla,La Corralera,Gabriel Bernard Rivas Ross,Pacamara,Washed / Wet,2012,2012,1400.0,12.0,0,0,Green
+LOT-0372,Indonesia,Bondowoso,Pancoer Angkrek,Pt. Perkebunan Nusantara Xii,,,23 July 2010,2010,1600.0,,0,0,
+LOT-0373,United States (Hawaii),,,,,,,2011,,,0,0,
+LOT-0374,Guatemala,Oriente,Conquista / Morito,Conquistamorito,Bourbon,Washed / Wet,2012,2012,1402.1,,3,12,Green
+LOT-0375,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2012,2012,1775.0,11.0,0,0,Green
+LOT-0376,India,Chikmagalur Karnataka Indua,Sethuraman Estate Kaapi Royale,Nishant Gurjer Kaapi Royale,,Washed / Wet,2017,2017,3170.0,,0,2,
+LOT-0377,Guatemala,Atitlan,Several,Unex,Caturra,Washed / Wet,2013,2014,1400.0,10.0,0,0,Green
+LOT-0378,Costa Rica,Tarrazu,Gamboa,Martin Gutierrez,Caturra,Washed / Wet,2016,2017,1850.0,9.0,0,4,Blue-Green
+LOT-0379,Colombia,Huila,,Franklin Dussan / Hipoloto Torres,Caturra,Washed / Wet,2016,2017,442.0,11.0,0,2,Green
+LOT-0380,Colombia,Huila,,Franklin Dussan/Andres Rodriguez/Hipolito Torres,Caturra,Natural / Dry,2015,2015,442.0,12.0,4,0,Green
+LOT-0381,Uganda,Eastern,Bulago & Buginyanya,Bulago & Buginyanya,Sl14,Washed / Wet,2015,2016,1800.0,11.0,0,1,Green
+LOT-0382,Taiwan,,日月潭文武莊園,黃素貞0939227229,,,2015,2017,,11.0,0,0,Blue-Green
+LOT-0383,El Salvador,Apaneca,La Joya,"Ibero El Salvador, S.A. De C.V.",Bourbon,Washed / Wet,2016,2016,1330.0,11.0,0,0,
+LOT-0384,Guatemala,San Marcos,Piamonte,Jorge Leal,Bourbon,Washed / Wet,2017,2017,1700.0,10.0,0,3,Green
+LOT-0385,Guatemala,Antigua,Finca Medina,"Siembras Visión, S.A.",Caturra,Washed / Wet,2014,2014,1500.0,10.0,0,2,Green
+LOT-0386,Guatemala,Oriente,El Morito,Roberto Monterroso,Bourbon,Washed / Wet,2013,2013,1310.6,11.0,0,0,Green
+LOT-0387,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2012,2013,,,0,2,Green
+LOT-0388,Colombia,Cundinamarca,Various,Exportadora De Cafe Condor,Caturra,Washed / Wet,2012,2012,1450.0,11.0,0,2,Green
+LOT-0389,Colombia,Huila,,,,,,2011,,10.0,1,3,
+LOT-0390,Thailand,Thailand,Matsuzawa Coffee,Matsuzawa Coffee,Catimor,Washed / Wet,2015,2016,1200.0,13.0,0,0,Blue-Green
+LOT-0391,Colombia,Huila,,Franklin Dussan / Hipolito Torres,Caturra,Washed / Wet,2017 / 2018,2017,439.0,,0,1,Green
+LOT-0392,Colombia,Huila,,,Caturra,Washed / Wet,2014/2015,2014,1813.0,12.0,0,1,Green
+LOT-0393,Tanzania,Karatu Northern,Ngila Estate,Ngila Estate Ltd,Bourbon,Washed / Wet,2014,2014,1600.0,13.0,0,4,Green
+LOT-0394,Brazil,Vale Da Grama,Cachoeira Da Grama Farm,Gabriel Carvalho Dias,Yellow Bourbon,Semi-washed / Semi-pulped,2014,2015,,12.0,0,6,Green
+LOT-0395,Guatemala,Oriente,El Papaturro,Amilcar Lapola,Bourbon,Natural / Dry,2013,2014,1219.2,10.0,0,1,Green
+LOT-0396,United States (Hawaii),Kona,Kona Pacific Farmers Cooperative,Kona Pacific Farmers Co-Op,,,2010,2010,,,0,0,
+LOT-0397,Thailand,,Doi Tung Development Project,Doi Tung Development Project,Peaberry,,,2010,,11.0,0,0,
+LOT-0398,Mexico,Nayarit,,"Productores De Cafe De El Cuarenteno, S. De P.R. De R.L",,,January Through April,2010,1050.0,9.0,2,4,
+LOT-0399,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Catuai,Semi-washed / Semi-pulped,2015/2016,2015,1227.0,10.0,1,5,Green
+LOT-0400,Guatemala,Oriente,El Sacramento,Luis Rodriguez,Bourbon,Washed / Wet,2013,2013,1310.6,11.0,0,3,Green
+LOT-0401,Colombia,Pitalito,,Orlando Ortiz / Hipolito Torres,Caturra,Natural / Dry,2013,2013,1000.0,11.0,0,1,Green
+LOT-0402,Colombia,Huila,Various,Various,Caturra,Washed / Wet,2016,2016,1650.0,,0,0,
+LOT-0403,United States (Hawaii),,,,,,,2011,,,0,0,
+LOT-0404,United States (Hawaii),Kona,,,,,,2011,,,0,0,
+LOT-0405,Colombia,Huila,,Condor,Caturra,Washed / Wet,2012,2012,1750.0,,0,1,Green
+LOT-0406,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2016,2016,,,1,2,Green
+LOT-0407,Colombia,Guayata,,,Caturra,Washed / Wet,2016,2016,,,0,0,Blue-Green
+LOT-0408,Tanzania,Arusha,Mondul Coffee Estate,Mondul Coffee Estate,Other,Semi-washed / Semi-pulped,2014,2014,1700.0,12.0,0,6,Green
+LOT-0409,Colombia,Santander,Various,Varios,Caturra,Washed / Wet,2015,2015,1650.0,11.0,0,1,Green
+LOT-0410,Haiti,"Thiotte, Haiti",Marre Blanche,Coopcab,Typica,Washed / Wet,2012,2013,1280.2,11.0,0,4,Green
+LOT-0411,Peru,,,,,Washed / Wet,2013,2014,,12.0,0,5,Green
+LOT-0412,Costa Rica,Central Valley,Several,Coricafe Blend,Catuai,Washed / Wet,2013,2014,1200.0,11.0,0,3,Green
+LOT-0413,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2014,2014,,11.0,0,1,Blue-Green
+LOT-0414,Costa Rica,San Ramon,Several,Several,Caturra,Washed / Wet,2014,2014,1300.0,12.0,0,3,Green
+LOT-0415,Mexico,Veracruz,El Pino,José Luis Andrade Sandara,Other,Washed / Wet,2013,2014,1100.0,12.0,0,0,Green
+LOT-0416,Mexico,Chiapas,Ecc,Ecc,Caturra,Washed / Wet,2014,2015,1200.0,12.0,0,2,Green
+LOT-0417,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2012,2013,,10.0,0,4,Blue-Green
+LOT-0418,Burundi,Kayanza,Sogestal Kayanza,,Bourbon,Washed / Wet,2012,2012,1880.0,,0,5,
+LOT-0419,Taiwan,南投國姓,以勒咖啡,蘇詠晴,Typica,Washed / Wet,2014,2014,800.0,10.0,0,0,Green
+LOT-0420,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2012,2013,,11.0,0,4,Blue-Green
+LOT-0421,Mexico,Chiapas,Various,Vrios Productores,Bourbon,Washed / Wet,2013,2013,1300.0,12.0,0,6,Green
+LOT-0422,Colombia,Eje Cafetero,,,Caturra,Natural / Dry,2014,2014,1483.0,,0,0,Green
+LOT-0423,Mexico,Veracruz,Finca Teocelo,Ernesto Rodriguez Luna,Mundo Novo,Washed / Wet,2012,2012,,13.0,0,7,Green
+LOT-0424,Guatemala,Oriente,Agropecuaria Quiagral,Agropecuaria Quiagral,Bourbon,Washed / Wet,2012,2012,1310.6,11.0,0,9,Green
+LOT-0425,Mexico,Fortín De Las Flores,Mata Larga,Modesto Landeros Flores,Caturra,Washed / Wet,2012,2012,1000.0,12.0,0,0,Blue-Green
+LOT-0426,Taiwan,Natou County,Sunshine Valley Estate 向陽高山咖啡,Lin Yen Chien 林言謙,Bourbon,Washed / Wet,2015,2015,1000.0,10.0,0,0,Blue-Green
+LOT-0427,Mexico,Cuarenteño,Los Charcos,Rafael Arroyo Zoto,Typica,Natural / Dry,2015,2015,1261.0,12.0,0,2,Blue-Green
+LOT-0428,Colombia,Huila,,Franklin Dussan,Caturra,Natural / Dry,2015/2016,2015,442.0,,0,2,Green
+LOT-0429,Brazil,Campos Altos - Cerrado,,,,,2016,2016,,12.0,0,4,Green
+LOT-0430,Uganda,"Sipi, Mt Elgon",Kawacom Uganda Ltd Sipi Farmers Group,Kawacom Uganda Ltd,Sl14,Washed / Wet,2015,2016,,12.0,0,1,Green
+LOT-0431,Guatemala,Nuevo Oriente,Linda Vista,Pablo Chuy,Pacas,Washed / Wet,2016,2016,2100.0,11.0,0,7,Green
+LOT-0432,Costa Rica,Tarrazu,Coopellanobonito,Coopellanobonito,,Washed / Wet,2015,2016,,11.0,0,0,
+LOT-0433,Costa Rica,Tarrazu,Estate La Patricia,Manuel Montero,Catuai,Pulped natural / honey,2016,2017,1900.0,11.0,0,0,Green
+LOT-0434,Mexico,Sierra Madre Occidental,Corta Pico,Balbino Ramirez Flores,Typica,Washed / Wet,2017,2017,1600.0,11.0,0,0,Blue-Green
+LOT-0435,Colombia,Huila,,,Caturra,Washed / Wet,2012,2012,,12.0,0,1,Green
+LOT-0436,Colombia,Cauca,,,,,4t/2010,2011,1880.0,13.0,0,1,
+LOT-0437,Colombia,Huila,,,,,1T/2011,2011,1700.0,8.0,0,0,
+LOT-0438,Colombia,La Plata,,La Plata,Caturra,Washed / Wet,2012,2012,1775.0,11.0,0,0,Green
+LOT-0439,Colombia,Cundinamarca,,Exportadora De Café Cóndor S.A,,,4T/2010,2011,1800.0,4.0,0,1,
+LOT-0440,Brazil,Grama Valley,Água Limpa,Eliane De Andrade Cyrino Noqueira,Yellow Bourbon,Semi-washed / Semi-pulped,2012,2012,1200.0,11.0,0,1,Blue-Green
+LOT-0441,India,Chikmagalur,Sethuraman Estate,Nishant Gurjer,,,2015,2015,1000.0,,0,0,Green
+LOT-0442,Colombia,Huila,,,Caturra,Washed / Wet,2013,2013,1750.0,11.0,0,1,Green
+LOT-0443,Guatemala,Antigua,Finca Medina,"Siembras Visión, S.A.",Caturra,Washed / Wet,2014,2014,1500.0,10.0,0,1,Green
+LOT-0444,China,Yunnan,Chen Lin,Mojiang Jinggong Estate Speciality Development Co.Ltd,Catimor,Washed / Wet,2015,2016,1200.0,11.0,0,0,Green
+LOT-0445,Tanzania,Moshi,Mamsera,Mamsera,Bourbon,Washed / Wet,2016,2017,,12.0,0,3,Green
+LOT-0446,Guatemala,Oriente,Beneficio El Torreon,Agroindustrias Cafetaleras,Bourbon,Washed / Wet,2017,2017,1901.0,10.0,0,1,Green
+LOT-0447,Peru,,,,,,2017,2017,,11.0,0,0,Green
+LOT-0448,Tanzania,Kilimanjaro,,,Bourbon,Washed / Wet,2014,2014,1800.0,12.0,0,1,Green
+LOT-0449,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2013,2014,,11.0,0,0,Blue-Green
+LOT-0450,Brazil,South Of Minas,Fazenda Capoeirnha,Ipanema Agricola S.A,Bourbon,Natural / Dry,2017 / 2018,2017,890.0,11.0,0,4,Green
+LOT-0451,Guatemala,Oriente,Finca El Morito,Roberto Monterroso,Bourbon,Washed / Wet,2013,2013,1310.6,11.0,0,2,Green
+LOT-0452,Guatemala,San Marcos,Nueva Granada,"Agricola Nueva Granada, S.A.",Catuai,Washed / Wet,2014,2014,1524.0,9.0,0,1,Green
+LOT-0453,Vietnam,Dala,Apollo Estate,"Yeh, Li Chuan",Catimor,Natural / Dry,2017,2017,1550.0,7.0,0,0,
+LOT-0454,Guatemala,Antigua,Finca Medina,Finca Medina,Caturra,Washed / Wet,2016,2016,1500.0,11.0,2,3,Green
+LOT-0455,Honduras,Marcala,Bethel,Jose Omar Acosta,Catuai,Washed / Wet,2016,2016,1450.0,11.0,0,1,Blue-Green
+LOT-0456,Mexico,San Bartolo Tutotepec,La Loma,"Trejo Velasco, Roman",Pacamara,Washed / Wet,2012,2012,1089.0,14.0,0,10,
+LOT-0457,Mexico,"Tlanchinol, Hidalgo",Tlapacoya,Amador Hernandez Dionicio,Typica,Washed / Wet,2012,2012,532.0,12.0,3,8,
+LOT-0458,Honduras,Comayagua,Los Hicaques,Reynerio Zepeda,Caturra,Natural / Dry,2014/2015,2014,1350.0,11.0,0,3,Green
+LOT-0459,Honduras,San Marcos,El Cerron,Nelson Melgar Melgar,Catuai,Natural / Dry,2013,2014,1450.0,10.0,0,5,Green
+LOT-0460,Tanzania,Mbinga,Myanganyanga,Tutunze Kahawa Ltd,Other,Washed / Wet,2014,2014,1653.0,13.0,0,6,Blue-Green
+LOT-0461,Colombia,,Unkown,Unkown,,Washed / Wet,2014,2014,,11.0,10,3,Green
+LOT-0462,Uganda,Eastern,Kaptanya,Kabum Trading Company,Sl14,Washed / Wet,2014,2014,1800.0,10.0,0,0,Blue-Green
+LOT-0463,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2014,2014,1775.0,,0,4,
+LOT-0464,Guatemala,Antigua,Finca Medina,Finca Medina,Bourbon,Washed / Wet,2015,2015,1500.0,11.0,0,1,Green
+LOT-0465,El Salvador,Apaneca,Agua Caliente,Ecom Agroindustrial Corp. Ltd.,Bourbon,Washed / Wet,2016,2016,1350.0,,0,0,Green
+LOT-0466,China,Dehong Prefecture,Yunnan Success Trade Co.Ltd,Yunnan Success Trade Co.Ltd,Catimor,Washed / Wet,2015,2016,1600.0,10.0,0,3,Green
+LOT-0467,Ethiopia,Limu,Tega And Tula Special Coffee Farm,Tega And Tula Special Coffee Farm,,,August to December,2010,1850.0,,0,0,
+LOT-0468,Brazil,South Of Minas,Olhos D'Agua,Mario Dornelles Alvarenga,,,2011,2011,900.0,2.0,0,2,
+LOT-0469,Thailand,Thailand,,Doi Tung Development Project,,Washed / Wet,2014,2015,800.0,12.0,0,0,Blue-Green
+LOT-0470,Kenya,Kenya,,,Sl28,Washed / Wet,2014,2015,250.5,10.0,0,1,Blue-Green
+LOT-0471,Guatemala,Oriente,"La Esperanza, Margarita Nuyes",Papaturro,Bourbon,Washed / Wet,2015,2015,1650.0,12.0,0,3,Green
+LOT-0472,Mexico,Chiapas,Santa Cecilia,Margarito Roblero Vazquez,Typica,Washed / Wet,2013,2013,1500.0,11.0,0,2,Green
+LOT-0473,El Salvador,Santa Ana,Several,Several,,,2010-2011,2011,1200.0,14.0,0,3,
+LOT-0474,Brazil,Mogiana,São Francisco Da Serra,Maria Aparecida Ferreira Azevedo,Mundo Novo,Natural / Dry,2012,2012,950.0,11.0,0,4,Green
+LOT-0475,Brazil,South Of Minas,Campo Das Flores,Giovane Senna Bonacorssi,Mundo Novo,Natural / Dry,2012,2012,1000.0,12.0,0,1,Green
+LOT-0476,Mexico,La Concordia,Finca Nueva Linda,Octavio Moguel Farrera,Typica,Washed / Wet,2012,2012,1380.0,11.0,0,5,
+LOT-0477,Colombia,Huila,,,Caturra,Washed / Wet,2012,2012,1750.0,11.0,0,0,Blue-Green
+LOT-0478,Mexico,San Isidro,El Mirador,Fernando Mendoza Aparicio,Typica,Washed / Wet,2012,2012,700.0,13.0,0,5,Green
+LOT-0479,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2012,2012,1775.0,11.0,1,2,Green
+LOT-0480,Guatemala,Oriente,Conquista / Morito,Conquista / Morito,Bourbon,Washed / Wet,2012,2012,1402.1,,0,10,Green
+LOT-0481,Brazil,South Of Minas,Fazenda Do Lobo,Andrea Galvão Noqueira,Mundo Novo,Semi-washed / Semi-pulped,2011,2011,1000.0,12.0,0,3,Blue-Green
+LOT-0482,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2012,2012,,,1,4,
+LOT-0483,Mexico,Santa Catarina Juquila,Santa Maria,Maria Luisa Del Carmen Rojas Narvaez,Other,Washed / Wet,2012,2012,1400.0,10.0,0,1,
+LOT-0484,Indonesia,Dolok Sanggul,Lintong Nihuta,Pt. Menacom,,,2010,2010,1350.0,,0,0,
+LOT-0485,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2016,2017,,,1,5,Green
+LOT-0486,Colombia,Cundinamarca,,Orlando Moreno / Willson Sanchez,Caturra,Washed / Wet,2016,2017,1799.0,,0,4,Green
+LOT-0487,Guatemala,,,,,,,2010,,2.0,0,1,
+LOT-0488,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Kan Tou Mountain Coffee 崁頭山咖啡館,Tseng Ju Feng / Kuo Jun Hong 曾如楓 / 郭俊宏,Typica,Natural / Dry,2015,2015,750.0,,0,0,Green
+LOT-0489,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Yellow Bourbon,Natural / Dry,2015/2016,2015,,,0,3,Green
+LOT-0490,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2012,2013,,10.0,0,0,Blue-Green
+LOT-0491,Taiwan,Chiayi Alishan 嘉義縣阿里山鄉,Alishan Zou Zhu Yuan 阿里山鄒築園,Fang Zheng Lun 方政倫,Typica,Other,2013/2014,2013,1300.0,11.0,0,0,
+LOT-0492,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2013,2014,,12.0,0,8,Blue-Green
+LOT-0493,Costa Rica,Central Valley,Various,Varios,Catuai,Washed / Wet,2014,2014,1300.0,10.0,0,3,Green
+LOT-0494,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Bourbon,Washed / Wet,2014/2015,2014,1200.0,,0,1,Green
+LOT-0495,Brazil,Chapadão De Ferro (Cerrado Mineiro),,,Mundo Novo,Natural / Dry,2015,2015,,11.0,0,13,Green
+LOT-0496,Colombia,Huila,,"Grupo Monserrate, La Plata",Caturra,,Mayo a Julio,2011,1775.0,,0,0,
+LOT-0497,Colombia,Cauca,,,,,47/2010,2011,1880.0,8.0,1,3,
+LOT-0498,Brazil,South Of Minas,Capoeirinha,Ipanema Agricola,Yellow Bourbon,Pulped natural / honey,2015,2016,905.0,11.0,0,2,Blue-Green
+LOT-0499,United States (Hawaii),Kona,,,Hawaiian Kona,Washed / Wet,2012,2012,,12.0,0,0,Green
+LOT-0500,Colombia,Huila,,,Caturra,Washed / Wet,2012,2012,1750.0,11.0,0,0,Green
+LOT-0501,Guatemala,"La Reforma, San Marcos",La Igualdad,"Nuevos Mercados, S.A.",Bourbon,Washed / Wet,2012,2012,1371.6,10.0,0,2,Green
+LOT-0502,Guatemala,Antigua,Grupo Medina (Pequeños Productores),Grupo Medina,Bourbon,Washed / Wet,2014,2014,1500.0,10.0,1,0,Green
+LOT-0503,Costa Rica,Central Valley,Several,Coricafe Blend,Catuai,Washed / Wet,2013,2014,1200.0,11.0,0,3,Green
+LOT-0504,Brazil,High Mogiana,Fazenda Santo Antonio,João Alves Toledo,Catuai,Natural / Dry,2014,2015,1000.0,,0,0,Green
+LOT-0505,Guatemala,Antigua,Finca Medina,Finca Medina,Bourbon,Washed / Wet,2015,2015,1500.0,11.0,0,2,Green
+LOT-0506,Guatemala,"El Tumbador, San Marcos",Nueva Granada,"Agricola Nueva Granada, S. A.",Catuai,Washed / Wet,2015,2015,1371.6,11.0,0,2,Green
+LOT-0507,Guatemala,Nuevo Oriente,El Chile,Ovidio Cardona,Catuai,Washed / Wet,2015,2015,1550.0,11.0,0,3,Green
+LOT-0508,Vietnam,Vietnam Cau Dat,Apollo Estate,"Yeh, Li Chuan.",Caturra,Other,2014,2015,1550.0,,0,0,Green
+LOT-0509,Colombia,Huila,,Franklin Dussan / Hipolito Torres,,,2016,2016,442.0,11.0,0,4,Green
+LOT-0510,Uganda,"Kasese, Mt. Rwenzori",Ibanda Farmers Group,Emmanuel Munaaba,Bourbon,Natural / Dry,2015,2016,1645.0,12.0,0,8,Green
+LOT-0511,Uganda,"Kasese, Mt. Rwenzori",Isule Farmers Group,Xavier Baluku,Bourbon,Washed / Wet,2015,2016,1473.0,12.0,0,6,Green
+LOT-0512,Brazil,South Of Minas,Capoeirinha,Ipanema Agricola,Bourbon,Natural / Dry,2016,2016,872.0,11.0,0,3,Blue-Green
+LOT-0513,Brazil,South Of Minas,Fazenda Capoeirnha,Ipanema Agricola,Bourbon,Natural / Dry,2016,2016,894.0,11.0,0,5,Green
+LOT-0514,Brazil,South Of Minas,Fazenda Capoeirnha,Ipanema Agricola S.A,Bourbon,Natural / Dry,2017 / 2018,2017,890.0,,0,4,Green
+LOT-0515,Colombia,Cauca,,,,,Abril - Julio,2011,1450.0,8.0,0,1,
+LOT-0516,Thailand,,Doi Tung Development Project,,,,2011,2011,,28.0,0,0,
+LOT-0517,United States (Puerto Rico),Yauco Region,Hacienda Caracolillo,Hacienda Alto Grande,Other,Washed / Wet,2013,2014,853.4,,0,0,Blue-Green
+LOT-0518,Uganda,Kapchorwa,Kabeywa County,Kucofa Farmers Group,Sl14,Washed / Wet,2013,2014,1800.0,12.0,0,0,Green
+LOT-0519,Taiwan,嘉義阿里山,雅慕伊,雅慕伊,Typica,Washed / Wet,2014,2014,1200.0,8.0,0,0,Green
+LOT-0520,Uganda,Luwero Central Region,Katikamu Capca Farmers Association,Katuka Development Trust Ltd,,,2013,2014,1250.0,12.0,0,3,Green
+LOT-0521,United States (Hawaii),,,,,,,2011,,,0,1,
+LOT-0522,Colombia,La Plata,,La Plata,Caturra,Washed / Wet,2011,2011,1775.0,12.0,0,0,Blue-Green
+LOT-0523,Colombia,Huila,Various,Varios,Caturra,Washed / Wet,2012,2012,1625.0,,0,4,Green
+LOT-0524,Mexico,Coatepec,Vegas,Gonzalo Rivero Puerto,Typica,Washed / Wet,2012,2012,750.0,11.0,0,20,Green
+LOT-0525,Colombia,,,Exportadora Condor,Arusha,Natural / Dry,2012,2012,,,1,4,
+LOT-0526,Mexico,Coatepec,Las Lomas,Franco Colorado Dominguez,Bourbon,Washed / Wet,2012,2012,1200.0,11.0,5,8,Green
+LOT-0527,Mexico,Atoyac De Alvarez,Finca La Estancia,Santiago Solis Ayerdi,Typica,Semi-washed / Semi-pulped,2012,2012,1200.0,11.0,0,7,Green
+LOT-0528,Colombia,Huila,,,Caturra,Washed / Wet,2013,2013,1750.0,,0,0,Green
+LOT-0529,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2013,2013,1775.0,11.0,1,1,Green
+LOT-0530,Brazil,Sul De Minas,Sertao Farm,Nazareth Dias Pereira,Yellow Bourbon,Semi-washed / Semi-pulped,2013/2014,2014,1250.0,12.0,0,4,Blue-Green
+LOT-0531,United States (Hawaii),,,,,,,2011,,,0,0,
+LOT-0532,Colombia,Huila,,Varios,,,4t/2011,2011,1800.0,6.0,0,2,
+LOT-0533,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2012,2012,1775.0,11.0,1,2,Green
+LOT-0534,Colombia,Pitalito,,Orlando Ortoz / Hipolito Torres,Caturra,Natural / Dry,2013,2013,1000.0,,0,2,Green
+LOT-0535,Colombia,Pitalito,,Coffee Company / Cafecol,Caturra,Natural / Dry,2013,2013,1000.0,11.0,0,1,Green
+LOT-0536,Thailand,,Doi Tung Development Project,Doi Tung Development Project,,,,2010,,,0,0,
+LOT-0537,Uganda,Central,Ugacof Project Area,Ugacof,,,2013,2014,1212.0,12.0,0,7,Green
+LOT-0538,Nicaragua,Matagalpa,Santa Rosa,Juan Augustinpalacio,Caturra,,2009-2010,2010,,7.0,0,0,
+LOT-0539,Mexico,La Cumbre,El Jabali,Werclein Hernandez Serrano Id.-1506728641,Typica,Washed / Wet,2012,2012,1400.0,14.0,1,4,Green
+LOT-0540,Guatemala,Antigua,Finca Medina,"Siembras Vision, S.A.",Bourbon,Washed / Wet,2014,2014,1500.0,10.0,0,1,Green
+LOT-0541,Philippines,"Bukidnon, Mindanao, Philppines",Kalugmanan Agri Development Corp.,Hineleban Foundation,Other,Washed / Wet,2015,2015,1200.0,11.0,0,1,Blue-Green
+LOT-0542,Mexico,Cuarenteño,Pinzoneno,Catalina Rodriguez Mayorga,Typica,Natural / Dry,2015,2015,1059.0,13.0,0,3,Blue-Green
+LOT-0543,Philippines,Asia Pacific,"Several, Bukidnon, Mindanao, Philippines",Ephemera Traders,Other,Washed / Wet,2014,2015,1600.0,,0,0,Blue-Green
+LOT-0544,El Salvador,Apaneca,Santa Josefita,"Balcanes Coffee Estates, S.A. De C.V.",Bourbon,Washed / Wet,2017,2017,1350.0,,0,1,Green
+LOT-0545,Brazil,South Of Minas,Fazenda Capoeirnha,Ipanema Agricola S.A,Bourbon,Natural / Dry,2017 / 2018,2017,890.0,,0,0,Green
+LOT-0546,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Shi Fang Yuan 十方源,Wang Chao Yung 王超永,Caturra,Natural / Dry,2016,2016,350.0,9.0,31,0,Green
+LOT-0547,Mexico,Chiapas,Fiech (Mixed Producers),Fiech,Bourbon,Washed / Wet,2015,2015,1300.0,12.0,2,8,Blue-Green
+LOT-0548,Brazil,Cerrado,Fazenda Pantano,Gerson Naimeg,Moka Peaberry,Semi-washed / Semi-pulped,2014/2015,2014,,11.0,0,16,Green
+LOT-0549,Colombia,Guayata,,,Caturra,Washed / Wet,2017,2017,1500.0,11.0,0,1,Green
+LOT-0550,Taiwan,台東太麻里,佐佑品咖啡莊園,許文郎,Typica,Natural / Dry,2014,2015,775.0,,0,9,Green
+LOT-0551,Ethiopia,"Blida,Kercha,Guji,Oromia",-,-,Ethiopian Heirlooms,Washed / Wet,2016,2016,2000.0,,1,20,Blue-Green
+LOT-0552,Colombia,Huila,,,Caturra,Natural / Dry,2013,2013,1750.0,,0,0,Blue-Green
+LOT-0553,Uganda,West Nile,Nyapea Coffee Farmers,Nyapea Coffee Farmers Association,Sl14,Washed / Wet,2013,2014,1400.0,12.0,0,4,Green
+LOT-0554,Colombia,Cauca,,,,,Abril - Julio /2011,2011,1450.0,15.0,0,0,
+LOT-0555,United States (Hawaii),Kona,,,Hawaiian Kona,Washed / Wet,2012,2012,,10.0,0,0,Green
+LOT-0556,Thailand,,Doi Tung Development Project,Doi Tung Development Project,,,,2010,,,0,0,
+LOT-0557,Vietnam,Don Duong,"Apollo Co., Ltd.","Apollo Co., Ltd.",Other,Natural / Dry,2012,2012,1040.0,,0,17,
+LOT-0558,Colombia,Antioquia,,,Other,Washed / Wet,2013,2013,1450.0,11.0,3,5,Green
+LOT-0559,Mexico,Petatlan,El Regalito,Maria Guadalupe Gomez Anzo,Typica,Natural / Dry,2012,2012,1248.0,10.0,0,4,Green
+LOT-0560,Guatemala,,,,,Washed / Wet,2012,2013,,10.0,0,4,Green
+LOT-0561,Colombia,Huila,,,Caturra,Washed / Wet,2013,2013,1900.0,11.0,0,2,Green
+LOT-0562,Uganda,Eastern,Sipi Organic Coffee Project,Sipi Organic Coffee Project,Sl14,Washed / Wet,2013,2014,1650.0,12.0,0,0,Green
+LOT-0563,Guatemala,Huehuetenango,Finca Los Cerros Y Anexos,Ottoniel Villatoro Lopez,Bourbon,Washed / Wet,2013,2013,1706.9,11.0,0,2,Green
+LOT-0564,Guatemala,Antigua,Finca Medina,"Siembras Visión, S.A.",Caturra,Natural / Dry,2014,2014,1500.0,10.0,0,2,Green
+LOT-0565,El Salvador,Santa Ana,Several Farms,La Majada Cooperative,,,2010-2011,2011,1200.0,,1,3,
+LOT-0566,Mexico,La Concordia,Finca Nueva Linda,Octavio Moguel Farrera,Typica,Washed / Wet,2012,2012,1380.0,11.0,0,2,
+LOT-0567,Kenya,Nyeri,Jungle Estate,Keremara Limited,Sl28,Washed / Wet,2017,2017,1754.0,10.0,0,3,Green
+LOT-0568,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2013,2013,1775.0,11.0,0,3,Green
+LOT-0569,Tanzania,Arusha,Burka Coffee Estate,Burka Coffee Estate,Arusha,Washed / Wet,2012,2013,1400.0,11.0,0,5,Green
+LOT-0570,Mexico,La Concordia,,Armando Luis Pohlenz Martinez,Caturra,Washed / Wet,2012,2012,1550.0,12.0,2,10,Green
+LOT-0571,Mexico,Veracruz,Santa Rosa,Olivia Hernandez Virues,Bourbon,Washed / Wet,2012,2012,1250.0,12.0,0,7,Blue-Green
+LOT-0572,Guatemala,Oriente,Agropecuaria Quiagral,Agropecuaria Quiagral,Bourbon,Washed / Wet,2012,2012,1310.6,11.0,0,10,Green
+LOT-0573,Colombia,Santander,,Mrs. Galeano,Typica,Natural / Dry,2013,2014,1800.0,,4,4,Green
+LOT-0574,United States,Berastagi,"Kampung Keling, Jumaraj, Gurusinga, Gongsol",Pt. Olam Indonesia,Other,Other,2014,2015,1200.0,,0,9,
+LOT-0575,Guatemala,Antigua,Finca Medina,"Siembras Visión, S.A.",Bourbon,Washed / Wet,2014,2014,1500.0,10.0,0,4,Green
+LOT-0576,Rwanda,Gicumbi,Gicumbi,Bufcoffee_Gicumbi,Bourbon,Washed / Wet,2015,2016,1900.0,11.0,0,0,Blue-Green
+LOT-0577,Vietnam,Vietnam Tutra,Apollo Estate,"Yeh, Li Chuan",Other,Other,2014,2016,1040.0,11.0,11,0,Green
+LOT-0578,Guatemala,Oriente,El Papaturro,Amilcar Lapola,Bourbon,Washed / Wet,2015,2015,1219.2,11.0,0,2,Green
+LOT-0579,Brazil,Cerrado,Santa Fé 2,Antonio Batista Francisquine,Catuai,Natural / Dry,2015,2015,900.0,12.0,2,6,Green
+LOT-0580,Colombia,Huila,,Mercedes Narvaez,Other,Washed / Wet,2014,2015,1600.0,,0,1,
+LOT-0581,Guatemala,San Marcos,Piamonte,Jorge Leal,Bourbon,Washed / Wet,2017,2017,1700.0,11.0,1,2,Green
+LOT-0582,El Salvador,"El Balsamo, Quezaltepec",El Barbaro,"El Barbaro, S.A. De C.V.",Pacas,Washed / Wet,2016,2016,1250.0,,0,4,Green
+LOT-0583,Brazil,South Of Minas,Capoeirinha,Ipanema Agricola,Yellow Bourbon,Pulped natural / honey,2015,2017,905.0,11.0,0,2,Blue-Green
+LOT-0584,Guatemala,Santa Rosa,Linda Vista,Pablo Arturo Chuy Flores,Caturra,Washed / Wet,2017,2017,1800.0,11.0,0,8,Green
+LOT-0585,Guatemala,Santa Rosa,Providencia,Plantaciones Agropecuarias S.A,Caturra,Washed / Wet,,2018,1100.0,10.0,0,3,Green
+LOT-0586,Colombia,Antioquia,Several,Several,Caturra,Washed / Wet,2013,2014,1300.0,10.0,0,2,Green
+LOT-0587,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2013,2014,,10.0,0,0,Green
+LOT-0588,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2013,2014,,10.0,6,0,Blue-Green
+LOT-0589,Guatemala,Santa Rosa,Las Delicias,Otto Becker,Bourbon,Washed / Wet,2017,2017,1219.2,10.0,0,1,Green
+LOT-0590,Guatemala,Oriente,La Esmeralda,Jesus Ramirez,Bourbon,Washed / Wet,2017,2017,1219.2,10.0,0,1,Green
+LOT-0591,Colombia,Huila,,,Typica,Washed / Wet,2014,2014,,12.0,0,0,Green
+LOT-0592,Guatemala,Jalapa,El Morito,Roberto Monterroso,Pacas,Washed / Wet,2014,2014,1524.0,13.0,0,2,Green
+LOT-0593,Guatemala,San Marcos,Las Merceditas,Angel De Leon,Bourbon,Washed / Wet,2017,2017,1700.0,11.0,0,4,Green
+LOT-0594,Panama,Boquete,Hacienda La Esmeralda,Price Peterson,Catuai,Washed / Wet,2012,2012,1100.0,,0,4,Green
+LOT-0595,Colombia,South Huila,Supply Chain Ecom Cca S.A.,Supply Chain Ecom Cca S.A.,Caturra,Washed / Wet,2012,2012,1625.0,,0,0,Blue-Green
+LOT-0596,Indonesia,Sapan Toraja,Various,Vary Farm,Sulawesi,Other,2017,2017,1500.0,12.0,0,15,Blue-Green
+LOT-0597,Guatemala,El Progreso,La Esmeralda,Jesus Ramirez,Bourbon,Washed / Wet,2017,2017,,12.0,0,0,Green
+LOT-0598,Taiwan,"台南市東山區( Dongshan Dist., Tainan City)",大鋤花間 (Hoe Vs. Flower Coffee Farm),"林俊吉( Lin, Chun-Chi)",Yellow Bourbon,Natural / Dry,2016,2017,650.0,,0,0,Green
+LOT-0599,El Salvador,Cacahuatique,La Montaña,Soc. Coop. De Caf. De Ciudad Barrios De R.L.,Bourbon,Washed / Wet,2017,2017,1250.0,,0,4,
+LOT-0600,Costa Rica,Tarrazu,Gamboa,Martin Gutierrez,Caturra,Washed / Wet,2016,2017,1850.0,9.0,0,1,Blue-Green
+LOT-0601,Honduras,Comayagua,Los Hicaques,Reinerio Zepeda,Caturra,Natural / Dry,2017,2017,1400.0,9.0,0,6,Green
+LOT-0602,Brazil,South Of Minas,Capoeirinha,Ipanema Agricola,Yellow Bourbon,Pulped natural / honey,2015,2016,905.0,11.0,0,1,Blue-Green
+LOT-0603,China,Yunnan,Man Ganna Estate,"Puwen Lvyou Coffee Co.,Ltd",Catimor,Natural / Dry,2015,2016,1100.0,10.0,0,0,Green
+LOT-0604,China,Menglian,Pu'Er Lingdu Yunlin Coffee Co.Ltd,Pu'Er Lingdu Yunlin Coffee Co.Ltd,Catimor,Washed / Wet,2015,2016,1500.0,11.0,0,2,Green
+LOT-0605,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2014,2014,1775.0,,0,2,Blue-Green
+LOT-0606,Malawi,Mzuzu,Msese,Mzuzu Coffee Planters Coop Union,Gesha,Washed / Wet,2014,2014,1442.0,12.0,0,0,Blue-Green
+LOT-0607,Mexico,Veracruz,Tlamatoca,Francisco R. De La Vequia Bernardi,Typica,Washed / Wet,2012,2012,1200.0,12.0,0,0,
+LOT-0608,Mexico,Chiapas,San Lorenzo,Carlos O. Velazco Lopez,Typica,Washed / Wet,2013,2013,1550.0,12.0,0,6,Green
+LOT-0609,Mexico,Atoyac De Alvarez,,Romulo Bello Flores,Typica,Natural / Dry,2012,2012,1200.0,12.0,1,4,
+LOT-0610,United States (Hawaii),Kona,,,,,,2010,,,0,2,
+LOT-0611,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2012,2012,1775.0,11.0,0,3,Green
+LOT-0612,United States (Hawaii),Kona,,,Hawaiian Kona,Washed / Wet,2012,2012,,12.0,0,0,Green
+LOT-0613,India,Chikmagalur,,Sethuraman Estates,,,2012,2012,3000.0,,0,0,Green
+LOT-0614,Brazil,Monte Carmelo,Santa Maria,Manoel Cardoso And Galileo Cardoso,Catuai,Natural / Dry,2014,2015,,12.0,0,9,
+LOT-0615,Brazil,South Of Minas,Capoeirinha,Ipanema Agricola,Bourbon,Natural / Dry,2016,2016,934.0,11.0,0,3,Blue-Green
+LOT-0616,Laos,"Paksong,Laos",Savan Coffee Bean,"Paksong,Laos",Catimor,Washed / Wet,2015,2016,1300.0,13.0,0,0,Blue-Green
+LOT-0617,Brazil,South Of Minas,Capoeirinha,Ipanema Agricola S.A,Bourbon,Natural / Dry,2017 / 2018,2017,890.0,,0,4,Green
+LOT-0618,Mexico,Mexico,Kassandra,Finca Kassandra,Blue Mountain,,2010-2011,2011,1400.0,,0,1,
+LOT-0619,United States (Hawaii),Kona,,,,,,2011,,3.0,2,0,
+LOT-0620,Mexico,Veracruz,Gabriel Bernard Rivas Ross,Finca Kassandra,,,2016,2016,1300.0,11.0,0,3,Green
+LOT-0621,Colombia,Huila,,,,Washed / Wet,2015,2015,,,1,9,Green
+LOT-0622,El Salvador,"El Balsamo, Quezaltepec",El Barbaro,"El Barbaro, S.A. De C.V.",Pacas,Washed / Wet,2016,2016,1200.0,,0,7,Green
+LOT-0623,Mexico,Mahuixtlan,Finca Castillos,Maria De Lourdes Ancira Elizondo,Typica,Washed / Wet,2012,2012,950.0,12.0,0,0,
+LOT-0624,Colombia,52 Narino (Exact Location: Mattituy; Municipal Region: Florida Code 381,La Canada,Mariana Cabrera Pantoja; I.D.: 27 423 625,,,Spring 2011 in Colombia.,2011,3850.0,11.0,0,0,Green
+LOT-0625,Mexico,,Finca Monte Grande,Amin Javier Moises Ceja,Other,Washed / Wet,2012,2012,1100.0,11.0,0,2,
+LOT-0626,Colombia,,,,,,2009-2010,2010,,21.0,0,2,
+LOT-0627,Colombia,Huila,,,,,4T/10,2011,1800.0,8.0,0,3,
+LOT-0628,Tanzania,Karatu Arusha,Nitin,Nitin Coffee Estate,Other,Washed / Wet,2014,2014,1700.0,12.0,0,0,Green
+LOT-0629,Tanzania,Mbinga,Ampcg,Taylor Winch (T) Ltd,Bourbon,Washed / Wet,2014,2014,1550.0,12.0,0,4,Green
+LOT-0630,Taiwan,嘉義阿里山,伊娜咖啡莊園,林道明,Typica,Washed / Wet,2014,2014,1200.0,8.0,0,0,Green
+LOT-0631,Colombia,Huila,,,Caturra,Washed / Wet,2012,2013,1800.0,11.0,0,3,Blue-Green
+LOT-0632,Uganda,Mt Elgon,Bugisu Shamba,Kawacom Uganda Ltd,Sl14,Washed / Wet,2013,2014,1650.0,12.0,0,0,Green
+LOT-0633,Taiwan,Chiayi Alishan 嘉義縣阿里山鄉,Zhuo Wu Shan Coffee 卓武山咖啡農場,Xu Ding Ye 許定燁,Typica,Washed / Wet,2013/2014,2013,1240.0,11.0,0,0,Green
+LOT-0634,Thailand,Phahi,M10,Koju Matsuzawa,Caturra,Washed / Wet,2013,2013,1500.0,11.0,0,0,Blue-Green
+LOT-0635,Guatemala,Antigua,Finca Medina,-,Caturra,Washed / Wet,2012,2012,1500.0,11.0,0,0,Green
+LOT-0636,El Salvador,,,,Other,Washed / Wet,2012,2012,,,0,17,
+LOT-0637,Thailand,Thailand,Doi Tung Development Project,Doi Tung Development Project,Other,Washed / Wet,2012,2012,,12.0,0,0,Blue-Green
+LOT-0638,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Yellow Bourbon,Natural / Dry,2015/2016,2015,,,0,0,Green
+LOT-0639,Mexico,La Yerba,Los Llanitos,Avelino Chavez Reyna,Typica,Natural / Dry,2014,2014,1296.0,11.0,0,0,Green
+LOT-0640,Colombia,Huila,Various,Varios,Caturra,Washed / Wet,2012,2012,1750.0,11.0,0,3,
+LOT-0641,India,Chikmagalur,Sethuraman Estates,Nishant Gurjer,,,2014,2014,750.0,,0,0,Green
+LOT-0642,Thailand,Chiangrai,,"Coffeas Co., Ltd.",Caturra,Washed / Wet,2014,2015,1450.0,12.0,0,1,Blue-Green
+LOT-0643,Brazil,Campos Altos - Cerrado,,,,,2016,2015,,,1,2,Green
+LOT-0644,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2012,2012,1775.0,11.0,2,2,Green
+LOT-0645,Thailand,Thailand,,Doi Tung Development Project,,Washed / Wet,2014,2015,800.0,12.0,0,0,Green
+LOT-0646,Indonesia,Aceh,Small Holders Farmer,Small Holders Farmer,Typica,Semi-washed / Semi-pulped,2015,2015,1250.0,13.0,0,6,Blue-Green
+LOT-0647,Taiwan,國姓鄉 Guoshing Township,林園咖啡 Lin Yuan Coffee,林文弘 Lin Wen Hong,Typica,Pulped natural / honey,2016,2017,1050.0,11.0,0,0,Green
+LOT-0648,Brazil,South Of Minas,,,,Pulped natural / honey,2016,2017,,11.0,0,7,Green
+LOT-0649,Guatemala,Oriente,La Esmeralda,Jesus Ramirez,Bourbon,Washed / Wet,2017,2017,1219.2,10.0,0,2,Green
+LOT-0650,Colombia,Huila,,,Caturra,Washed / Wet,2013,2013,1750.0,11.0,0,0,Green
+LOT-0651,Mexico,Oaxaca,Jamaica,Guillermo Rojas Saldaña,Typica,Washed / Wet,2012,2012,1250.0,10.0,0,6,Green
+LOT-0652,Taiwan,Changhua Baguashan 彰化市八卦山,台中市新社區崑山里,陳勝樂0912326001,,,2016 / 2017,2017,200.0,11.0,0,0,Blue-Green
+LOT-0653,Guatemala,,,,,Natural / Dry,2012,2013,,,0,4,Blue-Green
+LOT-0654,Mexico,Veracruz,,Huatusco,,Washed / Wet,2014,2014,,,0,11,Green
+LOT-0655,Uganda,Eastern,Mt.Elgon Sipi Falls Cheema,Sipi Organic Coffee Project,Sl14,Natural / Dry,2013,2014,1650.0,12.0,0,0,Green
+LOT-0656,Costa Rica,Central Valley,Various,Varios,Catuai,Washed / Wet,2013,2014,1300.0,11.0,0,3,Green
+LOT-0657,Tanzania,Ikand Village,Lubanda Amcos,Tembo Coffee Company Ltd,Other,Washed / Wet,2014,2014,1317.0,12.0,0,1,
+LOT-0658,Colombia,Huila,Various,Varios,Caturra,Washed / Wet,2013,2013,1750.0,11.0,0,3,Blue-Green
+LOT-0659,Mexico,Colima,La Timbuchera; El Ocotito Y La Hortaliza,Federico Enciso Michel; Leodan Enciso Figueroa; Jaime Lopez Lopez,Typica,Washed / Wet,2012,2012,1150.0,12.0,0,0,Green
+LOT-0660,Brazil,South Of Minas,Fazenda Chamusca,Mario Garcia Reis Neto,Mundo Novo,,2011,2011,975.0,,0,4,
+LOT-0661,Brazil,South Of Minas,Fazenda Rio Verde,Ipanema Coffees,Yellow Bourbon,Semi-washed / Semi-pulped,2013/2014,2014,1260.0,11.0,0,0,Blue-Green
+LOT-0662,Thailand,Chiangrai,,"Coffeas Co., Ltd.",Caturra,Washed / Wet,2014,2015,1450.0,11.0,0,0,
+LOT-0663,Brazil,South Of Minas,Fazenda Capoeirnha,Ipanema Agricola S.A,Bourbon,Natural / Dry,2017 / 2018,2017,890.0,11.0,0,4,Green
+LOT-0664,Guatemala,Oriente,La Esperanza,Margarita Avila De Nuyens,Bourbon,Washed / Wet,2016,2016,1219.2,10.0,0,2,Green
+LOT-0665,Honduras,Comayagua,Las Cuchillas,Nahun Maldonado,Caturra,Washed / Wet,2017,2017,1400.0,10.0,0,4,Green
+LOT-0666,Guatemala,Oriente,Various,Various,Caturra,Natural / Dry,2012,2012,,11.0,0,5,Green
+LOT-0667,Brazil,Carmo De Minas,Fazenda Do Sertao,Nazareth Dias Pereira,Bourbon,Semi-washed / Semi-pulped,2012,2012,1250.0,,0,4,Blue-Green
+LOT-0668,Tanzania,Karatu Arusha,Shah Plantation,Shah Plantations,Other,Washed / Wet,2014,2014,1600.0,12.0,0,1,Green
+LOT-0669,Tanzania,Moshi,Amkeni,Amkeni Gourmet Coffee Group,Other,Washed / Wet,2014,2014,,12.0,0,3,Blue-Green
+LOT-0670,Mexico,Chiapas,Finca San El Retiro,Santiago & Rosaura Arguello Campos,Other,Washed / Wet,2013,2014,1600.0,,0,1,Green
+LOT-0671,Guatemala,Oriente,La Esperanza Y Anexos,Margarita De Nuyens,Bourbon,Washed / Wet,2013,2013,1310.6,11.0,0,0,Green
+LOT-0672,Colombia,Huila,,,Caturra,Washed / Wet,2013,2013,1750.0,11.0,0,1,Green
+LOT-0673,Guatemala,Oriente,La Union Monte Verde,"Agricola Monte Verde, S.A.",Bourbon,Washed / Wet,2013,2013,1310.6,12.0,0,4,Green
+LOT-0674,Mexico,San Bartolo Tutotepec,La Pagua,"Velasco San Agustin, Nazario",Typica,Washed / Wet,2012,2012,1679.0,13.0,0,10,
+LOT-0675,Mexico,Zapotitlan De Mendez,Caltuchoco,Enrique Mitre Lopez,Typica,Washed / Wet,2012,2012,1100.0,12.0,0,5,Green
+LOT-0676,Mexico,La Concordia,Santa Cruz - Pante Don Manuel,Susana Leticia Lopez Aguilar,Typica,Semi-washed / Semi-pulped,2012,2012,1650.0,11.0,0,2,
+LOT-0677,United States (Hawaii),Kona,,,Hawaiian Kona,Washed / Wet,2012,2012,,12.0,2,3,Green
+LOT-0678,Guatemala,Huehuetenango,,,,,,2010,1600.0,,1,14,
+LOT-0679,India,Chikmagalur Karnataka,Sethuraman Estate,Sethuraman Estate Kaapi Royale,Other,Washed / Wet,2015,2016,1000.0,9.0,0,0,Green
+LOT-0680,India,Chikmagalur Karnataka India,Sethuraman Estate Kaapi Royale,Nishant Gurjer Kaapi Royale,,Washed / Wet,2017,2017,3140.0,10.0,0,0,Blue-Green
+LOT-0681,Indonesia,Bali,Various,Vary,Other,Washed / Wet,2017,2017,1250.0,11.0,0,5,Green
+LOT-0682,Thailand,Thailand,,Doi Tung Development Project,,Washed / Wet,2014,2015,800.0,12.0,0,0,Green
+LOT-0683,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2012,2012,1775.0,11.0,1,3,Green
+LOT-0684,Mexico,La Yerba,Los Llanitos,Avelino Chavez Reyna,Typica,Washed / Wet,2014,2014,1296.0,11.0,0,0,Green
+LOT-0685,Colombia,Guayata,,,Caturra,Washed / Wet,2016,2016,1600.0,11.0,0,1,Green
+LOT-0686,Mexico,Progreso Santa Rosa Teocelo,Santa Rosa,Olivia Hernandez Virves,Bourbon,Washed / Wet,2012,2012,1250.0,13.0,0,4,
+LOT-0687,Honduras,,,,,Washed / Wet,2012,2013,,9.0,0,2,
+LOT-0688,Colombia,Huila,,,Caturra,Washed / Wet,2013,2013,1775.0,11.0,0,9,Green
+LOT-0689,Mexico,Chiapas,Cipresal,Emperatriz Garcia Muñoz,Typica,Washed / Wet,2013,2013,1560.0,12.0,0,5,Green
+LOT-0690,Mexico,San Pedro Cotzilnam,Pante San Pedro,Victor Manuel Lopez Vazquez,Typica,Semi-washed / Semi-pulped,2012,2012,1400.0,13.0,0,2,Green
+LOT-0691,Mexico,Veracruz,Finca Los Barreales,Manuel Herrera Juarez,Bourbon,Washed / Wet,2013,2013,1170.0,12.0,0,0,Green
+LOT-0692,Brazil,South Of Minas,Fazenda Rio Verde,Ipanema Coffees,Yellow Bourbon,Natural / Dry,2013/2014,2013,1260.0,,0,0,Green
+LOT-0693,Peru,Peru,,,,Washed / Wet,2013,2014,,,0,3,Green
+LOT-0694,Brazil,South Of Minas,Fazenda Serra Negra,Betina Vilela Reis,Catuai,Semi-washed / Semi-pulped,2012,2014,1000.0,12.0,0,1,Blue-Green
+LOT-0695,Brazil,Campos Altos - Cerrado,,,,,2016,2016,,11.0,0,0,Green
+LOT-0696,China,Yunnan,Menglian Gao Sanlin Coffee Factory,Menglian Gao Sanlin Coffee Factory,Catimor,Washed / Wet,2015,2016,1600.0,10.0,0,0,Green
+LOT-0697,Guatemala,San Marcos,Las Merceditas,Angel De Leon,Bourbon,Washed / Wet,2016,2017,1700.0,12.0,0,0,Green
+LOT-0698,Mexico,Coatepec,"Cafetal El Equimite, Rancho Agroecológico",Gibran Leonardo Cervantes Covarrubias,Typica,Washed / Wet,2012,2012,1300.0,14.0,0,9,Green
+LOT-0699,Honduras,"Comayagua, Honduras",Carrillo Cooperativa,Danilo Carrillo,Other,Washed / Wet,2017,2017,1500.0,12.0,0,6,Green
+LOT-0700,Guatemala,San Marcos,Piamonte,Jorge Leal,Bourbon,Washed / Wet,2017,2017,1700.0,10.0,0,2,Green
+LOT-0701,Guatemala,Santa Rosa,Providencia,"Plantaciones Agropecuarias, S.A.",Caturra,Washed / Wet,2017,2017,,11.0,0,3,Green
+LOT-0702,Guatemala,El Progreso,La Esmeralda,Jesus Ramirez,Bourbon,Washed / Wet,2017,2017,,12.0,0,0,Green
+LOT-0703,Mexico,Xalapa,Los Barreales 1112Lbcat_S110312,Manuel Herrera Juarez,Caturra,Washed / Wet,2012,2012,1170.0,13.0,0,1,Green
+LOT-0704,Mexico,Zihuatanejo De Azueta,Corral Del Diablo Lote 1,Dario Francisco Galeana Solis,Typica,Washed / Wet,2012,2012,1300.0,11.0,0,0,Green
+LOT-0705,Mexico,Xicotepec De Juarez,Finca Nextlalpa,"Alvaro Quiros Perez, Miguel Quiroz Perez",Caturra,Washed / Wet,2012,2012,1150.0,11.0,0,0,Green
+LOT-0706,Mexico,Veracruz,Cañada Fria,Jose Daniel Cobilt Castro,Pacamara,Washed / Wet,2012,2012,1350.0,14.0,0,6,Green
+LOT-0707,Mexico,Fln Mirador,Fln Mirador,Robin Cleaver,Typica,Washed / Wet,2012,2012,1450.0,12.0,0,0,Blue-Green
+LOT-0708,Brazil,South Of Minas,Santa Mariana,Glycia Maria,Arusha,Natural / Dry,2012,2012,,11.0,0,2,Blue-Green
+LOT-0709,Colombia,Huila,,,Caturra,Washed / Wet,2011,2011,1750.0,,0,2,Green
+LOT-0710,Colombia,Huila,,,,,3T/2011,2011,1750.0,2.0,0,1,
+LOT-0711,Colombia,Huila,,Jaime Pulido / Albino Mahecha / Freddy Mendez,Caturra,Natural / Dry,2012,2012,442.0,,0,2,
+LOT-0712,Uganda,Western,Ishaka,Nsubuga Umar,,,2014,2014,1100.0,12.0,0,6,Green
+LOT-0713,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Yellow Bourbon,Natural / Dry,2015/2016,2015,,,0,0,Green
+LOT-0714,Tanzania,Arusha Meru,Nguruma,Gladness Obed Pallangyo,Ruiru 11,Washed / Wet,2015/2016,2015,2285.0,13.0,0,7,Green
+LOT-0715,Guatemala,Atitlan,Several,Unex,Caturra,Washed / Wet,2013,2014,1400.0,10.0,0,0,Green
+LOT-0716,Guatemala,Jalapa,El Morito,Roberto Monterroso,Pacas,Washed / Wet,2014,2014,1524.0,12.0,0,3,Green
+LOT-0717,China,Xishuangbanna Prefecture,Yun Lan Coffee Co. Ltd,Yun Lan Coffee Co. Ltd,Catimor,Pulped natural / honey,2015,2016,1580.0,12.0,0,2,Green
+LOT-0718,Mexico,Veracruz,,Huatusco,,Washed / Wet,2014,2014,,11.0,0,0,Green
+LOT-0719,Guatemala,Oriente,El Morito,Roberto Monterroso,Bourbon,Washed / Wet,2013,2013,1310.6,12.0,2,1,Green
+LOT-0720,Colombia,Huila,,,Caturra,Washed / Wet,2013,2013,1750.0,,0,1,Green
+LOT-0721,Mexico,"La Concordia, Chiapas",Santa Teresa,Agroindustrias Unidas De Mexico Sa De Cv,Typica,Washed / Wet,2013,2013,1300.0,12.0,0,3,Green
+LOT-0722,Costa Rica,Central Valley,,,,Washed / Wet,2012,2012,,,0,14,Green
+LOT-0723,Guatemala,Jalapa,Finca El Morito,"Cafe Molino Monterroso P,J. Roberto",Bourbon,Washed / Wet,2012,2012,1752.6,11.0,0,3,Green
+LOT-0724,Taiwan,Taichung Xinshe 台中市新社區,Yu Jin Gui 玉金櫃咖啡,Lin Yu Ding 林玉定,Typica,Washed / Wet,2013/2014,2013,600.0,11.0,0,0,Green
+LOT-0725,Colombia,Antioquia,Several,Several,Caturra,Washed / Wet,2013,2014,1300.0,10.0,0,2,Green
+LOT-0726,Taiwan,Changhua Baguashan 彰化市八卦山,Guo Cun Nong Yuan 國村農園,Zhang Shui Sheng 張水勝,Typica,Semi-washed / Semi-pulped,2013/2014,2013,200.0,11.0,0,0,Green
+LOT-0727,Brazil,Chapadão De Ferro (Cerrado Mineiro),,,Mundo Novo,Natural / Dry,2015,2015,,11.0,0,10,Green
+LOT-0728,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Bourbon,Natural / Dry,2015/2016,2015,1268.0,7.0,0,0,Green
+LOT-0729,Honduras,Comayagua,Los Hicaques,Reinerio Zepeda,Caturra,Washed / Wet,2017,2017,1396.0,10.0,0,8,Green
+LOT-0730,Brazil,Cerrado,,,,Natural / Dry,2016 / 2017,2016,,11.0,0,14,Green
+LOT-0731,Brazil,Cerrado,Fazenda São Pedro,Tulio Taft Bovaretto,Catuai,Natural / Dry,2016,2017,982.0,11.0,0,11,Green
+LOT-0732,Costa Rica,Tarrazu,Rio Jorco,Johanna,Catuai,Washed / Wet,2015,2016,1550.0,,0,0,Green
+LOT-0733,Brazil,South Of Minas,Capoeirinha,Ipanema Agricola,Bourbon,Natural / Dry,2016,2016,934.0,11.0,0,3,Blue-Green
+LOT-0734,Costa Rica,Tarrazu,Gamboa,Martin Gutierrez,Caturra,Washed / Wet,2015,2016,1850.0,10.0,6,3,Blue-Green
+LOT-0735,Colombia,Huila,,Jaime Pulido / Ermilson Ramos,Caturra,Natural / Dry,2012,2012,442.0,,0,0,Green
+LOT-0736,Mexico,"Jaltocan, Hidalgo",Tepemalacax,"Salazar Hernandez, Roberto",Typica,Natural / Dry,2012,2012,441.0,15.0,1,8,
+LOT-0737,Guatemala,Oriente,Agropecuaria Quiagral,Agropecuaria Quiagral,Bourbon,Washed / Wet,2012,2012,1310.6,10.0,2,5,Green
+LOT-0738,Mexico,Veracruz,Finca Los Barreales 1112Lbga7250412,Manuel Herrera Juarez,Bourbon,Washed / Wet,2012,2012,1170.0,13.0,0,9,Green
+LOT-0739,Brazil,South Of Minas,Café Citrus,José Alberto Dos Santos,Mundo Novo,Washed / Wet,2012,2012,950.0,11.0,0,2,Green
+LOT-0740,Brazil,Grama Valley,Sitío Santa Luzia,José Malagutti,Mundo Novo,Natural / Dry,2012,2012,1100.0,12.0,0,2,Green
+LOT-0741,Mexico,Santa Catarina Juquila,Cafetal Santa Maria,Maria Luisa Delcarmen Rojas Narvaez,Typica,Washed / Wet,2012,2012,1300.0,11.0,0,0,Green
+LOT-0742,Guatemala,Huehuetenango,Finca Loma Linda Y Anexo,Amancio Del Valle Carrillo,Bourbon,Washed / Wet,2015,2015,1676.4,10.0,0,6,Green
+LOT-0743,Malawi,Mzuzu,Utchisi Mountain,Mzuzu Coffee Planters Coop Union,Gesha,Washed / Wet,2014,2014,1450.0,12.0,0,0,Green
+LOT-0744,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Bourbon,Natural / Dry,2014/2015,2014,1100.0,11.0,0,0,Blue-Green
+LOT-0745,Mexico,Veracruz,Los Barreales 1112Lbgr7230412,Manuel Herrera Juarez,Bourbon,Washed / Wet,2012,2012,1170.0,13.0,0,3,Green
+LOT-0746,Mexico,Veracruz,Finca Huehuetecpan,Maria Del Rosario Irais Valdivia Ortiz,Mundo Novo,Washed / Wet,2013,2013,1338.0,12.0,0,4,Blue-Green
+LOT-0747,Mexico,"Calnali, Hidalgo",Omicuatla,Felix De La Cruz Casimiro,Bourbon,Washed / Wet,2012,2012,533.0,16.0,3,8,
+LOT-0748,Mexico,Juquila,Jamaica,Guillermo Rojas Saldaña,Typica,Washed / Wet,2012,2012,1250.0,12.0,0,13,Green
+LOT-0749,Guatemala,Antigua,Finca Medina,"Siembras Vision, S.A.",Bourbon,Washed / Wet,2012,2012,1390.8,11.0,0,2,Green
+LOT-0750,Colombia,Huila,,,Caturra,Washed / Wet,2012,2012,1750.0,12.0,0,1,Green
+LOT-0751,El Salvador,,,,Other,Washed / Wet,2012,2012,,,2,5,Green
+LOT-0752,Mexico,Veracruz,Chilcuatla,Sergio De La Vequia Bernardi,Typica,Washed / Wet,2012,2012,1100.0,11.0,0,0,Green
+LOT-0753,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2013,2013,,,0,1,Blue-Green
+LOT-0754,Mexico,Canoas,Comunidad De Canoas,Coop,Typica,Washed / Wet,2012,2012,900.0,10.0,0,3,Green
+LOT-0755,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2012,2012,1775.0,11.0,0,0,Green
+LOT-0756,Brazil,,Caxambu,Carmem Lucia Chaves De Brito,Arusha,Natural / Dry,2012,2012,,12.0,0,1,Green
+LOT-0757,Colombia,Cauca,,,,,,2011,,22.0,0,2,
+LOT-0758,Taiwan,Nantou,Guo Xing Ka Fei Wang 國姓咖啡王咖啡莊園,Lin Yu Tang 林玉堂,Typica,Washed / Wet,2013/2014,2013,650.0,11.0,0,0,Green
+LOT-0759,El Salvador,Apaneca,Zapato De Mico,"Tropical Farm Management El Salvador, S.A. De C.V.",Bourbon,Washed / Wet,2014,2015,1500.0,12.0,0,0,Green
+LOT-0760,Honduras,Marcala,Bethel,Omar Acosta,Catuai,Washed / Wet,2015,2015,1350.0,11.0,0,2,Green
+LOT-0761,Malawi,Mzuzu,Kachere,Mzuzu Coffee Coop Union,Gesha,Washed / Wet,2014,2014,1180.0,13.0,0,0,Blue-Green
+LOT-0762,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Bourbon,Natural / Dry,2014/2015,2014,1100.0,11.0,0,0,Green
+LOT-0763,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Yellow Bourbon,Natural / Dry,2015/2016,2015,,,0,9,Green
+LOT-0764,Guatemala,Nuevo Oriente,Linda Vista,Pablo Chuy,Pacas,Washed / Wet,2016,2016,1450.0,11.0,0,2,Green
+LOT-0765,Taiwan,,眉泉莊園,林玲美0918232039,,,2016/2017,2017,,10.0,0,0,Blue-Green
+LOT-0766,Brazil,Brazil Matas De Minas,Fazendas Klem Ltda,Nagipe Viana Klem,Catuai,Washed / Wet,,2017,1100.0,9.0,2,10,Green
+LOT-0767,Mexico,Altotonga,Las Truchas,Salvador Caro Carrion,Typica,Washed / Wet,2012,2012,1000.0,12.0,0,4,Green
+LOT-0768,Mexico,San Bartolo Tutotepec,El Nanchi,Avila Martinez Adolfo,Typica,Washed / Wet,2012,2012,1144.0,15.0,1,9,
+LOT-0769,Colombia,Huila,,,Caturra,Washed / Wet,2013,2013,1750.0,,0,1,Blue-Green
+LOT-0770,Honduras,Comayagua,Las Cuchillas,Nahun Maldonado,Caturra,Washed / Wet,2015,2016,1500.0,11.0,0,2,Blue-Green
+LOT-0771,Brazil,South Of Minas,Fazenda Capoeirnha,Ipanema Agricola,Bourbon,Natural / Dry,2016,2016,934.0,11.0,0,5,Green
+LOT-0772,Tanzania,Northern,,,Other,Washed / Wet,2015/2016,2015,1600.0,12.0,0,1,Green
+LOT-0773,Tanzania,Ruvuma,Langiro Farm Group,Langiro Farm Group,Bourbon,Washed / Wet,2015,2015,1650.0,13.0,1,6,Green
+LOT-0774,Nicaragua,Jinotega,El Brigadum - La Coronela,Marcio Alberto Rivera Castellon,,,,2016,1000.0,10.0,0,1,Green
+LOT-0775,Taiwan,Yunlin 雲林縣石壁,Song Yue Coffee 嵩岳咖啡,Guo Zhang Sheng 郭章盛,Typica,Other,2013/2014,2013,1200.0,11.0,0,0,Green
+LOT-0776,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Kan Tou Mountain Coffee 崁頭山咖啡館,Jufeng-Tseng 曾如楓,Typica,Washed / Wet,2012,2013,800.0,,0,0,Green
+LOT-0777,Mexico,"La Concordia, Chiapas",,Union Ramal Santa Cruz,Other,Washed / Wet,2013,2014,1400.0,10.0,1,1,
+LOT-0778,Mexico,Veracruz,El Pino,José Luis Andrade Sandara,Other,Washed / Wet,2013,2014,1100.0,12.0,0,0,Green
+LOT-0779,Tanzania,"Ilomba Vilage, Mbozi",Ilomba 2,Tembo Coffee Company Ltd,Other,Washed / Wet,2014,2014,1700.0,12.0,0,1,Green
+LOT-0780,Mexico,Colima,"La Calera, Barranca De La Leona, El Nogal","Oscar Torres Ochoca, Genaro Mata Camberos, Manuel Duarte Munguia",Typica,Washed / Wet,2012,2012,1200.0,10.0,0,1,Green
+LOT-0781,Colombia,Huila,,,,,4T/10,2011,1800.0,8.0,0,0,
+LOT-0782,Guatemala,Oriente,,Several Producers,Caturra,Washed / Wet,2012,2012,1350.0,12.0,0,2,
+LOT-0783,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Yellow Bourbon,Natural / Dry,2015/2016,2015,,,0,1,Green
+LOT-0784,Guatemala,Atitlan,Blue Lake,,Bourbon,Washed / Wet,2014,2015,1500.0,9.0,0,4,Blue-Green
+LOT-0785,Honduras,Marcala,Bethel,Omar Acosta,Catuai,Washed / Wet,2015,2015,1350.0,11.0,0,2,Green
+LOT-0786,Thailand,Thailand,,Doi Tung Development Project,,Washed / Wet,2014,2015,800.0,12.0,0,0,Blue-Green
+LOT-0787,Brazil,Cerrado,,,Mundo Novo,Natural / Dry,2014,2015,,12.0,0,1,Green
+LOT-0788,Brazil,South Of Minas,Fazenda Capoeirnha,Ipanema Agricola,Bourbon,Natural / Dry,2016,2016,894.0,11.0,0,3,Green
+LOT-0789,Costa Rica,Tres Rios,El Patalillo,Jose Francisco Gonzalez,Caturra,Washed / Wet,2015,2015,1300.0,,0,0,Blue-Green
+LOT-0790,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Yellow Bourbon,Natural / Dry,2015/2016,2015,,,0,1,Green
+LOT-0791,Vietnam,Don Duong,"Apollo Co., Ltd.","Apollo Co., Ltd.",Other,Natural / Dry,2012,2012,1040.0,12.0,0,2,Green
+LOT-0792,Mexico,Tapachula,,Ismam San Isidro Labrador S. De S.S.,Typica,Washed / Wet,2012,2012,1800.0,13.0,3,13,Green
+LOT-0793,Mexico,Coatepec,Bola De Oro,Rosa Aurora Falcon Fernandez,Typica,Washed / Wet,2012,2012,1250.0,11.0,0,11,Green
+LOT-0794,Colombia,Huila,,,Caturra,Washed / Wet,2016,2017,,,0,6,Green
+LOT-0795,Indonesia,Aceh Gayo,Various,Various Farms,Bourbon,Washed / Wet,2017,2017,1300.0,15.0,0,3,
+LOT-0796,Tanzania,Kilimanjaro,Ampcg,Ampcg,Bourbon,Washed / Wet,2014,2015,1500.0,12.0,0,5,Green
+LOT-0797,Costa Rica,Turrialba,Cafetalera Aquiares,Cafetalera Aquiares,Caturra,Washed / Wet,2013,2014,,11.0,0,2,Green
+LOT-0798,Colombia,,,,,Washed / Wet,2013,2014,,11.0,1,0,Green
+LOT-0799,Tanzania,Ngorogoro,Ngorogoro Convenant Estate,Ngorogoro Convenant Estate,Other,Washed / Wet,2014,2015,1600.0,12.0,0,3,Green
+LOT-0800,Mexico,Coatepec,"Cafetal El Equimite, Rancho Agroecológico",Gibran Leonardo Cervantes Covarrubias,Typica,Washed / Wet,2012,2012,1300.0,13.0,0,7,Green
+LOT-0801,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2012,2012,,11.0,0,0,Blue-Green
+LOT-0802,United States (Hawaii),Kona,,,Hawaiian Kona,Washed / Wet,2012,2012,,10.0,0,2,Green
+LOT-0803,Colombia,Cauca,,Carlos Pechene / Jesús Pechene / Flor Chacón,,,January 2011,2011,1600.0,8.0,1,5,
+LOT-0804,Mexico,Veracruz,Tomatlancillo,Ramiro De La Vequia Bernardi,Typica,Washed / Wet,2012,2012,1250.0,11.0,0,1,Green
+LOT-0805,Brazil,Cerrado,São José Da Lagoa,José Hiroiti,Catuai,Semi-washed / Semi-pulped,2012,2012,1050.0,11.0,0,1,Blue-Green
+LOT-0806,Mexico,Coscomatepec,La Ceiba,Jorge Octavio Escamilla Prado,Typica,Washed / Wet,2012,2012,940.0,12.0,0,1,Green
+LOT-0807,Honduras,Guinope El Paraíso,Las Moras,Santos Fonseca,Caturra,Natural / Dry,2016,2017,1600.0,10.0,0,7,Green
+LOT-0808,Honduras,El Paraíso,Las Moras,Santos Fonseca,Caturra,Washed / Wet,2017,2017,1600.0,12.0,0,1,Green
+LOT-0809,Brazil,South Of Minas,Campo Das Flores,Vander Bonaccorsi,Mundo Novo,Natural / Dry,2012,2012,1000.0,12.0,0,1,Green
+LOT-0810,Tanzania,Kilimanjaro,Family Farm,Mr & Mrs Didas Mallya,Other,Washed / Wet,2015,2015,1650.0,13.0,0,20,Green
+LOT-0811,Brazil,South Of Minas,Capoeirinha,Ipanema Agricola,Bourbon,Natural / Dry,2016,2016,944.0,11.0,0,3,Green
+LOT-0812,Thailand,Thailand,,Doi Tung Development Project,,Washed / Wet,2013,2014,800.0,11.0,0,0,Green
+LOT-0813,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區","You Siang Coffee Farmtainan, Taiwan 台灣台南優香咖啡",Chen Jin Lin 陳金璘,Typica,Washed / Wet,2013,2014,600.0,9.0,0,0,Green
+LOT-0814,Malawi,Mzuzu,Chikali,Mzuzu Coffee Coop Union,Gesha,Washed / Wet,2014,2014,2500.0,13.0,0,1,Blue-Green
+LOT-0815,Brazil,"Minas Gerais, Br",Café Do Paraíso,Café Do Paraíso,Mundo Novo,Natural / Dry,2012,2013,1038.5,11.0,0,0,Blue-Green
+LOT-0816,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Gao Chun Fang 高醇坊,"Lin Huang, A-Mien 黃阿綿",Typica,Washed / Wet,2012,2013,650.0,12.0,0,0,Blue-Green
+LOT-0817,Colombia,Huila,,,Caturra,Washed / Wet,2013,2013,1900.0,11.0,0,1,Green
+LOT-0818,Honduras,Occidental,Bsr,Bsr,Caturra,Washed / Wet,2014,2014,1400.0,11.0,0,5,Green
+LOT-0819,Costa Rica,Central Valley,Various,Varios,Catuai,Washed / Wet,2013,2014,1300.0,10.0,0,4,Green
+LOT-0820,Laos,Lao P.D.R.,Club Green,Hanyong Choi,Other,Washed / Wet,2015,2015,1250.0,12.0,0,0,Blue-Green
+LOT-0821,Tanzania,Meru,Finca Estate,Finca Estate,Other,Washed / Wet,2014,2014,1350.0,12.0,0,3,Green
+LOT-0822,Colombia,Huila,,"Grupo Monserrate, La Plata",Caturra,,Mayo a Julio,2011,1775.0,7.0,0,2,
+LOT-0823,Guatemala,San Marcos,El Faro,Paul Stauder,Bourbon,Natural / Dry,2012,2012,,11.0,0,3,Green
+LOT-0824,Brazil,South Of Minas,Santa Mariana/São Vicente,Maria Da Gloria Junqueira,Mundo Novo,Semi-washed / Semi-pulped,2012,2012,950.0,12.0,0,2,Green
+LOT-0825,Guatemala,Oriente,Conquista / Morito,Conquista/Morito,Bourbon,Washed / Wet,2012,2012,1402.1,,0,10,Green
+LOT-0826,Mexico,"Chapulhuacan, Hidalgo",Platanal,"Ponce Rubio, Venancio",Typica,Semi-washed / Semi-pulped,2012,2012,981.0,13.0,2,7,
+LOT-0827,Mexico,"Huazalingo, Hidalgo",Texpanco,"Francisco Saenz, Fernando",Mundo Novo,Washed / Wet,2012,2012,690.0,14.0,2,8,
+LOT-0828,El Salvador,"El Balsamo, Quezaltepec",La Esperanza,"Comercial Exportadora, S.A. De C.V.",Bourbon,Washed / Wet,2014,2015,1250.0,11.0,0,2,Green
+LOT-0829,Brazil,Monte Carmelo,Santa Bárbara,Múcio Cardoso,Catuai,Natural / Dry,2016 / 2017,2016,1020.0,11.0,0,4,Green
+LOT-0830,Guatemala,Santa Rosa,Las Delicias,Otto Becker,Bourbon,Washed / Wet,2017,2017,1219.2,11.0,0,0,Green
+LOT-0831,Taiwan,Taichung Xinshe 台中市新社區,Dragon Coffee 龍咖啡,Chen Gui Jiao 陳桂嬌,Typica,Other,2012,2013,1000.0,11.0,0,0,Green
+LOT-0832,Nicaragua,,,,,Washed / Wet,2013,2014,,12.0,3,4,Green
+LOT-0833,Tanzania,Mbeya,Mcomafa Farm No1155Gr,Mcomafa,Other,Washed / Wet,2014,2015,1877.0,12.0,0,4,Green
+LOT-0834,Guatemala,Nuevo Oriente,Las Cebollas Y Anexos,Ovidio Cardona,Catuai,Washed / Wet,2015,2015,1550.0,11.0,0,7,Green
+LOT-0835,Zambia,Mubuyu Estate,Mubuyu Munali,,Sl28,Washed / Wet,2014,2014,1250.0,,1,3,
+LOT-0836,Guatemala,Oriente,La Esperanza,"Agricola El Pilar, S.A.",Bourbon,Washed / Wet,2017,2017,1901.0,10.0,0,1,Green
+LOT-0837,Brazil,Grama Valley,Sitío Corrego Da Olaria/São Caetano,Fioravante Malagutti,Mundo Novo,Natural / Dry,2012,2012,1100.0,12.0,0,3,Green
+LOT-0838,Mexico,Fortín De Las Flores,Mata Larga,Modesto Landeros Flores,Bourbon,Washed / Wet,2012,2012,1000.0,12.0,0,0,Green
+LOT-0839,Honduras,Comayagua,Los Hicaques,Reinerio Zepeda,Caturra,Washed / Wet,2017,2017,1400.0,12.0,0,1,Green
+LOT-0840,Colombia,Cundinamarca,,Exportadora De Café Cóndor S.A,,,4T/2010,2011,1600.0,9.0,0,1,
+LOT-0841,Honduras,,,,,Washed / Wet,2012,2014,,11.0,0,0,Green
+LOT-0842,Mexico,Chiapas,Various,Varios Productores,Bourbon,Washed / Wet,2013,2013,1300.0,12.0,0,6,Green
+LOT-0843,Mexico,Veracruz,La Laja,Juan Hermilio Sampieri Carcamo,Other,Washed / Wet,2012,2012,1650.0,12.0,0,4,Green
+LOT-0844,Costa Rica,Tres Rios,El Patalillo,Jose Francisco Gonzalez,Caturra,Washed / Wet,2015,2015,1300.0,9.0,0,0,Green
+LOT-0845,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Gao Chun Fang 高醇坊,Lin Sin Ji 林信吉,Typica,Washed / Wet,2014,2015,700.0,,0,0,Green
+LOT-0846,Indonesia,Lington Nihuta,Dozen Small Farmer,,Typica,Other,2014,2015,1300.0,11.0,2,6,
+LOT-0847,Honduras,Marcala,Cerro Bueno,Jose Omar Acosta,Catuai,Washed / Wet,2015,2015,1400.0,12.0,0,1,Green
+LOT-0848,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Yellow Bourbon,Natural / Dry,2015/2016,2015,,,0,1,Green
+LOT-0849,Mexico,Chiapas,Rancho Bonito,Martiniano A. Moreno Alvarado,Catuai,Washed / Wet,2015,2015,1425.0,11.0,0,7,Green
+LOT-0850,Myanmar,Ywar Ngan,Wat-Ka-Bu,U Mg Mg,Catuai,Washed / Wet,2015,2015,,,0,2,Green
+LOT-0851,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Yellow Bourbon,Natural / Dry,2015/2016,2015,,,0,0,Green
+LOT-0852,Brazil,Monte Carmelo,Helena,Helena Pingnatti Ricci,Mundo Novo,Natural / Dry,2016,2017,973.0,11.0,0,3,Green
+LOT-0853,Indonesia,Bali,Mudar,Mudar,Other,Other,2015,2017,1250.0,11.0,0,0,Green
+LOT-0854,Guatemala,Norte,Chapultepec,Chapultepec,Bourbon,Washed / Wet,2015,2016,3280.0,10.0,2,6,Green
+LOT-0855,Guatemala,Oriente,La Esmeralda,Jesus Ramirez,Bourbon,Washed / Wet,2017,2017,,10.0,1,1,Green
+LOT-0856,Costa Rica,Tarrazu,Estate La Patricia,Manuel Montero,Catuai,Pulped natural / honey,2016,2017,1900.0,,1,4,Green
+LOT-0857,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2013,2013,1775.0,,2,0,Blue-Green
+LOT-0858,Honduras,Comayagua,Gran Manzana Y El Aguacate,"Tomás Sosa, Juan Damaso",Caturra,Natural / Dry,2014,2014,1350.0,10.0,0,4,Green
+LOT-0859,Mexico,"Siltepec El Triunfo, Chiapas, Mexico",Various,Various Small Producers,Typica,Washed / Wet,2014,2014,1550.0,11.0,0,0,Green
+LOT-0860,Malawi,Kakoma,Kakoma,Mzuzu Coffee Coop Union,Gesha,Washed / Wet,2014,2014,1556.0,13.0,0,0,Green
+LOT-0861,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Bourbon,Natural / Dry,2014/2015,2014,1100.0,11.0,0,0,Green
+LOT-0862,Brazil,Sul De Minas,Sertao Farm,Nazareth Dias Pereira,Bourbon,Semi-washed / Semi-pulped,2012,2013,1250.0,12.0,0,0,Blue-Green
+LOT-0863,Mexico,Coatepec,El Deseo,Jorge Francisco Martinez Hachity,Typica,Semi-washed / Semi-pulped,2012,2012,1250.0,12.0,0,10,Green
+LOT-0864,Mexico,Veracruz,Finca Muxbal,Maria Magdalena Luethje Y Gris,Bourbon,Washed / Wet,2012,2012,1500.0,12.0,0,2,Green
+LOT-0865,Guatemala,Oriente,El Sacramento,Luis Rodriguez,Bourbon,Washed / Wet,2013,2013,1310.6,11.0,0,1,Green
+LOT-0866,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2012,2013,,,1,1,Blue-Green
+LOT-0867,United States (Hawaii),Kona,Kona Pacific Farmers Cooperative,,,,,2010,,2.0,3,12,
+LOT-0868,Colombia,Huila,,,,,1t/2011,2011,1700.0,5.0,0,0,
+LOT-0869,Brazil,Cerrado,Cianorte,Marilsa De Fatima Peternela,Mundo Novo,,2011,2011,925.0,2.0,0,2,
+LOT-0870,Uganda,Iganga Namadrope Eastern,Ugacof Project Area,Ugacof Project Area,,,2014,2014,1095.0,12.0,0,1,Green
+LOT-0871,Vietnam,Vietnam,Apollo Estate,Richard Yeh,Caturra,Washed / Wet,2014,2015,1040.0,12.0,0,0,Blue-Green
+LOT-0872,Guatemala,San Marcos,Las Merceditas,Angel De Leon,Bourbon,Washed / Wet,2017,2017,1700.0,11.0,0,1,Green
+LOT-0873,Mexico,Tepictla,Finca Tepictla,Sergio Landa Alarcon,Mundo Novo,Washed / Wet,2012,2012,1250.0,13.0,0,23,Green
+LOT-0874,Tanzania,Ngorogoro,Ngorogoro Convenant Estate,Ngorogoro Convenant Estate,Other,Washed / Wet,2014,2015,1600.0,12.0,0,4,Blue-Green
+LOT-0875,Mexico,Oaxaca,"Arroyo Triste, Arroyo Triste, San Jose Vista Hermosa","Cenen Torres Cortes, Avelino Tores Cortes, Juan Ventura Guzman",Typica,Washed / Wet,2012,2012,1100.0,11.0,0,1,Green
+LOT-0876,Mexico,"Tenango De Doria, Hidalgo",Los Magueyes,"Perez Lemus, Felix",Bourbon,Washed / Wet,2012,2012,774.0,13.0,2,9,
+LOT-0877,Mexico,La Concordia,,Armando Luis Pohlenz Martinez,Caturra,Washed / Wet,2012,2012,1550.0,12.0,10,14,Green
+LOT-0878,Brazil,,,,,Natural / Dry,2013,2014,,10.0,0,1,Blue-Green
+LOT-0879,Colombia,Huila,,,Caturra,Washed / Wet,2011,2011,1750.0,,0,1,Green
+LOT-0880,Mexico,La Concordia,Santa Cruz - Pante Doña Graciela,Graciela Aguilar Peralta,Typica,Washed / Wet,2012,2012,1650.0,12.0,0,1,
+LOT-0881,Colombia,Huila,,La Plata,,,Mayo a Julio,2011,1775.0,8.0,0,0,
+LOT-0882,Mexico,Yajalon,,Maya Binik,Bourbon,Washed / Wet,2012,2012,1400.0,11.0,0,4,Green
+LOT-0883,Mexico,"La Concordia, Chiapas",Finca Nueva Linda,Octavio Moguel Farrera,Bourbon,Washed / Wet,2012,2012,1400.0,11.0,0,2,Green
+LOT-0884,Mexico,Veracruz,,Huatusco,,Washed / Wet,2014,2014,,,0,4,Green
+LOT-0885,Costa Rica,Tarrazu,Gamboa,Martin Gutierrez,Caturra,Washed / Wet,2013,2014,1850.0,11.0,0,3,Green
+LOT-0886,Taiwan,Nantou,Guo Xin Ka Fei 國昕咖啡,Wu Cai Jin 吳蔡錦,Typica,Washed / Wet,2013/2014,2013,750.0,11.0,0,0,Green
+LOT-0887,Taiwan,Changhua Baguashan 彰化市八卦山,Mu He Zi Coffee 木盒子咖啡園,Zhang Ming Fu 張明福,Typica,Semi-washed / Semi-pulped,2013/2014,2013,,11.0,0,0,Green
+LOT-0888,Honduras,Comayagua,Gran Manzana Y El Aguacate,"Tomás Sosa, Juan Damaso",Caturra,Natural / Dry,2014,2014,1400.0,10.0,0,5,Green
+LOT-0889,Mexico,Tuxtla Gutierrez,Finca Cafetalera La Suiza,Productora Agricola Y Ganadera Finca La Suiza,Typica,Washed / Wet,2012,2012,1650.0,13.0,1,13,Green
+LOT-0890,Mexico,"La Concordia, Chiapas",Union Ramal Santa Cruz,Union Ramal Santa Cruz,Typica,Washed / Wet,2013,2013,1400.0,12.0,0,6,Green
+LOT-0891,Guatemala,Jalapa,Finca El Morito,"Cafe Molino Monterroso P,J. Roberto",Bourbon,Washed / Wet,2012,2012,1752.6,11.0,0,4,Green
+LOT-0892,Mexico,"Sacún Palma, Municipio De Chilón, Chiapas",Sacún Palma,Armando Gutierez Guzmán,Caturra,Semi-washed / Semi-pulped,2012,2012,940.0,11.0,0,4,Green
+LOT-0893,United States (Hawaii),Kona,,,Hawaiian Kona,Washed / Wet,2012,2012,,10.0,1,1,Green
+LOT-0894,Mexico,Veracruz,Ucipa Santa Catarina,Cesar Santiz Lopez,Bourbon,Washed / Wet,2012,2012,1200.0,11.0,0,2,Green
+LOT-0895,Tanzania,Mbinga,Multiple,Dae Ltd,Other,Washed / Wet,2014,2015,1500.0,12.0,0,0,Green
+LOT-0896,Tanzania,"Ilomba Vilage, Mbozi",Ilomba 1,Tembo Coffee Company Ltd,Other,Washed / Wet,2013,2014,1700.0,12.0,0,7,Green
+LOT-0897,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Bourbon,Washed / Wet,2014/2015,2014,1260.0,10.0,0,2,Green
+LOT-0898,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Yellow Bourbon,Natural / Dry,2015/2016,2015,,,0,0,Green
+LOT-0899,Colombia,La Plata,,,,,2016,2016,,,0,1,
+LOT-0900,Nicaragua,Jinotega,Santa Matilde,Rolando Lacayo Cardenal,,,,2016,,10.0,0,1,Green
+LOT-0901,Brazil,South Of Minas,Fazenda Capoeirnha,Ipanema Agricola S.A,Bourbon,Natural / Dry,2017 / 2018,2017,890.0,11.0,0,5,Green
+LOT-0902,Guatemala,Santa Rosa,La Esmeralda,Jesus Ramirez,Bourbon,Washed / Wet,2017,2017,1219.2,12.0,0,3,Green
+LOT-0903,Guatemala,San Marcos,Las Merceditas,Angel De Leon,Bourbon,Washed / Wet,2017,2017,1700.0,10.0,0,1,Green
+LOT-0904,Tanzania,Mbinga,Ngima,Ngima Amcos,,,2016,2016,1800.0,,0,1,Green
+LOT-0905,Honduras,Marcala,Bethel,Jose Omar Acosta,Catuai,Washed / Wet,2016,2016,1450.0,11.0,0,2,Blue-Green
+LOT-0906,Indonesia,Bener Meriah,,,Sumatra,Semi-washed / Semi-pulped,2013,2014,,11.0,0,0,Blue-Green
+LOT-0907,Taiwan,Natou County,Baishengcun Coffee 百勝村咖啡莊園,蘇晉寬 Su Jin Kuan,Typica,Washed / Wet,2016,2016,800.0,10.0,0,0,Blue-Green
+LOT-0908,Guatemala,Huehuetenango,La Esperanza,"Agricola El Pilar, Sa.",Bourbon,Washed / Wet,2017,2017,,12.0,0,0,Green
+LOT-0909,Honduras,Western Region,Various,Cafes Finos De Corquin,Catimor,Washed / Wet,2018,2018,1200.0,11.0,0,3,Blue-Green
+LOT-0910,Brazil,South Of Minas,Rio Verde,Ipanema Coffees,Yellow Bourbon,Washed / Wet,2013/2014,2013,1260.0,12.0,0,3,Blue-Green
+LOT-0911,Costa Rica,Tarrazu,,Coopetarrazu,,,,2011,1600.2,,0,1,
+LOT-0912,Thailand,,Doi Tung Development Project,,,,2011,2011,,20.0,0,0,
+LOT-0913,Thailand,"Doi Chaang Village, Chiang Rai, Thialand","Doi Chaang Coffee Original Co.,Ltd",Doi Chaang Community Enterprise Piko,,,2011,2011,1499.9,,0,0,
+LOT-0914,Mexico,La Concordia,Santa Cruz - Pante Don Jaime,Enrique Eduardo Lopez Aguilar,Typica,Natural / Dry,2012,2012,1650.0,11.0,0,2,
+LOT-0915,Mexico,La Concordia,Las Nubes - Pante Don Jaime,Luis Antonio Lopez Aguilar,Marigojipe,Natural / Dry,2012,2012,1600.0,11.0,0,0,
+LOT-0916,Mexico,"La Concordia, Chiapas",Union Ramal Santa Cruz,Union Ramal Santa Cruz,Typica,Washed / Wet,2013,2013,1400.0,12.0,0,9,Green
+LOT-0917,Guatemala,Oriente,El Morito,Roberto Monterroso,Bourbon,Washed / Wet,2013,2013,1310.6,12.0,0,1,Green
+LOT-0918,Costa Rica,Turrialba,Cafetalera Aquiares,Cafetalera Aquiares,Caturra,Washed / Wet,2015,2015,,12.0,0,1,Green
+LOT-0919,Taiwan,Natou County,Jacob'S Estate 雅谷咖啡,Chiu Wei Lun 邱偉倫,Typica,Semi-washed / Semi-pulped,2014,2014,850.0,,0,0,
+LOT-0920,Malawi,Mzuzu,Kavuzi,Mzuzu Coffee Coop Union,Gesha,Washed / Wet,2014,2014,1100.0,13.0,0,0,Green
+LOT-0921,Tanzania,"Oldeani , Mongola",Acacia Hills,Acacia Hills Ltd,Other,Washed / Wet,2014,2014,1800.0,12.0,0,5,Green
+LOT-0922,India,Chikmagalur,Sethuraman Estates,Nishant Gurjer,,,2014,2014,750.0,,0,1,Green
+LOT-0923,India,Chikmagalur Karnataka,Sethuraman Estate Kaapi Royale,Sethuraman Estate Kaapi Royale,Other,Natural / Dry,2015,2016,1000.0,11.0,0,0,Green
+LOT-0924,Haiti,"Dondon, Haiti",Mixed,Mixed,Blue Mountain,Washed / Wet,2013,2014,825.0,11.0,0,0,Blue-Green
+LOT-0925,Indonesia,Ijen,"Ijen Highland, East Java",Pt. Perkebunan Nusantara Xii,Other,Washed / Wet,2012,2012,1400.0,12.0,0,0,Green
+LOT-0926,Brazil,Sul De Minas,Pereira Estate Coffee,Maria Rogeria Costa Pereira,Yellow Bourbon,Semi-washed / Semi-pulped,2014,2014,1200.0,,1,1,Green
+LOT-0927,Taiwan,Natou County,Good Mood Coffee 馨晴咖啡,Huang Mei Tao 黃美桃,Typica,Washed / Wet,2014,2014,900.0,11.0,0,0,Blue-Green
+LOT-0928,Guatemala,Oriente,Various,Varios,Other,Washed / Wet,2014,2014,1219.2,12.0,0,0,Green
+LOT-0929,Taiwan,Taichung Xinshe 台中市新社區,Xu Yuan Zhang 徐源漳,Xu Yuan Zhang 徐源漳,Typica,Other,2013/2014,2013,600.0,11.0,0,0,Green
+LOT-0930,Mexico,"La Concordia, Chiapas",Nueva Linda,Agroindustrias Unidas De Mexico Sa De Cv,Typica,Washed / Wet,2013,2013,1150.0,13.0,0,2,Green
+LOT-0931,Uganda,South Western,Kyangundu Coop Society,Ankole Coffee Producers Coop Union Ltd,,,2014,2014,1488.0,12.0,0,2,Green
+LOT-0932,Uganda,Eastern,Kasozi Coffee Farmers,Kasozi Coffee Farmers Association,,,2013,2014,1367.0,11.0,0,7,Green
+LOT-0933,Taiwan,古坑鄉荷包村尖山坑60號,谷泉咖啡莊園,劉易騰,Typica,Natural / Dry,2015,2015,,12.0,0,2,Green
+LOT-0934,Myanmar,Ywar Ngan Township,Mixed,Genius Coffee Estate,Catuai,Washed / Wet,2015,2015,1219.2,,0,4,Green
+LOT-0935,Costa Rica,Occidental,Several,Beneficio La Eva S.A.,Caturra,Washed / Wet,2014,2015,1200.0,12.0,1,2,Green
+LOT-0936,Malawi,Mzuzu,Chinongo,Mzuzu Coffee Coop Union,Gesha,Washed / Wet,2014,2014,1599.0,12.0,0,0,Green
+LOT-0937,Guatemala,Santa Rosa,Las Delicias,Otto Becker,Bourbon,Washed / Wet,2017,2017,1219.2,10.0,0,0,Green
+LOT-0938,Nicaragua,Jalapa,Finca Las Marías,Teófilo Narváez :,Caturra,Other,2017,2017,1100.0,11.0,0,3,Green
+LOT-0939,Honduras,Comayagua,Las Cuchillas,Nahun Maldonado,Caturra,Washed / Wet,2017,2017,1400.0,10.0,0,5,Green
+LOT-0940,Guatemala,Santa Rosa,Las Delicias,Agricola Monte Verde,Bourbon,,2017,2017,,12.0,0,0,Green
+LOT-0941,Guatemala,Oriente,Chiquimulja / Alpha Cafe / Senfro,Chiquimulja / Alpha Cafe / Senfro,Bourbon,Washed / Wet,2012,2012,,11.0,0,1,Green
+LOT-0942,Mexico,Atoyac De Alvarez,El Romance Azul,Maria De La Paz Aguilar Guillen,Typica,Natural / Dry,2012,2012,1100.0,11.0,0,3,Green
+LOT-0943,Mexico,Tapachula,Hamburgo 7 Arroyos,Tomas Edelmann Blass,Bourbon,Washed / Wet,2012,2012,1250.0,13.0,0,5,Green
+LOT-0944,Mexico,Manzanillo,Canoa Manzanillo,Manuel Duarte Munguia,Typica,Semi-washed / Semi-pulped,2012,2012,1000.0,11.0,0,6,Green
+LOT-0945,United States (Hawaii),Kona,,,,,,2010,,,0,17,
+LOT-0946,Colombia,Cauca,,,,,Abril - Julio,2011,1450.0,6.0,1,0,
+LOT-0947,Mexico,Amatenango De La Frontera,Productor Independiente Guadalupe Victoria,Jorge Hernandez Montejo,Typica,Washed / Wet,2012,2012,1600.0,12.0,0,5,Green
+LOT-0948,Mexico,Temaxcalapa,Santa Maria Temaxcalapa,Zenobio Martinez Cano,Catuai,Washed / Wet,2012,2012,1100.0,12.0,0,10,Green
+LOT-0949,Brazil,Sul De Minas,Sertao,Nazareth Dias Pereira,Bourbon,Semi-washed / Semi-pulped,2012,2012,,12.0,0,2,Blue-Green
+LOT-0950,Guatemala,"San Lucas Toliman, Solola",Santo Tomas Pachuj,"Pachuj, S. A.",Bourbon,Washed / Wet,2014,2014,1550.0,10.0,0,6,Green
+LOT-0951,Mexico,"Huazalingo, Hidalgo",Palantla,"Martinez Bautista, Nicolas",Caturra,Washed / Wet,2012,2012,763.0,13.0,1,8,
+LOT-0952,Guatemala,Oriente,La Union Monte Verde,Otto Becker,Bourbon,Washed / Wet,2013,2013,1310.6,12.0,0,4,Green
+LOT-0953,Taiwan,苗栗三灣,山彎有機咖啡農場,謝文品,Typica,Washed / Wet,2014,2014,,12.0,0,0,Green
+LOT-0954,Malawi,Mzuzu,Chimpumba,Mzuzu Coffee Coop Union,Gesha,Washed / Wet,2014,2014,1422.0,12.0,0,0,Blue-Green
+LOT-0955,Peru,Puno,,,,Washed / Wet,2013,2014,,10.0,1,5,Blue-Green
+LOT-0956,Mexico,Siltepec El Triunfo,Various,Various Small Producers,Typica,Washed / Wet,2014,2014,1550.0,,1,1,Green
+LOT-0957,Mexico,Veracruz,Cafetal,Cafes Tomari Sa De Cv,Mundo Novo,Washed / Wet,2017,2017,1100.0,12.0,1,17,Green
+LOT-0958,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Bourbon,Natural / Dry,2014/2015,2014,1100.0,,0,0,Green
+LOT-0959,Brazil,Cerrado,Fazenda Rio Brilhante,Inacio Urban,Catuai,Natural / Dry,2015/2016,2015,1100.0,11.0,0,2,Green
+LOT-0960,Honduras,Marcala,Cerro Bueno,Jose Omar Acosta,Catuai,Washed / Wet,2015,2015,1400.0,12.0,0,1,Green
+LOT-0961,Mexico,"Coatepec, Coatepec",Los Brujos,Maria De Loudes Ancira Elizondo,Typica,Washed / Wet,2012,2012,1100.0,13.0,0,1,
+LOT-0962,Colombia,Huila,,Exportadora De Cafe Condor S.A,Caturra,Natural / Dry,2011,2011,1750.0,11.0,0,0,Green
+LOT-0963,Colombia,Cauca,,,,,4T72010,2011,1880.0,16.0,0,2,
+LOT-0964,United States (Hawaii),Kona,Kona Pacific Farmers Cooperative,,Peaberry,,,2010,,,0,10,
+LOT-0965,India,Chikmagalur,Sethuraman Estate,Nishant Gurger,,,2015,2015,1000.0,,0,0,Green
+LOT-0966,Guatemala,San Marcos,Nueva Granada,"Agricola Nueva Granada, S.A.",Catuai,Washed / Wet,2016,2016,1371.6,10.0,0,0,Green
+LOT-0967,Colombia,Huila,,La Plata,Caturra,Washed / Wet,2016,2016,,,0,0,
+LOT-0968,Honduras,Marcala,Bethel,Jose Omar Acosta,Catuai,Washed / Wet,2015,2015,1350.0,9.0,0,4,Green
+LOT-0969,Malawi,Mzuzu,Usingini Farm,Mzuzu Coffee Coop Union,Gesha,Washed / Wet,2014,2014,1200.0,13.0,0,1,Green
+LOT-0970,Philippines,"Davao City, Region 11",Bacofa,"Coffee For Peace,Inc.",Other,Washed / Wet,2014,2014,1400.0,14.0,0,3,Green
+LOT-0971,Brazil,Mantiqueira De Minas,Sertao Farm,Nazareth Dias Pereira,Yellow Bourbon,Other,2014/2015,2014,1200.0,12.0,0,6,Green
+LOT-0972,Brazil,Matas De Minas,Fazendas Klem Ltda,Nagipe Viana Klem,Catuai,Natural / Dry,,2017,1100.0,11.0,0,0,Green
+LOT-0973,Honduras,San Marcos,El Cerron,Nelson Melgar Melgar,Catuai,Washed / Wet,2014,2014,1450.0,12.0,0,3,Green
+LOT-0974,Honduras,Comayagua,Las Cuchillas,Nahun Maldonado,Caturra,Washed / Wet,2016 / 2017,2016,1500.0,11.0,0,3,Blue-Green
+LOT-0975,Mexico,Veracruz,,Juan Hermilo Sampieri,,,2016,2016,1130.0,12.0,0,0,Green
+LOT-0976,Brazil,Cerrado,Fazenda Sacramento,Nelson Azevedo França,Catuai,Natural / Dry,2015/2016,2015,1100.0,11.0,0,14,Green
+LOT-0977,Mexico,Veracruz,Cruz Verde,Hector Gabriel Barreda Nader,Typica,Washed / Wet,2012,2012,1000.0,12.0,0,4,
+LOT-0978,Mexico,Tapachula,,Ismam San Isidro Labrador S. De S.S.,Typica,Washed / Wet,2012,2012,1800.0,13.0,4,13,Green
+LOT-0979,Mexico,Motozintla,Finca Chanjul,Francisco J. Contreras Martinez De Escobar,Typica,Washed / Wet,2012,2012,1500.0,12.0,0,1,Green
+LOT-0980,Guatemala,"Sacatepequez, Guatemala",Finca Medina,"Siembras Vision, S.A.",Caturra,Washed / Wet,2013,2013,1524.0,11.0,0,4,Green
+LOT-0981,Taiwan,"Dongshan Dist., Tainan City 台南市東山區",Jing Jing Café 晶晶坊青山咖啡教室,Hu Guei Jing 胡桂青,Typica,Natural / Dry,2015,2016,680.0,12.0,0,0,Green
+LOT-0982,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Yellow Bourbon,Natural / Dry,2015/2016,2015,,,0,1,Green
+LOT-0983,Nicaragua,Jinotega,Cafetales Santa Matilde,Rolando Lacayo,Catuai,Washed / Wet,2015,2015,1100.0,10.0,0,4,Green
+LOT-0984,Honduras,Marcala,Cerro Bueno,Jose Omar Acosta,Catuai,Washed / Wet,2015,2015,1400.0,12.0,0,1,Green
+LOT-0985,Guatemala,Huehuetenango,El Injerto S.A.,El Injerto S.A.,Pacamara,Washed / Wet,2014,2015,1700.0,9.0,0,2,Blue-Green
+LOT-0986,Tanzania,Karatu Ngorogoro,Shangrilla Estate,Shangrilla Estate,Other,Washed / Wet,2014,2014,1700.0,13.0,0,5,Green
+LOT-0987,Taiwan,Nantou,Jia Jia Coffee 佳佳咖啡莊,Liu Ying Wu 劉穎悟,Typica,Semi-washed / Semi-pulped,2013/2014,2013,650.0,11.0,0,0,Green
+LOT-0988,India,Chikmagalur,Sethuraman Estates,Nishant Gurjer,,Natural / Dry,2013,2013,750.0,13.0,0,0,Blue-Green
+LOT-0989,Costa Rica,Central Valley,Various,Varios,Catuai,Washed / Wet,2014,2014,1300.0,11.0,0,3,Green
+LOT-0990,Brazil,Monte Carmelo,Juliana,Jose Renato Baiardi,Catuai,Natural / Dry,2013,2014,,11.0,0,3,Green
+LOT-0991,Guatemala,Oriente,Finca Quequesquez,Finca Quequesquez,Caturra,Washed / Wet,2012,2012,1450.0,12.0,0,4,Green
+LOT-0992,Tanzania,Mbinga,Ampcg,Taylor Winch (T) Ltd,Bourbon,Washed / Wet,2014,2014,1550.0,12.0,0,2,Blue-Green
+LOT-0993,Costa Rica,Tres Rios,El Patalillo,Jose Francisco Gonzalez,Caturra,Washed / Wet,2015,2015,1300.0,11.0,0,0,Blue-Green
+LOT-0994,Philippines,Corillera Administrative,"Irisan, Baguio","Coffee For Peace,Inc.",Typica,Natural / Dry,2014,2015,1200.0,,0,4,
+LOT-0995,Thailand,Chiangrai,,"Coffeas Co., Ltd.",Caturra,Washed / Wet,2014,2015,1450.0,12.0,0,0,Blue-Green
+LOT-0996,Honduras,Central Region,Los Hicaques,Reinerio Zepeda,Catuai,Natural / Dry,2015,2015,1450.0,13.0,0,1,Green
+LOT-0997,Tanzania,"Ruvuma, Mbinga",Mviwambi Coffee Farmers,Immaculata John,Bourbon,Washed / Wet,2015/2016,2015,1050.0,12.0,0,2,Green
+LOT-0998,Mexico,"Chiapas, Jaltenango",Exportadora Café California,Exportadora Café California,Caturra,Washed / Wet,2015,2015,1200.0,12.0,0,10,Green
+LOT-0999,Malawi,Southern- Zomba,Makoka Valley Estate,R.W.J. Wallace Ltd,Caturra,Washed / Wet,2014,2014,995.0,12.0,0,12,Green
+LOT-1000,Nicaragua,"Dipilto, Nueva Segovia",Las Promesas De San Blass,Gonzalo Castillo,,Washed / Wet,2016,2017,1200.0,9.0,0,7,Green
+LOT-1001,United States (Hawaii),Kona,,,,,,2011,,4.0,3,0,
+LOT-1002,Brazil,South Of Minas,Fazenda São Sebastião,Bruno De Andrade Frota,Mundo Novo,Natural / Dry,2012,2012,1000.0,12.0,0,1,Green
+LOT-1003,Mexico,Tapachula,,Ismam San Isidro Labrador S. De S.S.,Typica,Natural / Dry,2012,2012,1800.0,13.0,3,7,Green
+LOT-1004,Mexico,Santo Reyes Nopala,Cafetal Sinai,"Diego Manuel Woolrich Ramirez, Alfredo Fernando Woolrich Ramirez",Typica,Washed / Wet,2012,2012,1300.0,12.0,0,2,Green
+LOT-1005,United States (Puerto Rico),Yauco Region,Hacienda Caracolillo,Hacienda Alto Grande,Other,Washed / Wet,2013,2014,853.4,,0,0,Green
+LOT-1006,Ethiopia,Sidamo,,Kerchanshe Trading Plc,,Natural / Dry,2016,2017,,11.0,0,1,
+LOT-1007,Mexico,Talpa De Allende,El Desmoronado,Balbino Ramirez Flores,Typica,Washed / Wet,2012,2012,1200.0,10.0,0,1,Green
+LOT-1008,Mexico,Santa Maria Sitepec,,Etmar Didier Roblero Lopez,Typica,Washed / Wet,2012,2012,1642.0,11.0,0,5,Green
+LOT-1009,Tanzania,"Iwala Village, Mbeya Rural",Mwalyego Amcos,Taylor Winch (T) Ltd,Other,Washed / Wet,2014,2015,1456.0,13.0,0,2,Green
+LOT-1010,United States,Central America,,Juanana Coffee Association,Pache Comun,Natural / Dry,2014,2015,1706.9,,0,0,
+LOT-1011,Nicaragua,Jinotega,Cafetales Santa Matilde,Rolando Lacayo,Other,Washed / Wet,2015,2015,1100.0,11.0,0,1,
+LOT-1012,Brazil,Alta Paulista (Sao Paulo),Fazenda São José Mirante,José Olavo Boechat,Mundo Novo,Natural / Dry,2016,2017,695.0,11.0,5,8,Green
+LOT-1013,Mexico,San Fernando,"San Fernando, Chiapas",Medina Pedrero Productos Agrícolas Sa De Cv,Typica,Washed / Wet,2012,2012,1650.0,13.0,5,16,
+LOT-1014,Costa Rica,Naranjo,Santa Laura,Several,Caturra,Washed / Wet,2014,2014,1500.0,13.0,0,0,Green
+LOT-1015,United States (Hawaii),,,,Hawaiian Kona,Washed / Wet,2012,2012,,6.0,0,0,Blue-Green
+LOT-1016,Honduras,San Marcos,El Cerron,Nelson Melgar & Regino Melgal,Caturra,Natural / Dry,2014,2015,1350.0,12.0,0,1,Green
+LOT-1017,Guatemala,Oriente,El Papaturro,Amilcar Lapola,Bourbon,Washed / Wet,2015,2015,1219.2,11.0,0,1,Green
+LOT-1018,Mexico,"Motozintla, Chiapas",Finca El Gavilancillo,Martha Palacios,Other,Washed / Wet,2012,2012,950.0,12.0,0,12,Green
+LOT-1019,Mexico,Adolfo Lopez Mateos,,Coop,Typica,Washed / Wet,2012,2012,1100.0,,0,8,Green
+LOT-1020,Thailand,Thailand,Doi Tung Development Project,Doi Tung Development Project,,Washed / Wet,2012,2013,800.0,,0,3,Green
+LOT-1021,Brazil,Cerrado,,,Mundo Novo,Natural / Dry,2014,2015,,12.0,0,0,Green
+LOT-1022,Tanzania,Arusha,Rural Cooperative Society,Mlimani Ngarashi,Other,Washed / Wet,2014,2014,1525.0,12.0,0,5,Green
+LOT-1023,Uganda,Eastern,Kapchorwa,Kyagalanyi Coffee Ltd,Sl14,Natural / Dry,2013,2014,1700.0,12.0,0,3,Green
+LOT-1024,Taiwan,Nantou,Taiwan Hao Ka 台灣好咖莊園,Zhou Hong Xiu 周紅秀,Typica,Semi-washed / Semi-pulped,2013/2014,2013,1100.0,11.0,0,0,Green
+LOT-1025,Brazil,Grama Valley,Cachoeira Da Grama Farm,Gabriel Carvalho Dias,Bourbon,Pulped natural / honey,,2018,,11.0,0,9,Green
+LOT-1026,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Jing Jing Café 晶晶坊青山咖啡教室,Hu Kuei Ching 胡桂青,Typica,Washed / Wet,2015,2015,758.0,12.0,0,0,Blue-Green
+LOT-1027,Colombia,Guayata,,,Caturra,Washed / Wet,2016,2016,1600.0,,0,4,Green
+LOT-1028,Guatemala,Norte,Chapultepec,Chapultepec,Bourbon,Washed / Wet,2016,2016,3280.0,9.0,0,8,Green
+LOT-1029,Brazil,Grama Valley,Cachoeira Da Grama Farm,Gabriel De Carvalho Dias,Yellow Bourbon,Pulped natural / honey,2016 / 2017,2016,,11.0,0,3,Blue-Green
+LOT-1030,El Salvador,Apaneca,Santa Josefita,"Balcanes Coffee Estates, S.A. De C.V.",Bourbon,Washed / Wet,2017,2017,1450.0,,0,6,Green
+LOT-1031,Guatemala,Oriente,La Esperanza,"Agricola El Pilar, S.A.",Bourbon,Washed / Wet,2017,2017,1901.0,10.0,0,2,Green
+LOT-1032,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2014,2015,,10.0,2,5,Blue-Green
+LOT-1033,Thailand,,Doi Tung Development Project,Doi Tung Development Project,Peaberry,,,2010,,,0,0,
+LOT-1034,Kenya,Kiambu,Thiririka/Maara,Thiririka/Thima,Sl28,Washed / Wet,2017,2017,1600.0,11.0,0,3,Green
+LOT-1035,Mexico,Veracruz,Finca Monte Azúl,Jose Oscar Garza Sardaneta,Bourbon,Washed / Wet,2017,2017,1100.0,11.0,0,11,Green
+LOT-1036,Myanmar,Pyinoolwin,Sithar Coffee Farm,Min Hlaing,Other,Other,2015,2015,1066.8,,0,5,
+LOT-1037,Taiwan,Taiwan,八杞莊園,蕭閔家,Other,Washed / Wet,2017,2017,200.0,,0,0,Blue-Green
+LOT-1038,Mexico,Ixhuatlan Del Cafe,"Olotlan, El Plan, Criollo Garnica",Eduardo Luis Augusto Velazquez Solis,Typica,Washed / Wet,2012,2012,1186.0,13.0,0,12,Green
+LOT-1039,Taiwan,New Taipei Zhonghe 新北市中和區,Heng Lu Coffee 橫鹿咖啡,Lu Xing Hui 呂星輝,Typica,Washed / Wet,2013/2014,2013,300.0,11.0,0,0,Green
+LOT-1040,Taiwan,Nantou,Bai He Lin Coffee 白鶴林咖啡莊園,Ding Jin Cai 丁金財,Typica,Other,2013/2014,2013,688.0,11.0,0,0,Green
+LOT-1041,Taiwan,Taichung Taiping 台中市太平區,Bi Yun Si Shi Yi 碧云四十一咖啡坊,Lu Bi Yun呂碧云,Typica,Washed / Wet,2013/2014,2013,900.0,11.0,0,0,
+LOT-1042,Guatemala,Jalapa,El Morito,Roberto Monterroso,Pacas,Washed / Wet,2014,2014,1524.0,12.0,2,5,Green
+LOT-1043,Nicaragua,Matagalpa,,,Caturra,Washed / Wet,2013,2014,1050.0,10.0,1,3,Green
+LOT-1044,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Bourbon,Natural / Dry,2014/2015,2014,1100.0,10.0,0,0,
+LOT-1045,Taiwan,台中新社,張文進莊園,張文進,Typica,Washed / Wet,2014,2014,550.0,9.0,0,0,Green
+LOT-1046,Brazil,Mantiqueira De Minas,Sertao Farm,Nazareth Dias Pereira,Yellow Bourbon,Natural / Dry,2014/2015,2014,1200.0,12.0,0,8,Green
+LOT-1047,Tanzania,"Manyara, Karatu",Karatu Estate,Karatu Estate,Other,Washed / Wet,2014,2014,1700.0,12.0,0,0,Green
+LOT-1048,Uganda,Western,Bushenyi,Kawacom Uganda Ltd,,,2013,2014,1600.0,12.0,0,1,Green
+LOT-1049,Laos,"Paksong,Laos",Savan Coffee Bean,"Paksong,Laos",Catimor,Washed / Wet,2016,2017,1300.0,,0,0,Green
+LOT-1050,Mexico,Motozintla,La Victoria Pante Nubes,Domingo Muguira Revuelta,Catuai,Semi-washed / Semi-pulped,2012,2012,1210.0,13.0,0,7,Green
+LOT-1051,Colombia,Huila,,Exportadora De Café Cóndor S.A,,,4T/2010,2011,1800.0,,0,1,
+LOT-1052,Mexico,Veracruz,Selva Negra,Moises Guillermo Carrera Montes,Bourbon,Washed / Wet,2012,2012,,13.0,0,1,Green
+LOT-1053,United States (Hawaii),Kona,,,Hawaiian Kona,Washed / Wet,2012,2012,,10.0,2,0,Blue-Green
+LOT-1054,Mexico,Oaxaca,Finca Santa Clara,Juan Jose Casas Blanco,Typica,Washed / Wet,2012,2012,1100.0,11.0,0,3,Green
+LOT-1055,Guatemala,Orient,Several,Several,Caturra,Washed / Wet,2013,2014,1200.0,11.0,0,1,Green
+LOT-1056,Guatemala,Huehuetenango,Finca Los Cerros Y Anexos,Ottoniel Villatoro Lopez,Caturra,Washed / Wet,2015,2015,1706.9,12.0,0,1,Green
+LOT-1057,Haiti,Haiti,2000 Farms,Coopaimar Copperative Agro Industriel De Marmelade,Typica,Washed / Wet,2012,2012,1000.0,12.0,0,0,Green
+LOT-1058,Panama,Boquete,Elida Estate,Lamastus,Caturra,Other,2014,2015,1680.0,11.0,1,4,Green
+LOT-1059,Honduras,"Siguatepeque, Comayagua",Juan Damaso,La Gran Manzana,Caturra,Natural / Dry,2015,2015,1450.0,11.0,0,2,Green
+LOT-1060,Nicaragua,Jinotega,Cafetales Santa Matilde,Rolando Lacayo,Other,Washed / Wet,2015,2015,,12.0,0,5,Green
+LOT-1061,United States (Hawaii),Kona,,,Arusha,Natural / Dry,2011,2011,,13.0,0,6,Blue-Green
+LOT-1062,Brazil,Monte Carmelo,Castelhana Farm,Diogo Tudela Neto,,Natural / Dry,2015/2016,2015,,,0,1,Green
+LOT-1063,Myanmar,Ywar Ngan,Myaing,U Soe,Catuai,Washed / Wet,2015,2015,3825.0,,0,2,Green
+LOT-1064,Honduras,Marcala,Bethel,Jose Omar Acosta,Catuai,Washed / Wet,2015,2015,1350.0,9.0,0,2,Green
+LOT-1065,Costa Rica,San Ramon,Several,Several,Caturra,Washed / Wet,2014,2014,1300.0,11.0,0,0,Green
+LOT-1066,Honduras,Central Region,Los Hicaques,Reinerio Zepeda,Catuai,Natural / Dry,2015,2015,1450.0,13.0,0,1,Green
+LOT-1067,Mexico,Oaxaca,San José Y El Portillo,"Jose Rios Lara, Apolonia Franco Torres, Jenaro Gonzales Mendoza",Typica,Washed / Wet,2012,2012,1200.0,11.0,0,2,Green
+LOT-1068,Colombia,,,,,,,2011,,18.0,0,2,
+LOT-1069,Taiwan,Taiwan,胖胖糖,唐權盛,Typica,Other,2016,2016,,,0,1,Green
+LOT-1070,Guatemala,Antigua,Finca Medina,Finca Medina,Bourbon,Washed / Wet,2015/2016,2015,1500.0,11.0,0,0,Green
+LOT-1071,Guatemala,Oriente,Chiquimulja / Alpha Cafe / Senfro,Chiquimulja / Alpha Cafe / Senfro,Bourbon,Washed / Wet,2012,2012,,11.0,0,3,Green
+LOT-1072,Costa Rica,Tarrazu,Gamboa,Martin Gutierrez,Caturra,Washed / Wet,2015,2015,,11.0,0,4,Blue-Green
+LOT-1073,Guatemala,"San Lucas Toliman, Solola",Santo Tomas Pachuj,"Pachuj, S.A",Bourbon,Washed / Wet,2013,2013,1550.0,12.0,0,5,Green
+LOT-1074,Guatemala,Oriente,Chiquimulja / Alpha Cafe / Senfro,Chiquimulja / Alpha Cafe / Senfro,Bourbon,Washed / Wet,2012,2012,,11.0,0,2,Green
+LOT-1075,Indonesia,Sumatra Brastagi,Darmawi,Surbakti,Mandheling,Semi-washed / Semi-pulped,2015,2015,1350.0,13.0,0,1,Blue-Green
+LOT-1076,Colombia,Santander,,,Caturra,Natural / Dry,2014,2014,1550.0,,0,1,
+LOT-1077,Malawi,Southern- Zomba,Makoka Valley Estate,R.W.J. Wallace Ltd,Caturra,Washed / Wet,2014,2014,995.0,12.0,0,1,Blue-Green
+LOT-1078,Mexico,"El Desmoronado, Talpan De Allende Jalisco","El Desmoronado, Talpan De Allende Jalisco",Balbino Ramirez Flores,Typica,Washed / Wet,2014,2014,1200.0,12.0,0,4,Green
+LOT-1079,United States (Hawaii),,,,,,,2011,,,0,0,
+LOT-1080,Tanzania,Arusha,Burka Coffee Estates,Burka Coffee Estates,Other,Washed / Wet,2014,2015,1400.0,12.0,0,1,Blue-Green
+LOT-1081,Nicaragua,Nueva Segovia,Los Saltarines,Adonis Jose Ortez Beltran,,,2016,2016,,11.0,0,0,Green
+LOT-1082,Brazil,Monte Carmelo,Leticia Farm,Max Kend Takiuti E Outros,,,2016,2016,,11.0,0,7,Green
+LOT-1083,Honduras,Occidental,Bsr,Bsr,Caturra,Washed / Wet,2014,2014,1400.0,11.0,0,5,Green
+LOT-1084,Uganda,Western,Kigezi Coffee Farmers Association,Kigezi Coffee Farmers Association,,,2013,2014,1745.0,12.0,0,2,Green
+LOT-1085,Colombia,,,,,,,2011,,,0,2,
+LOT-1086,Brazil,South Of Minas,Rio Verde,Ipanema Agrícola Sa,Bourbon,Semi-washed / Semi-pulped,2014/2015,2014,1200.0,,0,3,Green
+LOT-1087,Guatemala,Huehuetenango,Finca El Naranjal,Byron Alonzo Solis,Bourbon,Natural / Dry,2014,2014,1383.8,11.0,0,5,Green
+LOT-1088,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2013,2014,,11.0,1,0,Green
+LOT-1089,Mauritius,Chamarel (South West),Case Noyale Ltd,Case Noyale Ltd,,,2016,2016,280.0,12.0,0,0,Green
+LOT-1090,Brazil,Vale Da Grama,Cachoeira Da Grama Farm,Lindolpho De Carvalho Dias,Yellow Bourbon,Semi-washed / Semi-pulped,2015/2016,2015,1250.0,11.0,0,3,Green
+LOT-1091,Guatemala,Santa Rosa,El Guayabo,Edwin Muñoz,Caturra,Washed / Wet,2017,2017,1500.0,10.0,0,4,Green
+LOT-1092,Honduras,Ocotepeque,La Bendicion,Jorge Alfredo Pinto,Catuai,Washed / Wet,2017,2017,1650.0,11.0,0,5,Green
+LOT-1093,Taiwan,Taiwan,王秋金,王秋金,Other,Natural / Dry,2017,2017,,,0,0,Blue-Green
+LOT-1094,Myanmar,Pyin Oo Lwin,Mixed,Shwe Yin Mar,Other,Washed / Wet,2015,2015,3800.0,,0,2,Green
+LOT-1095,Uganda,Southern,Mannya Coffee Project,Mannya Coffee Project,,,2013,2014,1200.0,12.0,0,1,Green
+LOT-1096,Guatemala,Oriente,Various,Varios,Other,Washed / Wet,2014,2014,1219.2,11.0,0,3,Green
+LOT-1097,Brazil,Mantiqueira De Minas,Pereira Estate Coffee,Maria Rogeria Costa Pereira,Yellow Bourbon,Semi-washed / Semi-pulped,2013,2014,1250.0,10.0,0,10,
+LOT-1098,Mexico,Zaragoza Itundujia,Peña Negra,Heras Hernandez Gaudencio,Typica,Washed / Wet,2012,2012,1450.0,15.0,0,1,
+LOT-1099,Guatemala,Huehuetenango,Barranca De Las Flores,Idmar De Jesus Velasquez Calderon,Bourbon,Washed / Wet,2013,2013,1859.3,12.0,1,1,Green
+LOT-1100,Taiwan,南投國姓,春風咖啡,曾林春英,Typica,Washed / Wet,2014,2014,600.0,14.0,0,0,Green
+LOT-1101,Taiwan,Nantou,Guoxing Farm Coffee 國姓農場咖啡,Huang San Lang 黃三郎,Typica,Washed / Wet,2013/2014,2013,600.0,11.0,0,0,Green
+LOT-1102,China,Yunnan,Alicia'S Farm,Alicia'S Farm,Other,Washed / Wet,2013,2014,1700.0,17.0,0,14,Green
+LOT-1103,Honduras,Marcala,Bethel,Jose Omar Acosta,,,2016,2016,1450.0,10.0,0,0,Green
+LOT-1104,El Salvador,"Department Of Ahuachapan, Municipality Of Apanecallamatepec Mountain",Finca La Fany,"Luis, Rafael And Carmen Silva Hoff",Bourbon,Washed / Wet,2013,2014,1450.0,,0,1,Green
+LOT-1105,Mexico,La Concordia,,Armando Luis Pohlenz Martinez,Caturra,Washed / Wet,2012,2012,1550.0,12.0,4,16,Green
+LOT-1106,Mexico,Pochutla,Copalita,Carlos Alberto Gomez,Typica,Washed / Wet,2012,2012,1050.0,10.0,2,4,Green
+LOT-1107,Ethiopia,Kelem Welega,,Exporter Name | Muluneh Kaka | Phone: 0114390290,,,2010,2010,,10.0,0,1,
+LOT-1108,Guatemala,Oriente,La Castellana,Agripec De La Vega Y Cia.,Bourbon,Washed / Wet,2013,2013,1310.6,11.0,1,4,Green
+LOT-1109,United States (Hawaii),Kona,,,Hawaiian Kona,Washed / Wet,2012,2012,,12.0,5,7,Green
+LOT-1110,Taiwan,Taichung Xinshe 台中市新社區,Tokoffee莊園,Wu Yi Ting 吳伊婷,Yellow Bourbon,Other,2013/2014,2013,600.0,11.0,0,0,Green
+LOT-1111,Tanzania,Arusha,Kongoni Estate,Kongoni Estate,Other,Washed / Wet,2014,2014,,12.0,0,5,Blue-Green
+LOT-1112,Tanzania,Mkuu Rombo,Delfina Farm,Delfina Leon Shine,Bourbon,Washed / Wet,2015/2016,2015,1700.0,13.0,0,5,Green
+LOT-1113,Mexico,Chilón,,Armando Gutierrez Guzman,Typica,Semi-washed / Semi-pulped,2012,2012,940.0,11.0,0,21,Green
+LOT-1114,Burundi,Mumirwa,,Sogestal Mumirwa,,,2016,2016,1700.0,12.0,0,0,Green
+LOT-1115,Honduras,Comayagua,Las Moras,Yamilet Lope,Caturra,Natural / Dry,2016,2017,1400.0,10.0,0,4,Green
+LOT-1116,Myanmar,"Yauk Sauk, Shan State",Waylead Farms,"Waylead Co, Ltd",Other,Natural / Dry,2015,2015,914.4,11.0,1,26,Green
+LOT-1117,Brazil,Cerrado - Monte Carmelo - Minas Gerais,São Rafael_ Ra/Ras Certified,Luiz Augusto Pereira Moguilod,Catuai,Natural / Dry,2017 / 2018,2017,995.0,11.0,0,1,Green
+LOT-1118,Mexico,"Calnali, Hidalgo",Mirador,"Hernandez Pacheco, Timoteo",Caturra,Washed / Wet,2012,2012,808.0,11.0,2,8,
+LOT-1119,Guatemala,Oriente,Several,Unex,Caturra,Washed / Wet,2012,2013,1400.0,11.0,1,12,Green
+LOT-1120,Taiwan,Chiayi Fanlu嘉義縣番路鄉,Weng Hui Ling 翁惠鈴,Weng Hui Ling 翁惠鈴,Typica,Semi-washed / Semi-pulped,2013/2014,2013,700.0,11.0,0,0,Green
+LOT-1121,Mexico,Sierra Madre Occidental,Cortapico,Balbino Ramirez Flores,Caturra,Washed / Wet,2016,2016,1600.0,10.0,0,2,Green
+LOT-1122,Myanmar,Ywar Ngan,Thein Kone,U Htun Htun,Catuai,Natural / Dry,2014,2015,,,0,1,Green
+LOT-1123,Nicaragua,Matagalpa,Finca El Consuelo,Gloria Antonieta Escobar Urrutia,Caturra,Washed / Wet,2015,2015,900.0,11.0,0,2,Green
+LOT-1124,Colombia,,,,Typica,Washed / Wet,2012,2014,,10.0,0,0,Green
+LOT-1125,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2014,2014,,12.0,4,13,Green
+LOT-1126,India,Chikmagalur,Sethuraman Estates,Nishant Gurjer,,,2014,2014,750.0,,0,1,Blue-Green
+LOT-1127,India,Chikmagalur,Sethuraman Estates,Nishant Gurjer,,Natural / Dry,2013,2013,750.0,,0,0,Green
+LOT-1128,Mexico,Veracruz,El Aguacate,Marco Virgilio Ramirez Teliz,Bourbon,Washed / Wet,2012,2012,1000.0,12.0,0,12,Green
+LOT-1129,Guatemala,Oriente,Agropecuaria Quiagral,Agropecuaria Quiagral,Bourbon,Washed / Wet,2012,2012,1310.6,11.0,0,5,Green
+LOT-1130,Vietnam,Dala,Apollo Estate,"Yeh, Li Chuan",Catimor,Other,2017,2017,1550.0,,0,2,
+LOT-1131,Nicaragua,Jinotega,Los Mesones,Sheldom La Rue,Caturra,Washed / Wet,2015,2015,1187.5,11.0,0,2,
+LOT-1132,Honduras,Marcala,Cerro Bueno,Jose Omar Acosta,Catuai,Washed / Wet,2015,2015,1400.0,11.0,0,0,Green
+LOT-1133,Guatemala,Oriente,El Morito,Roberto Monterroso,Bourbon,Washed / Wet,2013,2013,1310.6,11.0,0,2,Green
+LOT-1134,Mexico,Coatepec,"La Orduña, Coatepec, Veracruz",Pablo Enrique Martinez Gama,Typica,Washed / Wet,2012,2012,1250.0,11.0,0,2,Green
+LOT-1135,Mexico,Zaragoza Itundujia,El Carrizo,Cirilo Jose Jose,Typica,Washed / Wet,2012,2012,1550.0,14.0,1,2,Green
+LOT-1136,United States (Hawaii),Kona,,,,,,2011,,5.0,12,1,
+LOT-1137,Mexico,Zaragoza Itundujia,El Tabaco,Alberta Teodoro Analco,Typica,Washed / Wet,2012,2012,1300.0,15.0,0,0,
+LOT-1138,Taiwan,Yunlin Gukeng He Bao 雲林縣古坑鄉荷苞村,Sheng He Shang Pin Coffee 聖荷上品咖啡坊,Du Zheng Ru 杜政儒,Typica,Other,2013/2014,2013,200.0,11.0,0,0,Green
+LOT-1139,Brazil,Mantiqueira De Minas,,,Bourbon,Pulped natural / honey,2017 / 2018,2017,1100.0,11.0,0,5,Green
+LOT-1140,Taiwan,苗栗泰安,好自在咖啡莊園,簡義榮,Typica,Washed / Wet,2014,2014,850.0,7.0,0,0,Green
+LOT-1141,Nicaragua,,,,,Natural / Dry,2013,2014,,10.0,0,4,Green
+LOT-1142,Taiwan,Changhua Baguashan 彰化市八卦山,Wu Kun Shan Coffee 吳焜山咖啡園,Wu Kun Shan 吳焜山,Typica,Semi-washed / Semi-pulped,2013/2014,2013,250.0,11.0,0,0,Green
+LOT-1143,Taiwan,Changhua Baguashan 彰化市八卦山,A Shu She Coffee 阿束社咖啡莊園,Zheng Zhao Ming 鄭昭明,Typica,Washed / Wet,2013/2014,2013,,11.0,0,0,Green
+LOT-1144,Mexico,Escuitla,,Federico Pacheco Perez,Typica,Washed / Wet,2012,2012,1300.0,14.0,1,17,Green
+LOT-1145,Nicaragua,Jinotega,Santa Matilde,Ronaldo Lacayo Cardenal,Caturra,Washed / Wet,2017,2017,1250.0,10.0,0,5,Green
+LOT-1146,Mexico,San Miguel Del Puerto,"Santa Clara, California Y Camila",Semiramis Casas Velazquez,Other,Washed / Wet,2012,2012,1100.0,11.0,0,12,Green
+LOT-1147,Mexico,Coatepec,"La Orduña, Coatepec, Veracruz",Pablo Enrique Martinez Gama,Typica,Washed / Wet,2012,2012,1250.0,12.0,0,9,Green
+LOT-1148,Thailand,Thailand,Doi Tung Development Project,Doi Tung Development Project,,Washed / Wet,2012,2013,800.0,,0,0,Green
+LOT-1149,Taiwan,Changhua Baguashan 彰化市八卦山,Zhang Li Hong Coffee 張立宏咖啡莊園,Zhang Xian Tong 張献銅,Typica,Washed / Wet,2013/2014,2013,250.0,11.0,0,0,Green
+LOT-1150,Mexico,"Sierra Fraylesca, Chiapas",Various,Various Small Producers,Typica,Washed / Wet,2014,2014,1400.0,,0,2,Green
+LOT-1151,Myanmar,"Doe Kwin, Pyin Oo Lwin",Doe Kwin,Ngu Shwe Li Coffee Estate,Other,Washed / Wet,2015,2015,3845.0,,0,4,Green
+LOT-1152,Ethiopia,Limu,"Phone Number | 0911-51-08-01, Email | At",Contact Name | Ato Teshome Belamo,,,2010,2010,,5.0,0,2,
+LOT-1153,Mexico,Coatepec,Finca La Orduña,Pablo Enrique Martinez Gama,Typica,Natural / Dry,2012,2012,1250.0,12.0,0,6,Green
+LOT-1154,Mexico,"Motozintla, Chiapas",Finca Buenos Aires,Martha Palacios,Other,Washed / Wet,2012,2012,1100.0,12.0,1,7,Green
+LOT-1155,Colombia,Huila,,,,Washed / Wet,2015,2015,,,0,1,Green
+LOT-1156,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2014,2014,,11.0,1,3,Green
+LOT-1157,Mexico,Chiapas,Various,Varios Productores,Bourbon,Washed / Wet,2013,2013,1300.0,12.0,0,4,Green
+LOT-1158,Mexico,Jaltenango,Finca Monte Grande,Maria Elena Teresa Fernandez Ceja,Catuai,Washed / Wet,2012,2012,1100.0,11.0,0,3,Green
+LOT-1159,Mexico,Veracruz,Rancho San Francisco Iii,Delmar Moreno Guillen,Bourbon,Washed / Wet,2012,2012,1100.0,,0,0,
+LOT-1160,United States (Hawaii),Kona,,,,,,2011,,5.0,3,0,
+LOT-1161,Mexico,Veracruz,Finca Huehuetecpan,Maria Del Rosario Irais Valdivia Ortiz,Mundo Novo,Washed / Wet,2012,2012,1250.0,11.0,0,0,Green
+LOT-1162,Guatemala,San Marcos,Piamonte,Jorge Leal,Bourbon,Washed / Wet,2017,2017,1700.0,10.0,0,2,Green
+LOT-1163,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2012,2012,,12.0,7,10,Blue-Green
+LOT-1164,Mexico,Veracruz,La Cuchilla,Ciro De La Vequia Cessa,Typica,Washed / Wet,2012,2012,1300.0,12.0,0,3,Green
+LOT-1165,Nicaragua,Jinotega,Asociación Aldea Global Jinotega,Asociación Aldea Global Jinotega,Caturra,Washed / Wet,2014,2015,1250.0,11.0,0,0,Green
+LOT-1166,Kenya,Kiambu,Yara Estate / Benvar Estate,Yara / Benvar,Sl34,Washed / Wet,2017,2017,1500.0,11.0,0,5,
+LOT-1167,Guatemala,Oriente,La Esperanza,"Agricola El Pilar, S.A.",Bourbon,Washed / Wet,2016,2017,,10.0,0,1,Green
+LOT-1168,Taiwan,"Baihe Dist., Tainan City 臺南市白河區",Baijiada Coffee Farm佰加達咖啡莊園,Lin Ren Fu 林人富,Typica,Washed / Wet,2013,2014,600.0,10.0,0,0,Blue-Green
+LOT-1169,Taiwan,"Taiwu Township , Pingtung County 屏東縣泰武鄉",Ka-Vulungan Coffee Estate,Wei-Chieh ( Jack ) Hua,Typica,Natural / Dry,2014,2015,1000.0,,0,0,
+LOT-1170,Mexico,Chiapas,Various,Varios Productores,Bourbon,Washed / Wet,2013,2013,1300.0,12.0,0,5,Green
+LOT-1171,Mexico,Chiapas,Comonyaj Noptic S De Ss,Comonyaj Noptic S De Ss,Bourbon,Washed / Wet,2013,2013,1022.0,13.0,0,4,Green
+LOT-1172,Mexico,"La Concordia, Chiapas",Union Ramal Santa Cruz,Union Ramal Santa Cruz,Typica,Washed / Wet,2013,2013,1400.0,12.0,0,4,Green
+LOT-1173,Costa Rica,Brunca,Several,Coopeagri,Catuai,Washed / Wet,2013,2013,1100.0,10.0,0,4,Blue-Green
+LOT-1174,Peru,Huanuco,,,,Washed / Wet,2013,2014,,12.0,1,2,Green
+LOT-1175,Thailand,Thailand,,Doi Tung Development Project,,Washed / Wet,2013,2014,800.0,12.0,0,0,Green
+LOT-1176,Mexico,Pochutla,El Vergel,Angel Gonzales,Typica,Washed / Wet,2012,2012,1050.0,10.0,1,22,Green
+LOT-1177,Mexico,Zaragoza Itundujia,Peña Negra,Minerva Zuñiga Garcia,Bourbon,Washed / Wet,2012,2012,1450.0,14.0,0,0,
+LOT-1178,Mexico,Tuxtla Gutierrez,Finca Monte Grande,Alfredo Moises Ceja,Typica,Washed / Wet,2012,2012,1100.0,12.0,0,7,
+LOT-1179,Guatemala,Antigua,Genuine Antigua Medina,Jorge Bolanos,Bourbon,Washed / Wet,2012,2012,,,0,4,Green
+LOT-1180,El Salvador,Cacahuatique,La Montaña,Sociedad Cooperativa De Cafetaleros De Ciudad Barrios De R.L.,Bourbon,Washed / Wet,2016,2017,1250.0,,0,12,Blue-Green
+LOT-1181,Guatemala,Oriente,La Esmeralda,Jesus Ramirez,Bourbon,Washed / Wet,2016,2017,1219.2,10.0,0,1,Green
+LOT-1182,Guatemala,Oriente,La Castellana,Agripec De La Vega Y Cia.,Bourbon,Washed / Wet,2013,2013,1310.6,11.0,0,6,Green
+LOT-1183,Thailand,Thailand,,Doi Tung Development Project,,Washed / Wet,2013,2014,800.0,12.0,0,0,Blue-Green
+LOT-1184,Mexico,"Coatepec, Coatepec",Consolapa,Cecilia Avila Camberos,Mundo Novo,Washed / Wet,2012,2012,1264.0,,0,9,
+LOT-1185,Thailand,,Doi Tung Development Project,Doi Tung Development Project,Peaberry,,,2010,,,1,0,
+LOT-1186,Mexico,"La Concordia, Chiapas",Union Ramal Santa Cruz,Union Ramal Santa Cruz,Typica,Washed / Wet,2013,2013,1400.0,12.0,0,6,Green
+LOT-1187,Mexico,"Tenango De Doria, Hidalgo",El Encinal,"Gomez Granillo, Veronico",Caturra,Washed / Wet,2012,2012,975.0,13.0,5,6,
+LOT-1188,Colombia,Huila,,,,,4T/10,2011,1800.0,10.0,0,4,
+LOT-1189,Guatemala,"Chuva, San Marcos",La Igualdad,Federico Weller,,,2009/2010,2011,1325.9,17.0,1,19,
+LOT-1190,Mexico,Tepetzingo,Tepetzingo,Rogelio Jacome Morales,Typica,Washed / Wet,2012,2012,1250.0,12.0,0,11,
+LOT-1191,Mexico,La Concordia,,Armando Luis Pohlenz Martinez,Caturra,Washed / Wet,2012,2012,1550.0,13.0,0,5,Green
+LOT-1192,Taiwan,Nantou,Su-Zhen Huang 黃素真,張素真,Typica,Natural / Dry,2014,2015,700.0,,0,1,
+LOT-1193,Nicaragua,Jinotega,Las Nubes,Cooperativa De Servicio Múltiples El Gorrión R.L,Caturra,Natural / Dry,2015,2015,1050.0,12.0,0,6,Green
+LOT-1194,Mexico,La Concordia,,Armando Luis Pohlenz Martinez,Caturra,Washed / Wet,2012,2012,1550.0,12.0,1,20,Green
+LOT-1195,Colombia,Cundinamarca,,,Caturra,Washed / Wet,2013,2013,1550.0,,0,2,Green
+LOT-1196,Mexico,"Coatepec, Coatepec",Casa Blanca,Maria De La Luz Sanchez Todd,Typica,Washed / Wet,2012,2012,1100.0,12.0,0,5,Blue-Green
+LOT-1197,Guatemala,Oriente,El Papaturro,Amilcar Lapola,Bourbon,Washed / Wet,2013,2014,1219.2,10.0,0,2,Green
+LOT-1198,Mexico,Xicotepec De Juarez,Cre-Leg L-4,Adriana Torres Rico Quevedo,Typica,Washed / Wet,2012,2012,800.0,13.0,0,30,Green
+LOT-1199,Guatemala,Oriente,Various,Varios,Other,Washed / Wet,2014,2014,1219.2,10.0,1,4,Green
+LOT-1200,Colombia,Pereira,Several,Spot,Caturra,Washed / Wet,2013,2014,1200.0,,0,3,Green
+LOT-1201,Cote d'Ivoire,Cnra Station Of Divo,Cnra Station Of Divo,Cnra,,Washed / Wet,2016,2017,200.0,13.0,1,2,Blue-Green
+LOT-1202,Mexico,Zentla,La Gloria,Antonio Cordoba Murillo,Typica,Washed / Wet,2012,2012,750.0,14.0,0,19,Green
+LOT-1203,Mexico,Zentla,El Encanto,Eric Jesus Cordoba Arroyo,Typica,Washed / Wet,2012,2012,950.0,14.0,0,23,
+LOT-1204,United States,Chikmagalur,Sethuraman Estates,Sethuraman Estates,Arusha,Natural / Dry,2012,2012,3000.0,,0,0,Green
+LOT-1205,Guatemala,Oriente,Conquista / Morito,Conquista/ Morito,Bourbon,Washed / Wet,2012,2012,,11.0,0,6,Green
+LOT-1206,Taiwan,Natou County,Baishencun Coffee Farm百勝村咖啡莊園,Wu Shu Yi 巫叔憶,Typica,Washed / Wet,2014,2014,850.0,11.0,0,0,Blue-Green
+LOT-1207,Mexico,Veracruz,El Aguacate,Marco Virgilio Ramirez Teliz,Bourbon,Washed / Wet,2012,2012,1000.0,13.0,0,10,Green
+LOT-1208,Guatemala,Santa Rosa,Las Delicias,Otto Becker,Bourbon,Washed / Wet,2017,2017,1219.2,10.0,0,0,Green
+LOT-1209,Honduras,Ocotepeque,La Bendicion,Jorge Alfredo Pinto,Catuai,Washed / Wet,2017,2017,1650.0,11.0,0,5,Green
+LOT-1210,Mexico,Zaragoza Itundujia,La Tejeria,Hilario García Sandoval,Typica,Washed / Wet,2012,2012,1550.0,14.0,0,8,
+LOT-1211,Guatemala,Occidente,Chapultepec,Chapultepec,Bourbon,Washed / Wet,2016,2016,1320.0,11.0,0,6,Green
+LOT-1212,Guatemala,Nuevo Oriente,El Chile,Ovidio Cardona,Catuai,Washed / Wet,2015,2015,1550.0,11.0,0,6,Green
+LOT-1213,Costa Rica,San Rafael,,,Catuai,Washed / Wet,2012,2013,,10.0,5,20,
+LOT-1214,Mexico,"Pluma Hidalogo, Oaxaca",Various,Various Smallholders,Typica,,08/09 crop,2010,1200.0,,0,8,
+LOT-1215,Mexico,Yajalon,El Delirio,Socieadad Cooperativa Industrial Cafes Yajalon S. C. L.,Typica,Washed / Wet,2012,2012,1450.0,14.0,0,34,Green
+LOT-1216,United States (Puerto Rico),Yauco Region,Hacienda Caracolillo,Hacienda Alto Grande,Other,Washed / Wet,2013,2014,853.4,13.0,0,0,Green
+LOT-1217,Guatemala,San Marcos,Las Merceditas,Angel De Leon,Bourbon,Washed / Wet,2017,2017,1700.0,10.0,0,1,Green
+LOT-1218,,,,,,,,2011,,10.0,0,3,
+LOT-1219,Mexico,Zaragoza Itundujia,Huanacaxtle,Guadalupe Heras Hernandez,Typica,Washed / Wet,2012,2012,1500.0,16.0,0,2,
+LOT-1220,Mexico,Tlacuilotepec,Las Palmas,Juana Rodriguez Gutierrez,Mundo Novo,Washed / Wet,2012,2012,1100.0,11.0,0,45,Green
+LOT-1221,Mexico,Talpa De Allende,El Desmoronado,Balbino Ramirez Flores,Typica,Washed / Wet,2012,2012,1200.0,10.0,0,0,Blue-Green
+LOT-1222,Mexico,"Iliatenco, Guerrero",,Gonzalo De Aquino Flores,Mundo Novo,Natural / Dry,2012,2012,1300.0,12.0,0,12,
+LOT-1223,Guatemala,Oriente,Various,Varios,Other,Washed / Wet,2014,2014,1219.2,12.0,0,3,Green
+LOT-1224,Honduras,Intibuca,Various,Cooperativa Coaquil,Pacas,Washed / Wet,2014,2014,1350.0,11.0,0,12,Green
+LOT-1225,Peru,San Ignacio,,Frontera,Typica,Washed / Wet,2012,2013,1400.0,,0,4,
+LOT-1226,Mexico,Amatenango De La Frontera,Pico Del Oro,Juan Avenamar Rodriguez Funez,Typica,Washed / Wet,2012,2012,,14.0,7,38,Green
+LOT-1227,Mexico,Zaragoza Itundujia,El Sauce,Juan Cruz Riaño,Typica,Semi-washed / Semi-pulped,2012,2012,1550.0,14.0,3,17,Green
+LOT-1228,Mexico,Zaragoza Itundujia,La Pandora,Luisa Zuñiga García,Typica,Washed / Wet,2012,2012,1400.0,16.0,0,0,
+LOT-1229,Mexico,"La Concordia, Chiapas",Santa Teresa,Agroindustrias Unidas De Mexico Sa De Cv,Typica,Washed / Wet,2013,2013,1300.0,12.0,0,8,Green
+LOT-1230,Nicaragua,Jalapa,Finca Las Marías,Teófilo Narváez,Caturra,Other,2016,2017,1100.0,10.0,0,4,Green
+LOT-1231,Ecuador,"San Juan, Playas",Robustasa,Café Robusta Del Ecuador S.A.,,,2016,2016,,,0,1,Blue-Green
+LOT-1232,United States (Hawaii),Kona,,,,Natural / Dry,2013,2014,,12.0,5,8,Green
+LOT-1233,Guatemala,Oriente,La Castellana,Agripec De La Vega Y Cia.,Bourbon,Washed / Wet,2013,2013,1310.6,12.0,1,8,Green
+LOT-1234,Mexico,Veracruz,"La Patrona, El Trebol, La Cadena","Jose Vazquez Canton, Jose Antonio Jimenez Gonzalez, Ireneo Garcia Valdivia",Typica,Washed / Wet,2012,2012,1320.0,14.0,0,0,Green
+LOT-1235,Mexico,Veracruz,El Tesoro,Damaso Martinez Perez,Typica,Semi-washed / Semi-pulped,2012,2012,1250.0,14.0,0,0,
+LOT-1236,Mexico,"Ohuapan, Tlaltetela",Los Encinos,"Pedro Herrera Guzman, Aurelio Gabriel Hernandez ,Maria De Lourdes Deristain Tress",Bourbon,Washed / Wet,2012,2012,1350.0,12.0,0,0,
+LOT-1237,China,Yunnan,Alicia'S Farm,Yunnan Louis Herbs R&D Center,Typica,Washed / Wet,2013,2014,1850.0,,0,5,Green
+LOT-1238,Mexico,Yecuatla,Los Pinos,Juan Garcia Hernandez,Caturra,Washed / Wet,2012,2012,1150.0,13.0,0,2,
+LOT-1239,Nicaragua,Nueva Segovia,Los Saltarines,Adonis Jose Ortez Beltran,,,2016,2016,,10.0,1,7,Green
+LOT-1240,Nicaragua,,,,,Natural / Dry,2014,2015,,11.0,1,1,Green
+LOT-1241,Guatemala,Oriente,Various,Varios,Other,Washed / Wet,2014,2014,1219.2,12.0,0,3,Green
+LOT-1242,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Kan Tou Mountain Coffee 崁頭山咖啡館,Guo Jiun Hung 郭俊宏 & Tseng Ru Feng 曾如楓,Typica,Washed / Wet,2013,2014,800.0,10.0,0,0,Green
+LOT-1243,Mexico,Tapachula,Grapos El Porvenir,Epifanio Garcia De Miguel,Typica,Washed / Wet,2012,2012,1400.0,13.0,0,1,Green
+LOT-1244,Mexico,Cofradia De Suchitlan,Cofradia,"J. Carmen Guzman Concepcion, Ignacio Ramirez Barajas, Dionicio Garcia Ramirez",Typica,Washed / Wet,2012,2012,1300.0,10.0,0,1,
+LOT-1245,United States (Hawaii),Kona,Kona Farms,,,,,2011,,,0,0,
+LOT-1246,Mexico,"Sierra, Chiapas",Various,Various Small Producers,Bourbon,Washed / Wet,2014,2014,1600.0,,0,0,Green
+LOT-1247,Mexico,Villa Talea De Castro,Finca Sego,Reynaldo Olivera Rios,Typica,Washed / Wet,2012,2012,1400.0,12.0,0,14,
+LOT-1248,Mexico,Los Angeles,Cerca De Los Angeles,Francisco Ruiz Nuñez,Caturra,Washed / Wet,2012,2012,1200.0,13.0,1,3,Green
+LOT-1249,Brazil,Monte Carmelo,Santa Maria,Manoel Cardoso And Galileo Cardoso,Catuai,Natural / Dry,2014/2015,2014,,12.0,3,4,Green
+LOT-1250,Mexico,Zaragoza Itundujia,El Naranjo,Lamberto José García,Typica,Washed / Wet,2012,2012,1500.0,14.0,0,0,
+LOT-1251,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2014,2014,,10.0,0,0,Blue-Green
+LOT-1252,Guatemala,Oriente,Conquista / Morito,Conquista/ Morito,Bourbon,Washed / Wet,2012,2012,,11.0,0,9,Green
+LOT-1253,Guatemala,Oriente,Various,Varios,Other,Washed / Wet,2014,2014,1219.2,10.0,0,2,Green
+LOT-1254,Guatemala,Oriente,El Sacramento,Luis Rodriguez,Bourbon,Washed / Wet,2012,2013,1310.6,11.0,1,4,Green
+LOT-1255,Mexico,"Xochitonalco, Huautla",Llano Hermoso,Pablo Cervantes Morelos,Typica,Natural / Dry,2012,2012,1300.0,13.0,31,47,Green
+LOT-1256,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2012,2012,,11.0,4,31,Green
+LOT-1257,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2014,2015,,11.0,2,8,Green
+LOT-1258,Indonesia,Ijen,Various,Vary Farms,Java,Washed / Wet,2016,2017,1300.0,13.0,0,1,
+LOT-1259,Mexico,Cordoba,,Consuelo Gonzalez Gomez,Typica,Washed / Wet,2012,2012,1050.0,11.0,0,3,Green
+LOT-1260,Ecuador,"San Juan, Playas",Robustasa,Café Robusta Del Ecuador S.A.,,,2016,2016,,,0,0,Blue-Green
+LOT-1261,Taiwan,"台南市東山區( Dongshan Dist., Tainan City)",大鋤花間 (Hoe Vs. Flower Coffee Farm),"林俊吉( Lin, Chun-Chi)",Yellow Bourbon,Washed / Wet,2016,2017,650.0,,3,4,Green
+LOT-1262,China,Yunnan,Hani,Greenhouse Coffee,Typica,Washed / Wet,2013,2013,1200.0,10.0,0,28,Green
+LOT-1263,Guatemala,Oriente,La Union Monte Verde,"Agricola Monte Verde, S.A.",Bourbon,Washed / Wet,2013,2013,1310.6,11.0,3,9,Green
+LOT-1264,Honduras,Intibuca,Various,Cooperativa Coaquil,Pacas,Natural / Dry,2014,2014,1350.0,11.0,2,6,Green
+LOT-1265,Guatemala,Oriente,Various,Varios,Other,Washed / Wet,2014,2014,1219.2,10.0,1,2,Green
+LOT-1266,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2014,2014,,12.0,2,3,Green
+LOT-1267,Colombia,,,,,,,2011,,10.0,1,3,Green
+LOT-1268,Mexico,"Motozintla, Chiapas",Finca La Fortuna,Mario García,Other,Washed / Wet,2012,2012,850.0,12.0,2,7,Green
+LOT-1269,Guatemala,Oriente,Conquista / Morito,Conquista/ Morito,Bourbon,Washed / Wet,2012,2012,,11.0,0,7,Green
+LOT-1270,Costa Rica,Occidental,Several,Beneficio La Eva S.A.,Caturra,Washed / Wet,2014,2015,1200.0,12.0,2,4,Green
+LOT-1271,Mexico,Petatlan,El Regadito,Gustavo Abarca Solis,Typica,Washed / Wet,2012,2012,1248.0,11.0,0,3,Green
+LOT-1272,Brazil,,,,,Washed / Wet,2014,2014,,11.0,0,2,
+LOT-1273,Guatemala,Oriente,El Sacramento,Luis Rodriguez,Bourbon,Washed / Wet,2013,2013,1310.6,11.0,0,2,Green
+LOT-1274,Nicaragua,Jinotega,El Brigadum - La Coronela,Marcio Alberto Rivera Castellon,,,2016,2016,1000.0,10.0,0,0,Blue-Green
+LOT-1275,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區","Dongshan Gaoyuan Village Chief Manor Coffee Tainan, Taiwan 台灣台南東山高原村長莊園咖啡",Chen Shuei Lian 陳水連,Typica,Washed / Wet,2012,2013,775.0,11.0,0,0,Blue-Green
+LOT-1276,United States (Hawaii),Kona,,,,Natural / Dry,2013,2013,,12.0,1,5,Green
+LOT-1277,Mexico,Coatepec,Rancho Los Laureles,Rubria Ochoa Bello,Typica,Washed / Wet,2012,2012,1300.0,13.0,0,3,Green
+LOT-1278,Guatemala,Oriente,La Esperanza Y Anexos,Margarita De Nuyens Y/O Carlos Nuyens,Bourbon,Washed / Wet,2013,2013,1310.6,11.0,2,15,Green
+LOT-1279,Brazil,South Of Minas,Fazenda Capoeirnha,Ipanema Agricola S.A,Bourbon,Natural / Dry,2017 / 2018,2017,890.0,,0,3,Green
+LOT-1280,Mexico,Zaragoza Itundujia,El Naranjo,Aquilino García Riaño,Typica,Washed / Wet,2012,2012,1500.0,15.0,4,5,
+LOT-1281,Guatemala,Oriente,Various,Varios,Other,Washed / Wet,2014,2014,1219.2,10.0,1,2,Green
+LOT-1282,Haiti,"Dondon, Haiti",Mixed,Mixed,Typica,Washed / Wet,2013,2014,825.0,10.0,0,1,
+LOT-1283,United States (Hawaii),Kona,,Kona Pacific Farmers Cooperative,,Natural / Dry,2013,2014,,12.0,1,5,Green
+LOT-1284,Mexico,"Motozintla, Chiapas",Finca Los Andes,Alejandro García Palacios,Other,Washed / Wet,2012,2012,1200.0,12.0,1,11,Green
+LOT-1285,United States,"Kwanza Norte Province, Angola",Fazenda Cazengo,Cafe Cazengo,,Natural / Dry,2014,2014,795.0,,0,6,
+LOT-1286,Peru,San Ignacio,"Producer Group (Approx. 1,000 Farmers)",Sol Y Cafe,Caturra,Washed / Wet,2014,2015,1200.0,,7,9,Green
+LOT-1287,India,Chickmangalore,,Aspinwall & Co. Ltd,,Natural / Dry,2016,2017,,,0,0,Green
+LOT-1288,Mexico,"Pluma Hidalogo, Oaxaca",Various,Various Smallholders,Typica,,08/09 crop,2010,1200.0,,0,0,
+LOT-1289,Guatemala,Oriente,Conquista / Morito,Conquista/Morito,Bourbon,Washed / Wet,2012,2012,,12.0,0,4,
+LOT-1290,Mexico,Coatepec,,Castulo Gutierrez,Typica,Washed / Wet,2012,2012,1100.0,13.0,0,14,Green
+LOT-1291,Guatemala,Oriente,Conquista / Morito,Conquista/Morito,Bourbon,Washed / Wet,2011/2012,2012,,11.0,0,5,
+LOT-1292,Guatemala,Oriente,Agropecuaria Quiagral,Agropecuaria Quiagral,Bourbon,Washed / Wet,2012,2012,1310.6,11.0,0,8,Green
+LOT-1293,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2014,2014,,,0,0,Green
+LOT-1294,Mexico,Zaragoza Itundujia,Agua De La Mariposa,Isidora Heras Hernandez,Typica,Washed / Wet,2012,2012,1400.0,16.0,2,4,
+LOT-1295,Indonesia,Indonesia,1,1,Other,Natural / Dry,2011,2012,3500.0,12.0,4,26,
+LOT-1296,United States (Hawaii),Kona,,Kona Pacific Farmers Cooperative,,Natural / Dry,2013,2014,,,0,3,Blue-Green
+LOT-1297,Mexico,Tepictla,Finca Tepictla,Guillermo Eduardo Bobadilla Muguira,Bourbon,Washed / Wet,2012,2012,1250.0,12.0,0,12,Green
+LOT-1298,Honduras,Intibuca,Various,Cooperativa Coaquil,Pacas,Natural / Dry,2014,2014,1350.0,11.0,0,7,Green
+LOT-1299,Philippines,"Benguet, Mountain Province",Various,Various Smallholders,,Washed / Wet,2012,2013,1000.0,12.0,0,2,Green
+LOT-1300,Brazil,Monte Carmelo,,,,Natural / Dry,2017 / 2018,2017,,11.0,0,6,Green
+LOT-1301,Guatemala,Oriente,Agropecuaria Quiagral,Agropecuaria Quiagral,Bourbon,Washed / Wet,2012,2012,1310.6,11.0,0,15,Green
+LOT-1302,Guatemala,Oriente,Conquista / Morito,Conquista / Morito,Bourbon,Washed / Wet,2012,2012,,12.0,0,10,
+LOT-1303,Mexico,Tlacuilotepec,La Joya,Juana Rodriguez Gutierrez,Pacamara,Washed / Wet,2012,2012,1100.0,11.0,4,20,Green
+LOT-1304,Mexico,,Finca Monte Grande,Suraya Magdalena Lotfe Calderon,Other,Washed / Wet,2012,2012,1100.0,12.0,0,8,
+LOT-1305,Mexico,Ocosingo,"Zaragoza, Montelibano, Pamal Navil",Sposel S. De S.S.,Mundo Novo,Washed / Wet,2012,2012,1200.0,11.0,0,20,Green
+LOT-1306,Mexico,Huautla De Jimenez,Peña Campana,"Martín Jimenez Casiano, Paulina Cerqueda Alvarez, Julio Martinez Teran",Typica,Washed / Wet,2012,2012,1280.0,13.0,23,29,Blue-Green
+LOT-1307,India,,,,,Natural / Dry,2013,2014,,10.0,20,1,Green
+LOT-1308,Mexico,Menglian,La Cruz,Miguel Lopez Tirzo,Typica,Washed / Wet,2012,2012,850.0,14.0,15,7,Green
+LOT-1309,Mexico,Zaragoza Itundujia,El Limón,Geremias Riaño Lopez,Typica,Washed / Wet,2012,2012,1500.0,17.0,0,6,
+LOT-1310,Mexico,Coatepec,La Orduña,Pablo Enrique Martinez Gama,Typica,Washed / Wet,2012,2012,1250.0,12.0,0,30,Green
+LOT-1311,Guatemala,Oriente,Conquista / Morito,Conquista/Morito,Bourbon,Washed / Wet,2012,2012,,11.0,0,10,
+LOT-1312,Guatemala,Oriente,Conquista / Morito,Conquista / Morito,Bourbon,Washed / Wet,2012,2012,,11.0,0,8,
+LOT-1313,Mexico,Chiapas,Sierra Madre,Cesmach (Varios),Typica,Washed / Wet,2013,2013,1700.0,12.0,0,7,Green
+LOT-1314,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2014,2014,,,1,2,Blue-Green
+LOT-1315,Mexico,"Chocaman, Veracruz",Las Ceibas,Jorge Octavio Escamilla Prado,Typica,Washed / Wet,2012,2012,1140.0,14.0,3,11,Green
+LOT-1316,Guatemala,Oriente,La Castellana,Agripec De La Vega Y Cia.,Bourbon,Washed / Wet,2013,2013,1310.6,11.0,1,1,Green
+LOT-1317,Mexico,Xalapa,La Marina-El Orizabeño,Myrna Roxana Gálvez González,Typica,Washed / Wet,2012,2012,1200.0,13.0,0,27,
+LOT-1318,Mexico,Coatepec,Rancho Vigia,Eugene Holman Pew,Typica,Washed / Wet,2012,2012,1250.0,12.0,0,19,Green
+LOT-1319,Vietnam,,,,,Natural / Dry,2013,2014,,12.0,63,9,
+LOT-1320,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2012,2012,,,9,17,
+LOT-1321,Brazil,Campos Altos - Cerrado,,,,,2016,2015,,11.0,0,0,Green
+LOT-1322,Honduras,Intibuca,Various,Cooperativa Coaquil,Pacas,Washed / Wet,2014,2014,1350.0,11.0,1,16,Green
+LOT-1323,Mexico,Sierra Alta Mixe Y Zapoteca,Various,Various Small Producers,Typica,Washed / Wet,2014,2014,1200.0,,1,1,
+LOT-1324,Colombia,,,,,Natural / Dry,2013,2014,,,0,15,Blue-Green
+LOT-1325,United States (Hawaii),Kona,,,Hawaiian Kona,Natural / Dry,2014,2014,,11.0,5,9,Green
+LOT-1326,Haiti,Marmelade,2000 Farmers,Asosyasyon Plantè Kafe Krètapen (Apcap) ;Asosyasyon Plantè Kafe Basen (Apkba);Asosyasyon Plantè Kafe,,,2010,2011,1020.0,8.0,1,0,
+LOT-1327,Costa Rica,Occidental,Several,Beneficio La Eva S.A.,Caturra,Washed / Wet,2014,2015,1200.0,11.0,0,7,Green
+LOT-1328,Mexico,Tlatlauquitepec,La Vuelta,José Armando Norberto Borzani Lemini,Mundo Novo,Washed / Wet,2012,2012,800.0,12.0,4,24,Green
+LOT-1329,Mexico,Veracruz,La Morena,Ricardo Aaron Sampieri Marini,Bourbon,Washed / Wet,2012,2012,1800.0,11.0,0,0,Green
+LOT-1330,Mexico,"Sierra Norte Yajalon, Chiapas",Various,Various Small Producers,Typica,Washed / Wet,2014,2014,1000.0,12.0,0,1,Green
+LOT-1331,Brazil,Cerrado,,,,Natural / Dry,2017 / 2018,2017,,11.0,0,55,Green
+LOT-1332,Honduras,Marcala,Cerro Bueno,Omar Acosta,Catuai,Washed / Wet,2014,2014,1450.0,10.0,0,4,Green
+LOT-1333,Honduras,Marcala,Cerro Bueno,Omar Acosta,Catuai,Washed / Wet,2014,2014,1450.0,10.0,0,4,Green
+LOT-1334,Honduras,Marcala,Cerro Bueno,Omar Acosta,Catuai,Washed / Wet,2014,2014,1450.0,10.0,0,3,Green
+LOT-1335,Mexico,Juchique De Ferrer,El Centenario,Juan Carlos García Lopez,Bourbon,Washed / Wet,2012,2012,900.0,11.0,0,20,
+LOT-1336,Haiti,"Department D'Artibonite , Haiti",200 Farms,Coeb Koperativ Ekselsyo Basen,Typica,Natural / Dry,2012,2012,350.0,14.0,8,16,Blue-Green
+LOT-1337,Nicaragua,Jalapa,Finca Las Marías,Teófilo Narváez,Caturra,Other,2016,2017,1100.0,13.0,1,5,Green

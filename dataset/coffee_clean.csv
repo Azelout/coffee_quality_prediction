@@ -1,0 +1,1338 @@
+lot_id,harvest_year,grading_year,altitude_mean_meters,moisture_percentage,category_one_defects,category_two_defects,country_of_origin,region,variety,processing_method,color,quality_class,split
+LOT-0001,2014.0,2015,2075.0,12.0,0,0,Ethiopia,Guji-Hambela,,Washed / Wet,Green,Exemplary (85+),train
+LOT-0002,2014.0,2015,2075.0,12.0,0,1,Ethiopia,Guji-Hambela,Other,Washed / Wet,Green,Exemplary (85+),test
+LOT-0003,,2010,1700.0,,0,0,Guatemala,,Bourbon,,,Exemplary (85+),test
+LOT-0004,2014.0,2015,2000.0,11.0,0,2,Ethiopia,Oromia,,Natural / Dry,Green,Exemplary (85+),train
+LOT-0005,2014.0,2015,2075.0,12.0,0,2,Ethiopia,Guji-Hambela,Other,Washed / Wet,Green,Exemplary (85+),train
+LOT-0006,2013.0,2013,,11.0,0,1,Brazil,,,Natural / Dry,Blue-Green,Exemplary (85+),train
+LOT-0007,2012.0,2012,,11.0,0,0,Peru,,Other,Washed / Wet,Blue-Green,Exemplary (85+),train
+LOT-0008,2010.0,2010,1635.0,,0,0,Ethiopia,Oromia,,,,Exemplary (85+),train
+LOT-0009,2010.0,2010,1635.0,,0,0,Ethiopia,Oromiya,,,,Exemplary (85+),train
+LOT-0010,2014.0,2015,1822.5,10.0,0,4,Ethiopia,"Snnp/Kaffa Zone,Gimbowereda",Other,Natural / Dry,Green,Exemplary (85+),train
+LOT-0011,2014.0,2015,1905.0,10.0,0,1,Ethiopia,Oromia,,Natural / Dry,,Exemplary (85+),train
+LOT-0012,2014.0,2015,1872.0,,0,0,United States,Antioquia,Other,Washed / Wet,,Exemplary (85+),test
+LOT-0013,2014.0,2015,1943.0,,0,0,United States,Antioquia,Other,Washed / Wet,,Exemplary (85+),train
+LOT-0014,2009.0,2010,609.6,,0,2,United States (Hawaii),Kona,,,,Exemplary (85+),train
+LOT-0015,2010.0,2010,1635.0,5.0,0,2,Ethiopia,Oromiya,,,,Exemplary (85+),train
+LOT-0016,2014.0,2015,2080.0,,0,0,United States,Antioquia,Other,Washed / Wet,,Exemplary (85+),train
+LOT-0017,,2010,1500.0,,0,0,Indonesia,Sulawesi,,,,Exemplary (85+),train
+LOT-0018,2009.0,2010,,5.0,0,2,Ethiopia,Yirgacheffe,,,,Exemplary (85+),train
+LOT-0019,2014.0,2015,1850.0,,0,8,Ethiopia,Gedio,Ethiopian Yirgacheffe,Natural / Dry,,Exemplary (85+),train
+LOT-0020,2015.0,2016,1450.0,10.0,0,0,China,Yunnan,Catimor,Washed / Wet,Green,Exemplary (85+),train
+LOT-0021,2014.0,2015,2019.0,,0,0,United States,Antioquia,Other,Washed / Wet,,Exemplary (85+),train
+LOT-0022,2012.0,2012,1320.0,13.0,0,0,Mexico,Xalapa,Other,Washed / Wet,Green,Exemplary (85+),train
+LOT-0023,2014.0,2014,1300.0,11.0,0,2,Costa Rica,San Ramon,Caturra,Washed / Wet,Green,Exemplary (85+),train
+LOT-0024,2013.0,2013,,11.0,0,1,Ethiopia,Sidamo,,Natural / Dry,Blue-Green,Exemplary (85+),test
+LOT-0025,2014.0,2015,2112.0,,0,0,United States,Antioquia,Other,Washed / Wet,,Exemplary (85+),train
+LOT-0026,2009.0,2010,,5.0,0,2,Ethiopia,Sidamo,,,,Exemplary (85+),train
+LOT-0027,2011.0,2011,1250.0,12.0,0,2,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Exemplary (85+),train
+LOT-0028,2013.0,2014,1950.0,12.0,0,1,Uganda,Kapchorwa Eastern,Sl14,Washed / Wet,Green,Exemplary (85+),train
+LOT-0029,2016.0,2017,1400.0,10.0,0,3,Honduras,Comayagua,Caturra,,Green,Exemplary (85+),train
+LOT-0030,,2010,,8.0,0,2,Nicaragua,,,,,Exemplary (85+),train
+LOT-0031,2015.0,2016,1200.0,,0,0,Taiwan,"Leye, Alishan Township, Chiayi County",Sumatra,Pulped natural / honey,Green,Exemplary (85+),train
+LOT-0032,2012.0,2013,,11.0,0,1,Tanzania,,,Natural / Dry,Blue-Green,Exemplary (85+),test
+LOT-0033,2011.0,2011,1300.0,12.0,0,2,Brazil,Vale Da Grama,Bourbon,Natural / Dry,Green,Exemplary (85+),train
+LOT-0034,2015.0,2015,1300.0,,0,0,Costa Rica,West And Central Valley,Caturra,Washed / Wet,Blue-Green,Exemplary (85+),train
+LOT-0035,2009.0,2010,,10.0,0,2,Ethiopia,Yirgacheffe,,,,Exemplary (85+),train
+LOT-0036,2014.0,2015,1775.0,10.0,0,3,Ethiopia,Oromia,,Natural / Dry,Green,Exemplary (85+),train
+LOT-0037,2013.0,2014,1800.0,12.0,0,1,Kenya,Muranga,Sl34,Washed / Wet,Blue-Green,Exemplary (85+),train
+LOT-0038,2010.0,2011,,,2,1,United States (Hawaii),Kona,,,,Exemplary (85+),train
+LOT-0039,2012.0,2012,,,1,4,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,,Exemplary (85+),test
+LOT-0040,2012.0,2012,1300.0,10.0,1,9,Thailand,Chiang Rai,Caturra,Washed / Wet,Green,Exemplary (85+),train
+LOT-0041,2010.0,2011,,,0,3,Brazil,Sul De Minas - Carmo De Minas,Yellow Bourbon,,,Exemplary (85+),train
+LOT-0042,2010.0,2011,,8.0,0,2,Brazil,Sul De Minas - Carmo De Minas,Yellow Bourbon,,,Exemplary (85+),train
+LOT-0043,2014.0,2015,1941.0,,0,0,United States,Antioquia,Other,Washed / Wet,,Exemplary (85+),train
+LOT-0044,2014.0,2015,1754.0,11.0,0,2,Kenya,Nyeri,Sl28,Natural / Dry,Blue-Green,Exemplary (85+),test
+LOT-0045,2011.0,2011,1250.0,11.0,0,2,Brazil,South Of Minas,Bourbon,Semi-washed / Semi-pulped,Blue-Green,Exemplary (85+),train
+LOT-0046,2015.0,2015,1000.0,12.0,0,0,Taiwan,Natou County,Bourbon,Semi-washed / Semi-pulped,Green,Exemplary (85+),train
+LOT-0047,2013.0,2014,1860.0,11.0,0,1,Kenya,Kiambu,Sl28,Washed / Wet,Green,Exemplary (85+),train
+LOT-0048,2012.0,2012,1650.0,10.0,0,0,Uganda,"Sipi, Mt Elgon",Other,Washed / Wet,Blue-Green,Exemplary (85+),train
+LOT-0049,2013.0,2014,1200.0,12.0,1,1,Colombia,Tolima,Caturra,Washed / Wet,Green,Exemplary (85+),train
+LOT-0050,2009.0,2010,1750.0,,0,4,Ethiopia,Sidamo,,,,Exemplary (85+),train
+LOT-0051,2014.0,2014,,,0,0,Uganda,Eastern Uganda,,Semi-washed / Semi-pulped,,Exemplary (85+),train
+LOT-0052,2009.0,2010,426.7,,0,0,United States (Hawaii),Kona,,,,Exemplary (85+),test
+LOT-0053,2013.0,2013,1800.0,,1,0,Colombia,Huila,Caturra,Washed / Wet,Blue-Green,Exemplary (85+),train
+LOT-0054,2013.0,2014,1650.0,12.0,0,0,Uganda,Eastern,Sl14,Natural / Dry,Green,Exemplary (85+),test
+LOT-0055,2016.0,2016,,10.0,0,3,Guatemala,Nuevo Oriente,Bourbon,Washed / Wet,Green,Exemplary (85+),train
+LOT-0056,2017.0,2017,1600.0,8.0,0,0,Panama,Boquete,Gesha,Washed / Wet,Blue-Green,Exemplary (85+),test
+LOT-0057,2012.0,2012,1524.0,12.0,0,3,Guatemala,Acatenango,Bourbon,Washed / Wet,Green,Exemplary (85+),train
+LOT-0058,2012.0,2012,1417.3,10.0,0,1,Guatemala,Nuevo Oriente,Catuai,Washed / Wet,Blue-Green,Exemplary (85+),test
+LOT-0059,2014.0,2015,1900.0,10.0,0,4,Ethiopia,Oromia,,Washed / Wet,Green,Exemplary (85+),test
+LOT-0060,2017.0,2017,,9.0,0,7,Ethiopia,Addis Ababa,Caturra,Natural / Dry,,Exemplary (85+),train
+LOT-0061,2012.0,2012,1700.0,12.0,0,1,Papua New Guinea,Eastern Highlands Province,,Washed / Wet,Blue-Green,Exemplary (85+),train
+LOT-0062,2013.0,2014,,10.0,4,6,Peru,Cajamarca,,Washed / Wet,Green,Exemplary (85+),test
+LOT-0063,2012.0,2013,1350.0,11.0,0,0,El Salvador,"Ataco, Apaneca - Ilamatepec Mountain Range",Bourbon,Semi-washed / Semi-pulped,,Exemplary (85+),train
+LOT-0064,2013.0,2013,1500.0,10.0,0,3,El Salvador,Apaneca,Bourbon,Washed / Wet,Blue-Green,Exemplary (85+),train
+LOT-0065,2012.0,2012,,,0,1,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,,Exemplary (85+),train
+LOT-0066,2014.0,2015,1680.0,9.0,2,2,Panama,Boquete,Caturra,Natural / Dry,,Exemplary (85+),train
+LOT-0067,2014.0,2015,1900.0,10.0,0,3,Kenya,Kirinyaga,Sl28,Natural / Dry,Green,Exemplary (85+),train
+LOT-0068,2015.0,2015,1900.0,12.0,0,7,Ethiopia,Oromia,Other,Natural / Dry,Green,Exemplary (85+),train
+LOT-0069,2013.0,2014,1600.0,12.0,0,1,Uganda,Bulambuli Eastern Region,Sl14,Washed / Wet,Green,Exemplary (85+),train
+LOT-0070,2013.0,2013,1731.3,11.0,0,1,Guatemala,Huehuetenango,Bourbon,Washed / Wet,Green,Exemplary (85+),train
+LOT-0071,2015.0,2015,1900.0,10.0,0,18,Ethiopia,Oromia,,Washed / Wet,Green,Exemplary (85+),train
+LOT-0072,2009.0,2010,1400.0,,0,0,El Salvador,Apaneca,,,,Exemplary (85+),train
+LOT-0073,2011.0,2011,1250.0,11.0,0,1,Brazil,South Of Minas,Bourbon,Semi-washed / Semi-pulped,Blue-Green,Exemplary (85+),train
+LOT-0074,2012.0,2012,,,4,6,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,,Exemplary (85+),train
+LOT-0075,2013.0,2014,1950.0,12.0,0,5,Uganda,Kapchorwa,Sl14,Washed / Wet,Green,Exemplary (85+),train
+LOT-0076,2012.0,2013,1200.0,,0,6,Kenya,Central Kenya,Sl34,Washed / Wet,Green,Exemplary (85+),train
+LOT-0077,2009.0,2010,,10.0,0,3,Ethiopia,Yirgacheffe,Typica,,,Exemplary (85+),train
+LOT-0078,2012.0,2013,1600.0,,0,2,Kenya,Central Kenya,Sl34,Washed / Wet,Green,Exemplary (85+),train
+LOT-0079,2009.0,2010,,5.0,0,2,Ethiopia,Yirgacheffe,,,,Exemplary (85+),test
+LOT-0080,2014.0,2015,1770.0,11.0,0,1,Guatemala,Huehuetenango,Pacamara,Natural / Dry,Green,Exemplary (85+),train
+LOT-0081,2014.0,2014,1300.0,,0,0,Costa Rica,West Valley,Caturra,Washed / Wet,Blue-Green,Exemplary (85+),test
+LOT-0082,2015.0,2016,1700.0,10.0,0,0,China,Yunnan,Catimor,Natural / Dry,Green,Exemplary (85+),train
+LOT-0083,2014.0,2014,1300.0,10.0,0,2,Costa Rica,San Ramon,Caturra,Washed / Wet,Blue-Green,Exemplary (85+),train
+LOT-0084,2016.0,2016,,10.0,0,2,Guatemala,Oriente,Bourbon,,Green,Exemplary (85+),train
+LOT-0085,2014.0,2014,1550.0,12.0,0,2,Colombia,Santander,Caturra,Natural / Dry,Green,Exemplary (85+),train
+LOT-0086,2015.0,2015,1550.0,11.0,0,0,Colombia,Santander,Caturra,Washed / Wet,Green,Exemplary (85+),train
+LOT-0087,2012.0,2012,1400.0,,0,7,Guatemala,Huehuetenango,Caturra,Washed / Wet,,Exemplary (85+),train
+LOT-0088,2012.0,2012,1325.0,11.0,0,3,Indonesia,Lintong,Sumatra Lintong,Semi-washed / Semi-pulped,Green,Exemplary (85+),test
+LOT-0089,2012.0,2012,2136.0,11.0,0,8,Colombia,Cundinamarca,Caturra,Natural / Dry,Green,Exemplary (85+),train
+LOT-0090,2015.0,2015,2560.0,,0,0,Colombia,Pasto,Caturra,Natural / Dry,,Exemplary (85+),train
+LOT-0091,2014.0,2014,1700.0,10.0,2,7,Ethiopia,Aricha,,Natural / Dry,Green,Exemplary (85+),train
+LOT-0092,2014.0,2014,,11.0,2,2,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Blue-Green,Exemplary (85+),train
+LOT-0093,2016.0,2016,,11.0,0,8,Ethiopia,"Kefa Zone, Gimbo Distict, At A Place Called Woka Araba, South West Ethiopia.",Other,Natural / Dry,Green,Exemplary (85+),test
+LOT-0094,,2010,,,0,0,United States (Hawaii),Kona,,,,Exemplary (85+),train
+LOT-0095,2010.0,2010,,,0,5,Ethiopia,Sidamo,,,,Exemplary (85+),train
+LOT-0096,2010.0,2010,,,1,7,United States (Hawaii),Kona,,,,Exemplary (85+),test
+LOT-0097,2012.0,2012,1100.0,12.0,0,3,Brazil,Grama Valley,Mundo Novo,Natural / Dry,Green,Exemplary (85+),train
+LOT-0098,2016.0,2017,,,0,3,Colombia,Huila,Caturra,Washed / Wet,Green,Exemplary (85+),train
+LOT-0099,2016.0,2017,1900.0,12.0,1,1,Costa Rica,Tarrazu,Catuai,Washed / Wet,Green,Exemplary (85+),test
+LOT-0100,2015.0,2016,,11.0,0,7,Kenya,,,Washed / Wet,Green,Exemplary (85+),test
+LOT-0101,2009.0,2010,1325.9,,0,1,Guatemala,"Chuva, San Marcos",,,,Exemplary (85+),train
+LOT-0102,,2011,,,0,1,United States (Hawaii),Kona,,,,Exemplary (85+),train
+LOT-0103,2010.0,2011,1400.0,,0,0,Mexico,Mexico,Pacamara,,,Exemplary (85+),test
+LOT-0104,2015.0,2016,1300.0,9.0,0,3,Mexico,Veracruz,Typica,Washed / Wet,Green,Exemplary (85+),train
+LOT-0105,2012.0,2013,1580.0,,0,5,Kenya,Central Kenya,Sl34,Washed / Wet,Green,Exemplary (85+),train
+LOT-0106,2016.0,2017,1800.0,11.0,0,1,Uganda,Eastern Uganda,Sl14,Washed / Wet,Green,Exemplary (85+),train
+LOT-0107,2011.0,2011,1200.0,11.0,0,2,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0108,2009.0,2010,,6.0,1,9,Kenya,,,,,Specialty (80-84),train
+LOT-0109,2011.0,2011,1000.0,12.0,0,2,Brazil,South Of Minas,Catuai,Natural / Dry,Green,Specialty (80-84),train
+LOT-0110,2012.0,2012,1200.0,11.0,0,0,Mexico,Coatepec,Typica,Semi-washed / Semi-pulped,,Specialty (80-84),train
+LOT-0111,2012.0,2012,1775.0,11.0,0,3,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-0112,2015.0,2015,800.0,11.0,0,0,Taiwan,Natou County,Typica,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-0113,2014.0,2014,1620.0,12.0,0,2,Tanzania,Mbeya,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0114,2015.0,2015,1775.0,12.0,0,1,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0115,2016.0,2016,,,1,2,Colombia,Huila,Caturra,Washed / Wet,,Specialty (80-84),train
+LOT-0116,2013.0,2014,1650.0,12.0,0,1,Uganda,Eastern,Sl14,Natural / Dry,Green,Specialty (80-84),train
+LOT-0117,2009.0,2010,1750.0,10.0,0,4,Ethiopia,Sidamo,,,,Specialty (80-84),train
+LOT-0118,2009.0,2010,1750.0,10.0,0,2,Ethiopia,Sidamo,,,,Specialty (80-84),train
+LOT-0119,2012.0,2012,,,3,15,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,,Specialty (80-84),train
+LOT-0120,2016.0,2016,350.0,,0,0,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Typica,Natural / Dry,Green,Specialty (80-84),train
+LOT-0121,2015.0,2016,,12.0,0,0,Thailand,Thailand,Caturra,Pulped natural / honey,Green,Specialty (80-84),train
+LOT-0122,2014.0,2015,1800.0,13.0,0,0,Kenya,Nyeri,Sl34,Washed / Wet,Green,Specialty (80-84),train
+LOT-0123,2014.0,2014,1450.0,11.0,0,4,Honduras,Marcala,Catuai,Washed / Wet,Green,Specialty (80-84),test
+LOT-0124,2010.0,2011,1200.0,15.0,0,3,El Salvador,Santa Ana,,,,Specialty (80-84),test
+LOT-0125,2009.0,2010,925.0,,0,2,Nicaragua,Jinotega,,,,Specialty (80-84),train
+LOT-0126,,2016,,12.0,0,0,Japan,Ada Okinawa Japan,Mundo Novo,Pulped natural / honey,Green,Specialty (80-84),test
+LOT-0127,2016.0,2016,1200.0,12.0,0,7,Indonesia,"Temanggung, Indonesia",Java,Washed / Wet,Green,Specialty (80-84),train
+LOT-0128,2016.0,2017,1350.0,,0,2,El Salvador,Apaneca,Bourbon,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0129,2013.0,2013,1550.0,,0,0,Colombia,Santander,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0130,2009.0,2010,1750.0,,0,3,Ethiopia,Sidamo,,,,Specialty (80-84),train
+LOT-0131,,2011,,,0,3,Peru,"Penachi, Cecanor",,,,Specialty (80-84),train
+LOT-0132,2012.0,2012,1775.0,11.0,0,3,Uganda,Mbale,Other,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0133,2012.0,2012,1200.0,13.0,0,3,Mexico,El Remudadero,Typica,Washed / Wet,,Specialty (80-84),test
+LOT-0134,2012.0,2012,1524.0,12.0,0,4,Guatemala,Acatenango,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0135,2012.0,2012,1310.6,11.0,0,4,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0136,2012.0,2012,2000.0,11.0,0,0,Kenya,Nyeri,Sl28,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0137,2014.0,2015,1750.0,8.0,0,1,Costa Rica,Costa Rica,Other,Other,Green,Specialty (80-84),train
+LOT-0138,2013.0,2013,1000.0,11.0,0,0,Taiwan,Taichung Xinshe 台中市新社區,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0139,2012.0,2014,,,1,10,Costa Rica,,,Washed / Wet,Green,Specialty (80-84),train
+LOT-0140,2014.0,2014,1200.0,11.0,0,4,Costa Rica,West Valley,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-0141,2014.0,2015,1750.0,12.0,0,0,Costa Rica,Tarrazu,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0142,2014.0,2015,1900.0,10.0,0,3,Ethiopia,Yirgacheffe,Ethiopian Yirgacheffe,Washed / Wet,,Specialty (80-84),test
+LOT-0143,2015.0,2016,1600.0,10.0,0,1,Guatemala,Acatenango,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-0144,2015.0,2016,1150.0,10.0,0,2,Costa Rica,Tarrazu,Catuai,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0145,2014.0,2014,1524.0,11.0,0,1,Guatemala,Jalapa,Pacas,Washed / Wet,Green,Specialty (80-84),test
+LOT-0146,2011.0,2011,1100.0,11.0,0,1,Brazil,Mountains Of Minas Gerais,Catuai,Semi-washed / Semi-pulped,Blue-Green,Specialty (80-84),train
+LOT-0147,2012.0,2012,1800.0,11.0,0,6,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0148,2011.0,2011,1300.0,12.0,0,2,Brazil,Vale Da Grama,Bourbon,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-0149,2012.0,2013,1575.0,12.0,0,2,Costa Rica,Tres Rios,Bourbon,Semi-washed / Semi-pulped,Blue-Green,Specialty (80-84),train
+LOT-0150,2012.0,2013,1750.0,,0,2,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0151,2013.0,2013,1750.0,,0,5,Colombia,Huila,Caturra,Washed / Wet,,Specialty (80-84),train
+LOT-0152,2013.0,2013,,,0,0,Kenya,,Sl28,Washed / Wet,Green,Specialty (80-84),test
+LOT-0153,2016.0,2016,,,0,5,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-0154,2013.0,2014,1800.0,10.0,0,2,Kenya,Nyeri,Peaberry,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0155,2013.0,2013,1550.0,,0,0,Colombia,Santander,Caturra,Washed / Wet,,Specialty (80-84),test
+LOT-0156,2014.0,2014,1219.2,9.0,0,0,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0157,,2018,1754.0,11.0,0,5,Kenya,Nyeri,Sl34,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0158,2016.0,2017,1500.0,,0,4,Colombia,Santander,Other,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0159,2017.0,2017,1200.0,10.0,0,2,Costa Rica,Valle Central,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0160,2016.0,2017,1750.0,11.0,0,1,Uganda,Eastern Uganda,Sl14,Washed / Wet,Green,Specialty (80-84),test
+LOT-0161,2015.0,2015,1800.0,12.0,1,0,Colombia,Cauca,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0162,,2011,,,0,4,Brazil,Mmm,,,,Specialty (80-84),train
+LOT-0163,,2011,,,2,0,Brazil,Test,,,,Specialty (80-84),train
+LOT-0164,2013.0,2013,1310.6,11.0,0,2,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-0165,2012.0,2012,2000.0,11.0,0,0,Kenya,Nyeri,Sl28,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0166,2012.0,2012,1350.0,12.0,0,0,Mexico,Hustusco,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0167,2012.0,2012,1500.0,11.0,0,4,Mexico,Jaltenango,Typica,Washed / Wet,,Specialty (80-84),train
+LOT-0168,2012.0,2012,,11.0,0,2,Guatemala,"El Tumbador, San Marcos",Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0169,2014.0,2015,1700.0,11.0,0,0,Costa Rica,Tarrazu,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0170,2013.0,2014,1100.0,,0,2,China,Yunnan,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0171,2015.0,2016,1680.0,10.0,0,1,China,Yunnan,Catimor,Washed / Wet,Green,Specialty (80-84),train
+LOT-0172,2015.0,2016,,,0,1,Colombia,Pitalito,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0173,2012.0,2013,1200.0,11.0,0,0,Taiwan,"Mountain Ali, Taiwan",Typica,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0174,2016.0,2017,1300.0,10.0,0,3,Costa Rica,Tarrazu,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0175,2014.0,2014,1775.0,,0,3,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-0176,2017.0,2017,1400.0,,0,3,Indonesia,Sumatra Brastagi,Mandheling,Other,Blue-Green,Specialty (80-84),train
+LOT-0177,2012.0,2012,900.0,12.0,2,4,Mexico,Tapachula,Pacamara,Washed / Wet,,Specialty (80-84),train
+LOT-0178,2009.0,2010,,,0,2,Ethiopia,Limu,,,,Specialty (80-84),train
+LOT-0179,2012.0,2013,,11.0,0,1,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0180,2016.0,2017,,,0,5,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0181,2012.0,2012,1700.0,12.0,0,1,Mexico,Tuxtla Gutierrez,Typica,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0182,2011.0,2011,1275.0,,0,4,Brazil,Vale Da Grama,Yellow Bourbon,,,Specialty (80-84),test
+LOT-0183,,2011,1493.5,,0,1,Ethiopia,Limu,,,,Specialty (80-84),train
+LOT-0184,2009.0,2010,1386.8,,1,1,Guatemala,Nuevo Oriente,,,,Specialty (80-84),train
+LOT-0185,2017.0,2017,1800.0,11.0,0,4,Kenya,Nyeri,Sl28,Washed / Wet,Green,Specialty (80-84),train
+LOT-0186,2013.0,2013,1800.0,,0,0,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0187,2015.0,2015,442.0,11.0,6,0,Colombia,Huila,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0188,2016.0,2016,,,0,4,Colombia,La Plata,,,,Specialty (80-84),train
+LOT-0189,2016.0,2017,1500.0,10.0,0,3,Honduras,Comayagua,Caturra,,Green,Specialty (80-84),train
+LOT-0190,2016.0,2016,1500.0,11.0,0,2,Honduras,Central Region,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-0191,2011.0,2011,1050.0,,0,2,Brazil,South Of Minas,,,,Specialty (80-84),train
+LOT-0192,2016.0,2017,1000.0,12.0,0,0,Taiwan,國姓鄉 Guoshing Township,Typica,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0193,2015.0,2015,442.0,12.0,3,0,Colombia,Huila,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0194,2012.0,2012,1170.0,12.0,0,0,Mexico,Veracruz,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0195,2012.0,2012,1450.0,12.0,0,1,Mexico,San Pedro Cotzilnam,Typica,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-0196,2012.0,2012,,11.0,1,1,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0197,2013.0,2013,1700.0,11.0,0,2,Colombia,Cauca,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0198,2014.0,2014,1219.2,10.0,0,1,Guatemala,Oriente,Bourbon,Other,Green,Specialty (80-84),test
+LOT-0199,2014.0,2014,1600.0,12.0,0,2,Tanzania,Mbeya,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0200,2014.0,2014,1620.0,12.0,0,7,Tanzania,Shizingo Village,Other,Washed / Wet,Green,Specialty (80-84),test
+LOT-0201,2015.0,2016,1400.0,10.0,0,1,China,Yunnan,Catimor,Natural / Dry,Green,Specialty (80-84),train
+LOT-0202,2015.0,2015,1800.0,12.0,0,0,Colombia,Cauca,Other,Washed / Wet,Green,Specialty (80-84),test
+LOT-0203,2015.0,2015,1775.0,12.0,4,2,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0204,2015.0,2015,1775.0,11.0,0,3,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0205,2016.0,2016,1500.0,11.0,0,4,Guatemala,Antigua,Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-0206,2015.0,2016,1099.4,10.0,0,1,Guatemala,Huehuetenango,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0207,2016.0,2016,2560.0,11.0,0,2,Colombia,Nariño,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0208,2015.0,2016,1200.0,12.0,0,0,Thailand,Chiang Rai Thailand,Catimor,Natural / Dry,Green,Specialty (80-84),train
+LOT-0209,2012.0,2012,1400.0,10.0,0,4,Mexico,"La Concordia, Chiapas",Bourbon,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0210,2012.0,2012,1700.0,13.0,4,29,Uganda,Kasese,Other,Natural / Dry,Green,Specialty (80-84),test
+LOT-0211,2017.0,2017,1700.0,13.0,0,1,Guatemala,San Marcos,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0212,2014.0,2014,1530.0,12.0,0,4,Colombia,Huila,Other,Washed / Wet,Green,Specialty (80-84),test
+LOT-0213,2014.0,2015,1606.5,10.0,0,5,Ethiopia,Snnprg; Kafa; Telo Woreda; Shada Kebele,Gesha,Natural / Dry,Green,Specialty (80-84),train
+LOT-0214,2014.0,2015,1850.0,,0,0,Costa Rica,Tarrazu,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0215,2015.0,2015,1150.0,,0,16,Brazil,Cerrado,Catuai,Natural / Dry,,Specialty (80-84),train
+LOT-0216,2013.0,2014,,11.0,0,0,Guatemala,,,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0217,2015.0,2015,1000.0,12.0,0,0,Nicaragua,Jinotega,Caturra,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0218,2015.0,2015,1775.0,,0,0,Colombia,Huila,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0219,2016.0,2016,1565.0,10.0,0,10,Guatemala,Solola,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0220,2016.0,2016,,10.0,0,2,Guatemala,Norte,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0221,2016.0,2016,1116.8,11.0,0,6,Guatemala,Huehuetenango,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0222,2016.0,2016,1700.0,9.0,0,2,Costa Rica,Tarrazu,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0223,2016.0,2016,,,0,2,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-0224,2014.0,2014,1400.0,13.0,0,0,Tanzania,Arusha,Other,Washed / Wet,Green,Specialty (80-84),test
+LOT-0225,2012.0,2012,1750.0,,0,2,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0226,2013.0,2013,1500.0,11.0,0,2,El Salvador,Apaneca,Bourbon,Natural / Dry,Blue-Green,Specialty (80-84),test
+LOT-0227,2012.0,2013,1038.5,11.0,0,3,Brazil,"Minas Gerais, Br",Mundo Novo,Natural / Dry,Green,Specialty (80-84),train
+LOT-0228,2013.0,2013,1310.6,11.0,0,4,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0229,2012.0,2012,1600.0,11.0,0,1,Uganda,Mt. Rwenzori,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0230,2012.0,2012,,11.0,0,2,Guatemala,Guatemala,Catuai,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0231,2013.0,2013,250.5,8.0,0,0,Kenya,Kenya,Sl28,Washed / Wet,Green,Specialty (80-84),test
+LOT-0232,2017.0,2017,,12.0,0,0,Indonesia,Aceh Tengah,Mandheling,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0233,2017.0,2017,442.0,,1,3,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-0234,2016.0,2016,968.0,10.0,0,4,Taiwan,"Nanxi Dist., Tainan City 臺南市楠西區",Typica,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0235,2014.0,2014,1775.0,,0,2,Colombia,Huila,Caturra,Washed / Wet,,Specialty (80-84),train
+LOT-0236,2016.0,2016,,10.0,0,4,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0237,2012.0,2013,,11.0,1,9,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Green,Specialty (80-84),train
+LOT-0238,2012.0,2012,1480.0,11.0,1,10,Mexico,Santo Domingo Cacalotepec,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0239,2012.0,2012,1800.0,9.0,0,15,Ethiopia,"Ethiopia, Sidamo",Other,Natural / Dry,,Specialty (80-84),train
+LOT-0240,2014.0,2014,1550.0,10.0,0,10,Guatemala,"Aldea Xeucalvitz, Ixil Region, Quiche Department",Bourbon,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0241,2017.0,2018,,8.0,1,13,Costa Rica,,,Washed / Wet,,Specialty (80-84),train
+LOT-0242,2012.0,2012,1650.0,,0,0,Kenya,Central Kenya,Sl28,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0243,2012.0,2012,,12.0,0,0,Thailand,Thailand,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0244,2012.0,2013,1200.0,,0,2,Kenya,Blend,Sl34,Washed / Wet,Green,Specialty (80-84),train
+LOT-0245,2013.0,2013,1700.0,11.0,0,1,Colombia,Cauca,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0246,2013.0,2014,1260.0,10.0,0,0,Brazil,South Of Minas,Yellow Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0247,2013.0,2014,1550.0,9.0,4,40,Ethiopia,Sidamo,Other,Natural / Dry,Green,Specialty (80-84),train
+LOT-0248,2014.0,2014,1775.0,12.0,0,3,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0249,2014.0,2014,1450.0,12.0,0,0,Colombia,Santander,Caturra,Natural / Dry,Green,Specialty (80-84),test
+LOT-0250,2014.0,2014,1480.0,12.0,0,0,Colombia,Huila,,Washed / Wet,Green,Specialty (80-84),train
+LOT-0251,2014.0,2014,1219.2,10.0,0,0,Guatemala,Oriente,Bourbon,Other,Green,Specialty (80-84),train
+LOT-0252,2014.0,2014,1219.2,10.0,0,1,Guatemala,Oriente,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0253,2014.0,2014,1600.0,11.0,2,7,Colombia,Huila,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0254,2015.0,2015,1706.9,12.0,0,7,Guatemala,Huehuetenango,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0255,2017.0,2017,1500.0,10.0,0,5,Honduras,Comayagua,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0256,2017.0,2017,1800.0,11.0,3,1,Ethiopia,Sidamo,Gesha,Natural / Dry,Green,Specialty (80-84),test
+LOT-0257,2012.0,2012,1700.0,10.0,10,26,Uganda,Kasese,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0258,2011.0,2011,,6.0,0,0,Thailand,,,,,Specialty (80-84),train
+LOT-0259,2017.0,2017,890.0,,0,3,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0260,2014.0,2014,1550.0,12.0,0,3,Colombia,Santander,Caturra,Natural / Dry,Green,Specialty (80-84),test
+LOT-0261,2014.0,2014,1775.0,,0,1,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-0262,2014.0,2015,,,1,1,Colombia,Huila,,Washed / Wet,,Specialty (80-84),train
+LOT-0263,2015.0,2015,,,0,0,Colombia,Huila,,Washed / Wet,,Specialty (80-84),train
+LOT-0264,2012.0,2012,900.0,12.0,10,32,Mexico,Xicotepec De Juarez,Typica,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0265,2014.0,2015,,,0,0,Taiwan,台灣,,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0266,2016.0,2016,,,1,5,Colombia,La Plata,,,,Specialty (80-84),train
+LOT-0267,2015.0,2016,1200.0,11.0,0,3,Taiwan,"Leye, Alishan Township, Chiayi County 嘉義阿里山樂野村",Typica,Washed / Wet,Green,Specialty (80-84),test
+LOT-0268,2016.0,2016,442.0,11.0,1,2,Colombia,Huila,,,Green,Specialty (80-84),train
+LOT-0269,2016.0,2016,934.0,11.0,0,7,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0270,2015.0,2016,1350.0,10.0,0,1,Thailand,Chiangrai,Catimor,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0271,2017.0,2017,1300.0,11.0,0,5,Mexico,Veracruz,Mundo Novo,Washed / Wet,Green,Specialty (80-84),train
+LOT-0272,2014.0,2014,950.0,6.0,0,0,Taiwan,台中和平區,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0273,2012.0,2012,1500.0,11.0,0,2,Mexico,La Concordia,Typica,Washed / Wet,,Specialty (80-84),train
+LOT-0274,2012.0,2012,1400.0,,0,2,Mexico,La Yerbabuena,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0275,2017.0,2017,2527.0,,1,6,Colombia,Nariño,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0276,2013.0,2013,800.0,9.0,0,0,Ecuador,"Province Of Manabi, Ecuador",,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0277,2014.0,2014,1219.2,10.0,0,1,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0278,2013.0,2014,1300.0,10.0,0,3,Costa Rica,Central Valley,Catuai,Washed / Wet,Green,Specialty (80-84),test
+LOT-0279,2014.0,2014,1200.0,,0,1,Brazil,South Of Minas,Bourbon,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-0280,2013.0,2013,1750.0,11.0,0,1,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0281,2014.0,2015,1676.5,12.0,0,4,Ethiopia,Oromia,,Natural / Dry,Green,Specialty (80-84),train
+LOT-0282,2014.0,2015,525.0,,0,1,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Typica,Washed / Wet,Green,Specialty (80-84),test
+LOT-0283,2016.0,2016,1200.0,,0,0,Taiwan,台灣,,,,Specialty (80-84),train
+LOT-0284,2015.0,2015,,,0,0,Brazil,South Of Minas,Yellow Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0285,2016.0,2016,1500.0,11.0,0,6,Guatemala,Antigua,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0286,2015.0,2016,1850.0,,0,0,Costa Rica,Tarrazu,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0287,2016.0,2017,,,1,0,Colombia,Huila,Caturra,,Green,Specialty (80-84),test
+LOT-0288,2013.0,2013,1260.0,10.0,0,0,Brazil,South Of Minas,Yellow Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0289,2011.0,2011,1499.9,,0,2,Thailand,"Doi Chaang Village, Chiang Rai, Thialand",,,,Specialty (80-84),train
+LOT-0290,2011.0,2011,1250.0,12.0,0,3,Brazil,Carmo De Minas,Yellow Bourbon,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-0291,2012.0,2012,1218.0,10.0,0,2,Mexico,Petatlan,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0292,2012.0,2012,1300.0,11.0,0,4,Mexico,"La Concordia, Chiapas",Pacas,Natural / Dry,,Specialty (80-84),train
+LOT-0293,2010.0,2010,,10.0,0,3,Ethiopia,Sidamo,,,,Specialty (80-84),train
+LOT-0294,2011.0,2011,,,0,0,Thailand,,,,,Specialty (80-84),train
+LOT-0295,2013.0,2013,1310.6,11.0,0,3,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-0296,2013.0,2014,1488.0,12.0,0,2,Uganda,Sheema South Western,,,Green,Specialty (80-84),test
+LOT-0297,2017.0,2017,442.0,11.0,0,1,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-0298,2016.0,2017,750.0,,0,0,Taiwan,"台南市東山區 (Dongshan Dist., Tainan City)",Typica,Natural / Dry,Green,Specialty (80-84),test
+LOT-0299,2016.0,2017,,,1,4,Colombia,Huila,,Washed / Wet,Green,Specialty (80-84),train
+LOT-0300,2015.0,2016,1650.0,10.0,0,2,China,Yunnan,Catimor,Washed / Wet,Green,Specialty (80-84),train
+LOT-0301,2015.0,2015,442.0,,0,0,Colombia,Huila,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0302,2013.0,2014,1400.0,12.0,0,0,Uganda,West Nile,Bourbon,Natural / Dry,Green,Specialty (80-84),test
+LOT-0303,2017.0,2017,890.0,11.0,0,5,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0304,2013.0,2014,853.4,12.0,0,1,United States (Puerto Rico),Yauco Region,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0305,,2018,1800.0,11.0,0,2,Kenya,Nyeri,Sl28,Washed / Wet,Green,Specialty (80-84),train
+LOT-0306,,2010,,,0,0,United States (Hawaii),Kona,,,,Specialty (80-84),train
+LOT-0307,2013.0,2013,1750.0,11.0,0,3,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0308,2013.0,2013,,,0,0,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0309,2012.0,2012,700.0,13.0,5,5,Mexico,"Huazalingo, Hidalgo",Caturra,Natural / Dry,,Specialty (80-84),train
+LOT-0310,2012.0,2012,1300.0,11.0,0,1,Guatemala,Quetzaltenango,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0311,2011.0,2011,1600.0,10.0,0,1,Colombia,Cauca,,,,Specialty (80-84),train
+LOT-0312,,2011,1600.0,6.0,0,1,Colombia,Cundinamarca,,,,Specialty (80-84),train
+LOT-0313,2013.0,2013,1750.0,,0,1,Colombia,Huila,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0314,2014.0,2014,1550.0,,0,3,Colombia,Huila,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0315,2014.0,2014,1775.0,,0,5,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0316,2017.0,2017,890.0,11.0,0,2,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0317,2015.0,2016,1200.0,10.0,0,0,Taiwan,"Leye, Alishan Township, Chiayi County",Caturra,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0318,2016.0,2016,934.0,11.0,0,3,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0319,2016.0,2017,1400.0,10.0,0,2,Honduras,Comayagua,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0320,2017.0,2017,1700.0,11.0,0,0,Kenya,Meru County,Sl28,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0321,2016.0,2017,1250.0,10.0,0,3,Nicaragua,Jinotega,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0322,,2011,,,0,0,United States (Hawaii),,,,,Specialty (80-84),train
+LOT-0323,2012.0,2012,1524.0,10.0,0,0,Guatemala,"Sacatepequez, Guatemala",Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0324,2012.0,2012,1400.0,12.0,0,0,Indonesia,East Java,Typica,Washed / Wet,Green,Specialty (80-84),test
+LOT-0325,2012.0,2012,1100.0,12.0,4,11,Mexico,Xicotepec De Juarez,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0326,2012.0,2012,1310.6,11.0,0,13,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-0327,2012.0,2012,1450.0,11.0,0,1,Guatemala,Oriente,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0328,2012.0,2012,1750.0,11.0,0,1,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0329,2013.0,2013,1310.6,11.0,0,2,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0330,2013.0,2013,1310.6,12.0,1,3,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0331,2013.0,2013,1900.0,,0,1,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0332,2013.0,2013,1750.0,,0,3,Colombia,Huila Supremo,Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-0333,2014.0,2014,1356.7,10.0,0,0,Guatemala,Huehuetenango,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0334,2014.0,2014,1625.0,11.0,0,4,Colombia,Huila,Caturra,Washed / Wet,,Specialty (80-84),train
+LOT-0335,2014.0,2015,800.0,12.0,0,0,Thailand,Thailand,,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0336,,2016,1350.0,11.0,0,1,Costa Rica,West Valley,,,Blue-Green,Specialty (80-84),test
+LOT-0337,2012.0,2012,1000.0,12.0,0,2,Mexico,Xalapa,Typica,Washed / Wet,,Specialty (80-84),train
+LOT-0338,2012.0,2012,2136.0,11.0,0,4,Colombia,Cundinamarca,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0339,2012.0,2012,1100.0,12.0,0,2,Brazil,South Of Minas,Catuai,Semi-washed / Semi-pulped,Blue-Green,Specialty (80-84),train
+LOT-0340,2012.0,2012,1775.0,11.0,0,3,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0341,2014.0,2014,1550.0,12.0,0,1,Colombia,Santander,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0342,2014.0,2014,1550.0,,0,0,Colombia,Santander,Caturra,Washed / Wet,,Specialty (80-84),train
+LOT-0343,2013.0,2013,1000.0,11.0,0,0,Taiwan,Taichung Xinshe 台中市新社區,Typica,Other,Green,Specialty (80-84),test
+LOT-0344,2015.0,2016,1100.0,10.0,0,4,China,Yunnan,Catimor,Washed / Wet,Green,Specialty (80-84),train
+LOT-0345,2016.0,2016,,11.0,0,4,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0346,2016.0,2016,1128.4,11.0,0,0,Guatemala,Huehuetenango,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0347,2014.0,2014,1600.0,,0,0,Colombia,Cundinamarca,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0348,2013.0,2014,1800.0,12.0,0,5,Uganda,Eastern,Sl14,Washed / Wet,Green,Specialty (80-84),train
+LOT-0349,2014.0,2015,1850.0,,0,7,Ethiopia,Yirgacheffe,Other,Washed / Wet,,Specialty (80-84),train
+LOT-0350,2014.0,2015,1200.0,12.0,1,13,Mexico,"Chiapas, Jaltenango",Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0351,2015.0,2015,1775.0,12.0,0,3,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0352,2017.0,2017,890.0,11.0,0,5,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),test
+LOT-0353,2013.0,2013,1750.0,11.0,0,2,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-0354,2016.0,2017,1799.0,,0,5,Colombia,Cundinamarca,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0355,2013.0,2013,1750.0,,1,1,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0356,2014.0,2014,1350.0,10.0,0,3,Honduras,Comayagua,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0357,2014.0,2014,1650.0,,2,0,Colombia,Cundinamarca,Caturra,Washed / Wet,,Specialty (80-84),train
+LOT-0358,2014.0,2015,1850.0,11.0,0,0,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0359,2012.0,2012,1170.0,13.0,0,14,Mexico,Xalapa,Bourbon,Natural / Dry,Green,Specialty (80-84),test
+LOT-0360,2012.0,2012,1524.0,10.0,0,5,Guatemala,Atitlan,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0361,2012.0,2012,940.0,11.0,0,12,Mexico,Chilón,Typica,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-0362,2014.0,2015,,,1,0,Colombia,Huila,,Washed / Wet,,Specialty (80-84),test
+LOT-0363,2014.0,2015,1600.0,10.0,1,18,Ethiopia,Oromia,,Natural / Dry,,Specialty (80-84),train
+LOT-0364,2015.0,2015,1500.0,13.0,0,8,Indonesia,Bener Meriah,Sumatra,Semi-washed / Semi-pulped,Blue-Green,Specialty (80-84),train
+LOT-0365,2015.0,2015,1400.0,13.0,0,21,Tanzania,Nkure- Meru,Ruiru 11,Washed / Wet,Green,Specialty (80-84),train
+LOT-0366,2015.0,2015,1775.0,12.0,0,4,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0367,2016.0,2016,1219.2,10.0,0,5,Guatemala,Oriente,Bourbon,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0368,2016.0,2016,1000.0,,0,0,Colombia,Pitalito,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0369,2015.0,2016,1850.0,,0,0,Costa Rica,Tarrazu,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0370,2016.0,2017,,11.0,0,0,Taiwan,,,,Blue-Green,Specialty (80-84),test
+LOT-0371,2012.0,2012,1400.0,12.0,0,0,Mexico,Totutla,Pacamara,Washed / Wet,Green,Specialty (80-84),train
+LOT-0372,2010.0,2010,1600.0,,0,0,Indonesia,Bondowoso,,,,Specialty (80-84),train
+LOT-0373,,2011,,,0,0,United States (Hawaii),,,,,Specialty (80-84),train
+LOT-0374,2012.0,2012,1402.1,,3,12,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0375,2012.0,2012,1775.0,11.0,0,0,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-0376,2017.0,2017,,,0,2,India,Chikmagalur Karnataka Indua,,Washed / Wet,,Specialty (80-84),train
+LOT-0377,2013.0,2014,1400.0,10.0,0,0,Guatemala,Atitlan,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0378,2016.0,2017,1850.0,9.0,0,4,Costa Rica,Tarrazu,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0379,2016.0,2017,442.0,11.0,0,2,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0380,2015.0,2015,442.0,12.0,4,0,Colombia,Huila,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0381,2015.0,2016,1800.0,11.0,0,1,Uganda,Eastern,Sl14,Washed / Wet,Green,Specialty (80-84),train
+LOT-0382,2015.0,2017,,11.0,0,0,Taiwan,,,,Blue-Green,Specialty (80-84),train
+LOT-0383,2016.0,2016,1330.0,11.0,0,0,El Salvador,Apaneca,Bourbon,Washed / Wet,,Specialty (80-84),train
+LOT-0384,2017.0,2017,1700.0,10.0,0,3,Guatemala,San Marcos,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0385,2014.0,2014,1500.0,10.0,0,2,Guatemala,Antigua,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0386,2013.0,2013,1310.6,11.0,0,0,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-0387,2012.0,2013,,,0,2,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Green,Specialty (80-84),train
+LOT-0388,2012.0,2012,1450.0,11.0,0,2,Colombia,Cundinamarca,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0389,,2011,,10.0,1,3,Colombia,Huila,,,,Specialty (80-84),train
+LOT-0390,2015.0,2016,1200.0,13.0,0,0,Thailand,Thailand,Catimor,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0391,2017.0,2017,439.0,,0,1,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-0392,2014.0,2014,1813.0,12.0,0,1,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0393,2014.0,2014,1600.0,13.0,0,4,Tanzania,Karatu Northern,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0394,2014.0,2015,,12.0,0,6,Brazil,Vale Da Grama,Yellow Bourbon,Semi-washed / Semi-pulped,Green,Specialty (80-84),test
+LOT-0395,2013.0,2014,1219.2,10.0,0,1,Guatemala,Oriente,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0396,2010.0,2010,,,0,0,United States (Hawaii),Kona,,,,Specialty (80-84),train
+LOT-0397,,2010,,11.0,0,0,Thailand,,Peaberry,,,Specialty (80-84),train
+LOT-0398,,2010,1050.0,9.0,2,4,Mexico,Nayarit,,,,Specialty (80-84),train
+LOT-0399,2015.0,2015,1227.0,10.0,1,5,Brazil,South Of Minas,Catuai,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-0400,2013.0,2013,1310.6,11.0,0,3,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0401,2013.0,2013,1000.0,11.0,0,1,Colombia,Pitalito,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0402,2016.0,2016,1650.0,,0,0,Colombia,Huila,Caturra,Washed / Wet,,Specialty (80-84),train
+LOT-0403,,2011,,,0,0,United States (Hawaii),,,,,Specialty (80-84),train
+LOT-0404,,2011,,,0,0,United States (Hawaii),Kona,,,,Specialty (80-84),train
+LOT-0405,2012.0,2012,1750.0,,0,1,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0406,2016.0,2016,,,1,2,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0407,2016.0,2016,,,0,0,Colombia,Guayata,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0408,2014.0,2014,1700.0,12.0,0,6,Tanzania,Arusha,Other,Semi-washed / Semi-pulped,Green,Specialty (80-84),test
+LOT-0409,2015.0,2015,1650.0,11.0,0,1,Colombia,Santander,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0410,2012.0,2013,1280.2,11.0,0,4,Haiti,"Thiotte, Haiti",Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0411,2013.0,2014,,12.0,0,5,Peru,,,Washed / Wet,Green,Specialty (80-84),test
+LOT-0412,2013.0,2014,1200.0,11.0,0,3,Costa Rica,Central Valley,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-0413,2014.0,2014,,11.0,0,1,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0414,2014.0,2014,1300.0,12.0,0,3,Costa Rica,San Ramon,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0415,2013.0,2014,1100.0,12.0,0,0,Mexico,Veracruz,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0416,2014.0,2015,1200.0,12.0,0,2,Mexico,Chiapas,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0417,2012.0,2013,,10.0,0,4,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0418,2012.0,2012,1880.0,,0,5,Burundi,Kayanza,Bourbon,Washed / Wet,,Specialty (80-84),train
+LOT-0419,2014.0,2014,800.0,10.0,0,0,Taiwan,南投國姓,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0420,2012.0,2013,,11.0,0,4,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Blue-Green,Specialty (80-84),test
+LOT-0421,2013.0,2013,1300.0,12.0,0,6,Mexico,Chiapas,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0422,2014.0,2014,1483.0,,0,0,Colombia,Eje Cafetero,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0423,2012.0,2012,,13.0,0,7,Mexico,Veracruz,Mundo Novo,Washed / Wet,Green,Specialty (80-84),train
+LOT-0424,2012.0,2012,1310.6,11.0,0,9,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0425,2012.0,2012,1000.0,12.0,0,0,Mexico,Fortín De Las Flores,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0426,2015.0,2015,1000.0,10.0,0,0,Taiwan,Natou County,Bourbon,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0427,2015.0,2015,1261.0,12.0,0,2,Mexico,Cuarenteño,Typica,Natural / Dry,Blue-Green,Specialty (80-84),test
+LOT-0428,2015.0,2015,442.0,,0,2,Colombia,Huila,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0429,2016.0,2016,,12.0,0,4,Brazil,Campos Altos - Cerrado,,,Green,Specialty (80-84),test
+LOT-0430,2015.0,2016,,12.0,0,1,Uganda,"Sipi, Mt Elgon",Sl14,Washed / Wet,Green,Specialty (80-84),train
+LOT-0431,2016.0,2016,2100.0,11.0,0,7,Guatemala,Nuevo Oriente,Pacas,Washed / Wet,Green,Specialty (80-84),train
+LOT-0432,2015.0,2016,,11.0,0,0,Costa Rica,Tarrazu,,Washed / Wet,,Specialty (80-84),train
+LOT-0433,2016.0,2017,1900.0,11.0,0,0,Costa Rica,Tarrazu,Catuai,Pulped natural / honey,Green,Specialty (80-84),train
+LOT-0434,2017.0,2017,1600.0,11.0,0,0,Mexico,Sierra Madre Occidental,Typica,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0435,2012.0,2012,,12.0,0,1,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0436,2010.0,2011,1880.0,13.0,0,1,Colombia,Cauca,,,,Specialty (80-84),train
+LOT-0437,2011.0,2011,1700.0,8.0,0,0,Colombia,Huila,,,,Specialty (80-84),train
+LOT-0438,2012.0,2012,1775.0,11.0,0,0,Colombia,La Plata,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0439,2010.0,2011,1800.0,,0,1,Colombia,Cundinamarca,,,,Specialty (80-84),train
+LOT-0440,2012.0,2012,1200.0,11.0,0,1,Brazil,Grama Valley,Yellow Bourbon,Semi-washed / Semi-pulped,Blue-Green,Specialty (80-84),train
+LOT-0441,2015.0,2015,1000.0,,0,0,India,Chikmagalur,,,Green,Specialty (80-84),train
+LOT-0442,2013.0,2013,1750.0,11.0,0,1,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0443,2014.0,2014,1500.0,10.0,0,1,Guatemala,Antigua,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0444,2015.0,2016,1200.0,11.0,0,0,China,Yunnan,Catimor,Washed / Wet,Green,Specialty (80-84),train
+LOT-0445,2016.0,2017,,12.0,0,3,Tanzania,Moshi,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0446,2017.0,2017,1901.0,10.0,0,1,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0447,2017.0,2017,,11.0,0,0,Peru,,,,Green,Specialty (80-84),train
+LOT-0448,2014.0,2014,1800.0,12.0,0,1,Tanzania,Kilimanjaro,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-0449,2013.0,2014,,11.0,0,0,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0450,2017.0,2017,890.0,11.0,0,4,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0451,2013.0,2013,1310.6,11.0,0,2,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0452,2014.0,2014,1524.0,9.0,0,1,Guatemala,San Marcos,Catuai,Washed / Wet,Green,Specialty (80-84),test
+LOT-0453,2017.0,2017,1550.0,7.0,0,0,Vietnam,Dala,Catimor,Natural / Dry,,Specialty (80-84),train
+LOT-0454,2016.0,2016,1500.0,11.0,2,3,Guatemala,Antigua,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0455,2016.0,2016,1450.0,11.0,0,1,Honduras,Marcala,Catuai,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0456,2012.0,2012,1089.0,14.0,0,10,Mexico,San Bartolo Tutotepec,Pacamara,Washed / Wet,,Specialty (80-84),test
+LOT-0457,2012.0,2012,532.0,12.0,3,8,Mexico,"Tlanchinol, Hidalgo",Typica,Washed / Wet,,Specialty (80-84),train
+LOT-0458,2014.0,2014,1350.0,11.0,0,3,Honduras,Comayagua,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0459,2013.0,2014,1450.0,10.0,0,5,Honduras,San Marcos,Catuai,Natural / Dry,Green,Specialty (80-84),train
+LOT-0460,2014.0,2014,1653.0,13.0,0,6,Tanzania,Mbinga,Other,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0461,2014.0,2014,,11.0,10,3,Colombia,,,Washed / Wet,Green,Specialty (80-84),train
+LOT-0462,2014.0,2014,1800.0,10.0,0,0,Uganda,Eastern,Sl14,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0463,2014.0,2014,1775.0,,0,4,Colombia,Huila,Caturra,Washed / Wet,,Specialty (80-84),train
+LOT-0464,2015.0,2015,1500.0,11.0,0,1,Guatemala,Antigua,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0465,2016.0,2016,1350.0,,0,0,El Salvador,Apaneca,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0466,2015.0,2016,1600.0,10.0,0,3,China,Dehong Prefecture,Catimor,Washed / Wet,Green,Specialty (80-84),train
+LOT-0467,,2010,1850.0,,0,0,Ethiopia,Limu,,,,Specialty (80-84),train
+LOT-0468,2011.0,2011,900.0,,0,2,Brazil,South Of Minas,,,,Specialty (80-84),train
+LOT-0469,2014.0,2015,800.0,12.0,0,0,Thailand,Thailand,,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0470,2014.0,2015,250.5,10.0,0,1,Kenya,Kenya,Sl28,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0471,2015.0,2015,1650.0,12.0,0,3,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0472,2013.0,2013,1500.0,11.0,0,2,Mexico,Chiapas,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0473,2010.0,2011,1200.0,14.0,0,3,El Salvador,Santa Ana,,,,Specialty (80-84),train
+LOT-0474,2012.0,2012,950.0,11.0,0,4,Brazil,Mogiana,Mundo Novo,Natural / Dry,Green,Specialty (80-84),train
+LOT-0475,2012.0,2012,1000.0,12.0,0,1,Brazil,South Of Minas,Mundo Novo,Natural / Dry,Green,Specialty (80-84),train
+LOT-0476,2012.0,2012,1380.0,11.0,0,5,Mexico,La Concordia,Typica,Washed / Wet,,Specialty (80-84),test
+LOT-0477,2012.0,2012,1750.0,11.0,0,0,Colombia,Huila,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0478,2012.0,2012,700.0,13.0,0,5,Mexico,San Isidro,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0479,2012.0,2012,1775.0,11.0,1,2,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-0480,2012.0,2012,1402.1,,0,10,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0481,2011.0,2011,1000.0,12.0,0,3,Brazil,South Of Minas,Mundo Novo,Semi-washed / Semi-pulped,Blue-Green,Specialty (80-84),train
+LOT-0482,2012.0,2012,,,1,4,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,,Specialty (80-84),train
+LOT-0483,2012.0,2012,1400.0,10.0,0,1,Mexico,Santa Catarina Juquila,Other,Washed / Wet,,Specialty (80-84),train
+LOT-0484,2010.0,2010,1350.0,,0,0,Indonesia,Dolok Sanggul,,,,Specialty (80-84),train
+LOT-0485,2016.0,2017,,,1,5,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0486,2016.0,2017,1799.0,,0,4,Colombia,Cundinamarca,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0487,,2010,,,0,1,Guatemala,,,,,Specialty (80-84),train
+LOT-0488,2015.0,2015,750.0,,0,0,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Typica,Natural / Dry,Green,Specialty (80-84),train
+LOT-0489,2015.0,2015,,,0,3,Brazil,South Of Minas,Yellow Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0490,2012.0,2013,,10.0,0,0,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0491,2013.0,2013,1300.0,11.0,0,0,Taiwan,Chiayi Alishan 嘉義縣阿里山鄉,Typica,Other,,Specialty (80-84),train
+LOT-0492,2013.0,2014,,12.0,0,8,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Blue-Green,Specialty (80-84),test
+LOT-0493,2014.0,2014,1300.0,10.0,0,3,Costa Rica,Central Valley,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-0494,2014.0,2014,1200.0,,0,1,Brazil,South Of Minas,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0495,2015.0,2015,,11.0,0,13,Brazil,Chapadão De Ferro (Cerrado Mineiro),Mundo Novo,Natural / Dry,Green,Specialty (80-84),train
+LOT-0496,,2011,1775.0,,0,0,Colombia,Huila,Caturra,,,Specialty (80-84),train
+LOT-0497,2010.0,2011,1880.0,8.0,1,3,Colombia,Cauca,,,,Specialty (80-84),train
+LOT-0498,2015.0,2016,905.0,11.0,0,2,Brazil,South Of Minas,Yellow Bourbon,Pulped natural / honey,Blue-Green,Specialty (80-84),train
+LOT-0499,2012.0,2012,,12.0,0,0,United States (Hawaii),Kona,Hawaiian Kona,Washed / Wet,Green,Specialty (80-84),test
+LOT-0500,2012.0,2012,1750.0,11.0,0,0,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0501,2012.0,2012,1371.6,10.0,0,2,Guatemala,"La Reforma, San Marcos",Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0502,2014.0,2014,1500.0,10.0,1,0,Guatemala,Antigua,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0503,2013.0,2014,1200.0,11.0,0,3,Costa Rica,Central Valley,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-0504,2014.0,2015,1000.0,,0,0,Brazil,High Mogiana,Catuai,Natural / Dry,Green,Specialty (80-84),test
+LOT-0505,2015.0,2015,1500.0,11.0,0,2,Guatemala,Antigua,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0506,2015.0,2015,1371.6,11.0,0,2,Guatemala,"El Tumbador, San Marcos",Catuai,Washed / Wet,Green,Specialty (80-84),test
+LOT-0507,2015.0,2015,1550.0,11.0,0,3,Guatemala,Nuevo Oriente,Catuai,Washed / Wet,Green,Specialty (80-84),test
+LOT-0508,2014.0,2015,1550.0,,0,0,Vietnam,Vietnam Cau Dat,Caturra,Other,Green,Specialty (80-84),train
+LOT-0509,2016.0,2016,442.0,11.0,0,4,Colombia,Huila,,,Green,Specialty (80-84),train
+LOT-0510,2015.0,2016,1645.0,12.0,0,8,Uganda,"Kasese, Mt. Rwenzori",Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0511,2015.0,2016,1473.0,12.0,0,6,Uganda,"Kasese, Mt. Rwenzori",Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0512,2016.0,2016,872.0,11.0,0,3,Brazil,South Of Minas,Bourbon,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0513,2016.0,2016,894.0,11.0,0,5,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0514,2017.0,2017,890.0,,0,4,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),test
+LOT-0515,,2011,1450.0,8.0,0,1,Colombia,Cauca,,,,Specialty (80-84),train
+LOT-0516,2011.0,2011,,,0,0,Thailand,,,,,Specialty (80-84),train
+LOT-0517,2013.0,2014,853.4,,0,0,United States (Puerto Rico),Yauco Region,Other,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0518,2013.0,2014,1800.0,12.0,0,0,Uganda,Kapchorwa,Sl14,Washed / Wet,Green,Specialty (80-84),train
+LOT-0519,2014.0,2014,1200.0,8.0,0,0,Taiwan,嘉義阿里山,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0520,2013.0,2014,1250.0,12.0,0,3,Uganda,Luwero Central Region,,,Green,Specialty (80-84),train
+LOT-0521,,2011,,,0,1,United States (Hawaii),,,,,Specialty (80-84),train
+LOT-0522,2011.0,2011,1775.0,12.0,0,0,Colombia,La Plata,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0523,2012.0,2012,1625.0,,0,4,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0524,2012.0,2012,750.0,11.0,0,20,Mexico,Coatepec,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0525,2012.0,2012,,,1,4,Colombia,,Arusha,Natural / Dry,,Specialty (80-84),train
+LOT-0526,2012.0,2012,1200.0,11.0,5,8,Mexico,Coatepec,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0527,2012.0,2012,1200.0,11.0,0,7,Mexico,Atoyac De Alvarez,Typica,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-0528,2013.0,2013,1750.0,,0,0,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0529,2013.0,2013,1775.0,11.0,1,1,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0530,2013.0,2014,1250.0,12.0,0,4,Brazil,Sul De Minas,Yellow Bourbon,Semi-washed / Semi-pulped,Blue-Green,Specialty (80-84),train
+LOT-0531,,2011,,,0,0,United States (Hawaii),,,,,Specialty (80-84),train
+LOT-0532,2011.0,2011,1800.0,6.0,0,2,Colombia,Huila,,,,Specialty (80-84),train
+LOT-0533,2012.0,2012,1775.0,11.0,1,2,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0534,2013.0,2013,1000.0,,0,2,Colombia,Pitalito,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0535,2013.0,2013,1000.0,11.0,0,1,Colombia,Pitalito,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0536,,2010,,,0,0,Thailand,,,,,Specialty (80-84),train
+LOT-0537,2013.0,2014,1212.0,12.0,0,7,Uganda,Central,,,Green,Specialty (80-84),train
+LOT-0538,2009.0,2010,,7.0,0,0,Nicaragua,Matagalpa,Caturra,,,Specialty (80-84),train
+LOT-0539,2012.0,2012,1400.0,14.0,1,4,Mexico,La Cumbre,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0540,2014.0,2014,1500.0,10.0,0,1,Guatemala,Antigua,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0541,2015.0,2015,1200.0,11.0,0,1,Philippines,"Bukidnon, Mindanao, Philppines",Other,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0542,2015.0,2015,1059.0,13.0,0,3,Mexico,Cuarenteño,Typica,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0543,2014.0,2015,1600.0,,0,0,Philippines,Asia Pacific,Other,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0544,2017.0,2017,1350.0,,0,1,El Salvador,Apaneca,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-0545,2017.0,2017,890.0,,0,0,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0546,2016.0,2016,350.0,9.0,31,0,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0547,2015.0,2015,1300.0,12.0,2,8,Mexico,Chiapas,Bourbon,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0548,2014.0,2014,,11.0,0,16,Brazil,Cerrado,Moka Peaberry,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-0549,2017.0,2017,1500.0,11.0,0,1,Colombia,Guayata,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0550,2014.0,2015,775.0,,0,9,Taiwan,台東太麻里,Typica,Natural / Dry,Green,Specialty (80-84),test
+LOT-0551,2016.0,2016,2000.0,,1,20,Ethiopia,"Blida,Kercha,Guji,Oromia",Ethiopian Heirlooms,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0552,2013.0,2013,1750.0,,0,0,Colombia,Huila,Caturra,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0553,2013.0,2014,1400.0,12.0,0,4,Uganda,West Nile,Sl14,Washed / Wet,Green,Specialty (80-84),test
+LOT-0554,2011.0,2011,1450.0,15.0,0,0,Colombia,Cauca,,,,Specialty (80-84),train
+LOT-0555,2012.0,2012,,10.0,0,0,United States (Hawaii),Kona,Hawaiian Kona,Washed / Wet,Green,Specialty (80-84),train
+LOT-0556,,2010,,,0,0,Thailand,,,,,Specialty (80-84),train
+LOT-0557,2012.0,2012,1040.0,,0,17,Vietnam,Don Duong,Other,Natural / Dry,,Specialty (80-84),train
+LOT-0558,2013.0,2013,1450.0,11.0,3,5,Colombia,Antioquia,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0559,2012.0,2012,1248.0,10.0,0,4,Mexico,Petatlan,Typica,Natural / Dry,Green,Specialty (80-84),test
+LOT-0560,2012.0,2013,,10.0,0,4,Guatemala,,,Washed / Wet,Green,Specialty (80-84),train
+LOT-0561,2013.0,2013,1900.0,11.0,0,2,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0562,2013.0,2014,1650.0,12.0,0,0,Uganda,Eastern,Sl14,Washed / Wet,Green,Specialty (80-84),train
+LOT-0563,2013.0,2013,1706.9,11.0,0,2,Guatemala,Huehuetenango,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0564,2014.0,2014,1500.0,10.0,0,2,Guatemala,Antigua,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0565,2010.0,2011,1200.0,,1,3,El Salvador,Santa Ana,,,,Specialty (80-84),train
+LOT-0566,2012.0,2012,1380.0,11.0,0,2,Mexico,La Concordia,Typica,Washed / Wet,,Specialty (80-84),test
+LOT-0567,2017.0,2017,1754.0,10.0,0,3,Kenya,Nyeri,Sl28,Washed / Wet,Green,Specialty (80-84),train
+LOT-0568,2013.0,2013,1775.0,11.0,0,3,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0569,2012.0,2013,1400.0,11.0,0,5,Tanzania,Arusha,Arusha,Washed / Wet,Green,Specialty (80-84),train
+LOT-0570,2012.0,2012,1550.0,12.0,2,10,Mexico,La Concordia,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0571,2012.0,2012,1250.0,12.0,0,7,Mexico,Veracruz,Bourbon,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0572,2012.0,2012,1310.6,11.0,0,10,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0573,2013.0,2014,1800.0,,4,4,Colombia,Santander,Typica,Natural / Dry,Green,Specialty (80-84),train
+LOT-0574,2014.0,2015,1200.0,,0,9,United States,Berastagi,Other,Other,,Specialty (80-84),train
+LOT-0575,2014.0,2014,1500.0,10.0,0,4,Guatemala,Antigua,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0576,2015.0,2016,1900.0,11.0,0,0,Rwanda,Gicumbi,Bourbon,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0577,2014.0,2016,1040.0,11.0,11,0,Vietnam,Vietnam Tutra,Other,Other,Green,Specialty (80-84),test
+LOT-0578,2015.0,2015,1219.2,11.0,0,2,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0579,2015.0,2015,900.0,12.0,2,6,Brazil,Cerrado,Catuai,Natural / Dry,Green,Specialty (80-84),train
+LOT-0580,2014.0,2015,1600.0,,0,1,Colombia,Huila,Other,Washed / Wet,,Specialty (80-84),test
+LOT-0581,2017.0,2017,1700.0,11.0,1,2,Guatemala,San Marcos,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0582,2016.0,2016,1250.0,,0,4,El Salvador,"El Balsamo, Quezaltepec",Pacas,Washed / Wet,Green,Specialty (80-84),train
+LOT-0583,2015.0,2017,905.0,11.0,0,2,Brazil,South Of Minas,Yellow Bourbon,Pulped natural / honey,Blue-Green,Specialty (80-84),test
+LOT-0584,2017.0,2017,1800.0,11.0,0,8,Guatemala,Santa Rosa,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0585,,2018,1100.0,10.0,0,3,Guatemala,Santa Rosa,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0586,2013.0,2014,1300.0,10.0,0,2,Colombia,Antioquia,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0587,2013.0,2014,,10.0,0,0,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Green,Specialty (80-84),test
+LOT-0588,2013.0,2014,,10.0,6,0,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0589,2017.0,2017,1219.2,10.0,0,1,Guatemala,Santa Rosa,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0590,2017.0,2017,1219.2,10.0,0,1,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0591,2014.0,2014,,12.0,0,0,Colombia,Huila,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0592,2014.0,2014,1524.0,13.0,0,2,Guatemala,Jalapa,Pacas,Washed / Wet,Green,Specialty (80-84),train
+LOT-0593,2017.0,2017,1700.0,11.0,0,4,Guatemala,San Marcos,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0594,2012.0,2012,1100.0,,0,4,Panama,Boquete,Catuai,Washed / Wet,Green,Specialty (80-84),test
+LOT-0595,2012.0,2012,1625.0,,0,0,Colombia,South Huila,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0596,2017.0,2017,1500.0,12.0,0,15,Indonesia,Sapan Toraja,Sulawesi,Other,Blue-Green,Specialty (80-84),test
+LOT-0597,2017.0,2017,,12.0,0,0,Guatemala,El Progreso,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0598,2016.0,2017,650.0,,0,0,Taiwan,"台南市東山區( Dongshan Dist., Tainan City)",Yellow Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0599,2017.0,2017,1250.0,,0,4,El Salvador,Cacahuatique,Bourbon,Washed / Wet,,Specialty (80-84),train
+LOT-0600,2016.0,2017,1850.0,9.0,0,1,Costa Rica,Tarrazu,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0601,2017.0,2017,1400.0,9.0,0,6,Honduras,Comayagua,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0602,2015.0,2016,905.0,11.0,0,1,Brazil,South Of Minas,Yellow Bourbon,Pulped natural / honey,Blue-Green,Specialty (80-84),train
+LOT-0603,2015.0,2016,1100.0,10.0,0,0,China,Yunnan,Catimor,Natural / Dry,Green,Specialty (80-84),test
+LOT-0604,2015.0,2016,1500.0,11.0,0,2,China,Menglian,Catimor,Washed / Wet,Green,Specialty (80-84),train
+LOT-0605,2014.0,2014,1775.0,,0,2,Colombia,Huila,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0606,2014.0,2014,1442.0,12.0,0,0,Malawi,Mzuzu,Gesha,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0607,2012.0,2012,1200.0,12.0,0,0,Mexico,Veracruz,Typica,Washed / Wet,,Specialty (80-84),train
+LOT-0608,2013.0,2013,1550.0,12.0,0,6,Mexico,Chiapas,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0609,2012.0,2012,1200.0,12.0,1,4,Mexico,Atoyac De Alvarez,Typica,Natural / Dry,,Specialty (80-84),train
+LOT-0610,,2010,,,0,2,United States (Hawaii),Kona,,,,Specialty (80-84),train
+LOT-0611,2012.0,2012,1775.0,11.0,0,3,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0612,2012.0,2012,,12.0,0,0,United States (Hawaii),Kona,Hawaiian Kona,Washed / Wet,Green,Specialty (80-84),test
+LOT-0613,2012.0,2012,,,0,0,India,Chikmagalur,,,Green,Specialty (80-84),train
+LOT-0614,2014.0,2015,,12.0,0,9,Brazil,Monte Carmelo,Catuai,Natural / Dry,,Specialty (80-84),train
+LOT-0615,2016.0,2016,934.0,11.0,0,3,Brazil,South Of Minas,Bourbon,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0616,2015.0,2016,1300.0,13.0,0,0,Laos,"Paksong,Laos",Catimor,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0617,2017.0,2017,890.0,,0,4,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0618,2010.0,2011,1400.0,,0,1,Mexico,Mexico,Blue Mountain,,,Specialty (80-84),test
+LOT-0619,,2011,,,2,0,United States (Hawaii),Kona,,,,Specialty (80-84),test
+LOT-0620,2016.0,2016,1300.0,11.0,0,3,Mexico,Veracruz,,,Green,Specialty (80-84),train
+LOT-0621,2015.0,2015,,,1,9,Colombia,Huila,,Washed / Wet,Green,Specialty (80-84),train
+LOT-0622,2016.0,2016,1200.0,,0,7,El Salvador,"El Balsamo, Quezaltepec",Pacas,Washed / Wet,Green,Specialty (80-84),test
+LOT-0623,2012.0,2012,950.0,12.0,0,0,Mexico,Mahuixtlan,Typica,Washed / Wet,,Specialty (80-84),train
+LOT-0624,2011.0,2011,,11.0,0,0,Colombia,52 Narino (Exact Location: Mattituy; Municipal Region: Florida Code 381,,,Green,Specialty (80-84),test
+LOT-0625,2012.0,2012,1100.0,11.0,0,2,Mexico,,Other,Washed / Wet,,Specialty (80-84),train
+LOT-0626,2009.0,2010,,,0,2,Colombia,,,,,Specialty (80-84),train
+LOT-0627,,2011,1800.0,8.0,0,3,Colombia,Huila,,,,Specialty (80-84),train
+LOT-0628,2014.0,2014,1700.0,12.0,0,0,Tanzania,Karatu Arusha,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0629,2014.0,2014,1550.0,12.0,0,4,Tanzania,Mbinga,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0630,2014.0,2014,1200.0,8.0,0,0,Taiwan,嘉義阿里山,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0631,2012.0,2013,1800.0,11.0,0,3,Colombia,Huila,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0632,2013.0,2014,1650.0,12.0,0,0,Uganda,Mt Elgon,Sl14,Washed / Wet,Green,Specialty (80-84),train
+LOT-0633,2013.0,2013,1240.0,11.0,0,0,Taiwan,Chiayi Alishan 嘉義縣阿里山鄉,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0634,2013.0,2013,1500.0,11.0,0,0,Thailand,Phahi,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0635,2012.0,2012,1500.0,11.0,0,0,Guatemala,Antigua,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0636,2012.0,2012,,,0,17,El Salvador,,Other,Washed / Wet,,Specialty (80-84),train
+LOT-0637,2012.0,2012,,12.0,0,0,Thailand,Thailand,Other,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0638,2015.0,2015,,,0,0,Brazil,South Of Minas,Yellow Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0639,2014.0,2014,1296.0,11.0,0,0,Mexico,La Yerba,Typica,Natural / Dry,Green,Specialty (80-84),train
+LOT-0640,2012.0,2012,1750.0,11.0,0,3,Colombia,Huila,Caturra,Washed / Wet,,Specialty (80-84),train
+LOT-0641,2014.0,2014,750.0,,0,0,India,Chikmagalur,,,Green,Specialty (80-84),train
+LOT-0642,2014.0,2015,1450.0,12.0,0,1,Thailand,Chiangrai,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0643,2016.0,2015,,,1,2,Brazil,Campos Altos - Cerrado,,,Green,Specialty (80-84),train
+LOT-0644,2012.0,2012,1775.0,11.0,2,2,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-0645,2014.0,2015,800.0,12.0,0,0,Thailand,Thailand,,Washed / Wet,Green,Specialty (80-84),train
+LOT-0646,2015.0,2015,1250.0,13.0,0,6,Indonesia,Aceh,Typica,Semi-washed / Semi-pulped,Blue-Green,Specialty (80-84),train
+LOT-0647,2016.0,2017,1050.0,11.0,0,0,Taiwan,國姓鄉 Guoshing Township,Typica,Pulped natural / honey,Green,Specialty (80-84),train
+LOT-0648,2016.0,2017,,11.0,0,7,Brazil,South Of Minas,,Pulped natural / honey,Green,Specialty (80-84),train
+LOT-0649,2017.0,2017,1219.2,10.0,0,2,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0650,2013.0,2013,1750.0,11.0,0,0,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0651,2012.0,2012,1250.0,10.0,0,6,Mexico,Oaxaca,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0652,2016.0,2017,200.0,11.0,0,0,Taiwan,Changhua Baguashan 彰化市八卦山,,,Blue-Green,Specialty (80-84),train
+LOT-0653,2012.0,2013,,,0,4,Guatemala,,,Natural / Dry,Blue-Green,Specialty (80-84),test
+LOT-0654,2014.0,2014,,,0,11,Mexico,Veracruz,,Washed / Wet,Green,Specialty (80-84),train
+LOT-0655,2013.0,2014,1650.0,12.0,0,0,Uganda,Eastern,Sl14,Natural / Dry,Green,Specialty (80-84),train
+LOT-0656,2013.0,2014,1300.0,11.0,0,3,Costa Rica,Central Valley,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-0657,2014.0,2014,1317.0,12.0,0,1,Tanzania,Ikand Village,Other,Washed / Wet,,Specialty (80-84),train
+LOT-0658,2013.0,2013,1750.0,11.0,0,3,Colombia,Huila,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0659,2012.0,2012,1150.0,12.0,0,0,Mexico,Colima,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0660,2011.0,2011,975.0,,0,4,Brazil,South Of Minas,Mundo Novo,,,Specialty (80-84),train
+LOT-0661,2013.0,2014,1260.0,11.0,0,0,Brazil,South Of Minas,Yellow Bourbon,Semi-washed / Semi-pulped,Blue-Green,Specialty (80-84),train
+LOT-0662,2014.0,2015,1450.0,11.0,0,0,Thailand,Chiangrai,Caturra,Washed / Wet,,Specialty (80-84),train
+LOT-0663,2017.0,2017,890.0,11.0,0,4,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0664,2016.0,2016,1219.2,10.0,0,2,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0665,2017.0,2017,1400.0,10.0,0,4,Honduras,Comayagua,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0666,2012.0,2012,,11.0,0,5,Guatemala,Oriente,Caturra,Natural / Dry,Green,Specialty (80-84),test
+LOT-0667,2012.0,2012,1250.0,,0,4,Brazil,Carmo De Minas,Bourbon,Semi-washed / Semi-pulped,Blue-Green,Specialty (80-84),train
+LOT-0668,2014.0,2014,1600.0,12.0,0,1,Tanzania,Karatu Arusha,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0669,2014.0,2014,,12.0,0,3,Tanzania,Moshi,Other,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0670,2013.0,2014,1600.0,,0,1,Mexico,Chiapas,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0671,2013.0,2013,1310.6,11.0,0,0,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0672,2013.0,2013,1750.0,11.0,0,1,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-0673,2013.0,2013,1310.6,12.0,0,4,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0674,2012.0,2012,1679.0,13.0,0,10,Mexico,San Bartolo Tutotepec,Typica,Washed / Wet,,Specialty (80-84),train
+LOT-0675,2012.0,2012,1100.0,12.0,0,5,Mexico,Zapotitlan De Mendez,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0676,2012.0,2012,1650.0,11.0,0,2,Mexico,La Concordia,Typica,Semi-washed / Semi-pulped,,Specialty (80-84),test
+LOT-0677,2012.0,2012,,12.0,2,3,United States (Hawaii),Kona,Hawaiian Kona,Washed / Wet,Green,Specialty (80-84),train
+LOT-0678,,2010,1600.0,,1,14,Guatemala,Huehuetenango,,,,Specialty (80-84),test
+LOT-0679,2015.0,2016,1000.0,9.0,0,0,India,Chikmagalur Karnataka,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0680,2017.0,2017,,10.0,0,0,India,Chikmagalur Karnataka India,,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0681,2017.0,2017,1250.0,11.0,0,5,Indonesia,Bali,Other,Washed / Wet,Green,Specialty (80-84),test
+LOT-0682,2014.0,2015,800.0,12.0,0,0,Thailand,Thailand,,Washed / Wet,Green,Specialty (80-84),train
+LOT-0683,2012.0,2012,1775.0,11.0,1,3,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0684,2014.0,2014,1296.0,11.0,0,0,Mexico,La Yerba,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0685,2016.0,2016,1600.0,11.0,0,1,Colombia,Guayata,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0686,2012.0,2012,1250.0,13.0,0,4,Mexico,Progreso Santa Rosa Teocelo,Bourbon,Washed / Wet,,Specialty (80-84),train
+LOT-0687,2012.0,2013,,9.0,0,2,Honduras,,,Washed / Wet,,Specialty (80-84),test
+LOT-0688,2013.0,2013,1775.0,11.0,0,9,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0689,2013.0,2013,1560.0,12.0,0,5,Mexico,Chiapas,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0690,2012.0,2012,1400.0,13.0,0,2,Mexico,San Pedro Cotzilnam,Typica,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-0691,2013.0,2013,1170.0,12.0,0,0,Mexico,Veracruz,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0692,2013.0,2013,1260.0,,0,0,Brazil,South Of Minas,Yellow Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0693,2013.0,2014,,,0,3,Peru,Peru,,Washed / Wet,Green,Specialty (80-84),train
+LOT-0694,2012.0,2014,1000.0,12.0,0,1,Brazil,South Of Minas,Catuai,Semi-washed / Semi-pulped,Blue-Green,Specialty (80-84),train
+LOT-0695,2016.0,2016,,11.0,0,0,Brazil,Campos Altos - Cerrado,,,Green,Specialty (80-84),train
+LOT-0696,2015.0,2016,1600.0,10.0,0,0,China,Yunnan,Catimor,Washed / Wet,Green,Specialty (80-84),train
+LOT-0697,2016.0,2017,1700.0,12.0,0,0,Guatemala,San Marcos,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0698,2012.0,2012,1300.0,14.0,0,9,Mexico,Coatepec,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0699,2017.0,2017,1500.0,12.0,0,6,Honduras,"Comayagua, Honduras",Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0700,2017.0,2017,1700.0,10.0,0,2,Guatemala,San Marcos,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0701,2017.0,2017,,11.0,0,3,Guatemala,Santa Rosa,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0702,2017.0,2017,,12.0,0,0,Guatemala,El Progreso,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0703,2012.0,2012,1170.0,13.0,0,1,Mexico,Xalapa,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0704,2012.0,2012,1300.0,11.0,0,0,Mexico,Zihuatanejo De Azueta,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0705,2012.0,2012,1150.0,11.0,0,0,Mexico,Xicotepec De Juarez,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0706,2012.0,2012,1350.0,14.0,0,6,Mexico,Veracruz,Pacamara,Washed / Wet,Green,Specialty (80-84),train
+LOT-0707,2012.0,2012,1450.0,12.0,0,0,Mexico,Fln Mirador,Typica,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0708,2012.0,2012,,11.0,0,2,Brazil,South Of Minas,Arusha,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0709,2011.0,2011,1750.0,,0,2,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0710,2011.0,2011,1750.0,,0,1,Colombia,Huila,,,,Specialty (80-84),test
+LOT-0711,2012.0,2012,442.0,,0,2,Colombia,Huila,Caturra,Natural / Dry,,Specialty (80-84),train
+LOT-0712,2014.0,2014,1100.0,12.0,0,6,Uganda,Western,,,Green,Specialty (80-84),train
+LOT-0713,2015.0,2015,,,0,0,Brazil,South Of Minas,Yellow Bourbon,Natural / Dry,Green,Specialty (80-84),test
+LOT-0714,2015.0,2015,2285.0,13.0,0,7,Tanzania,Arusha Meru,Ruiru 11,Washed / Wet,Green,Specialty (80-84),train
+LOT-0715,2013.0,2014,1400.0,10.0,0,0,Guatemala,Atitlan,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0716,2014.0,2014,1524.0,12.0,0,3,Guatemala,Jalapa,Pacas,Washed / Wet,Green,Specialty (80-84),train
+LOT-0717,2015.0,2016,1580.0,12.0,0,2,China,Xishuangbanna Prefecture,Catimor,Pulped natural / honey,Green,Specialty (80-84),train
+LOT-0718,2014.0,2014,,11.0,0,0,Mexico,Veracruz,,Washed / Wet,Green,Specialty (80-84),train
+LOT-0719,2013.0,2013,1310.6,12.0,2,1,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-0720,2013.0,2013,1750.0,,0,1,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0721,2013.0,2013,1300.0,12.0,0,3,Mexico,"La Concordia, Chiapas",Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0722,2012.0,2012,,,0,14,Costa Rica,Central Valley,,Washed / Wet,Green,Specialty (80-84),train
+LOT-0723,2012.0,2012,1752.6,11.0,0,3,Guatemala,Jalapa,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0724,2013.0,2013,600.0,11.0,0,0,Taiwan,Taichung Xinshe 台中市新社區,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0725,2013.0,2014,1300.0,10.0,0,2,Colombia,Antioquia,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0726,2013.0,2013,200.0,11.0,0,0,Taiwan,Changhua Baguashan 彰化市八卦山,Typica,Semi-washed / Semi-pulped,Green,Specialty (80-84),test
+LOT-0727,2015.0,2015,,11.0,0,10,Brazil,Chapadão De Ferro (Cerrado Mineiro),Mundo Novo,Natural / Dry,Green,Specialty (80-84),train
+LOT-0728,2015.0,2015,1268.0,7.0,0,0,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0729,2017.0,2017,1396.0,10.0,0,8,Honduras,Comayagua,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0730,2016.0,2016,,11.0,0,14,Brazil,Cerrado,,Natural / Dry,Green,Specialty (80-84),train
+LOT-0731,2016.0,2017,982.0,11.0,0,11,Brazil,Cerrado,Catuai,Natural / Dry,Green,Specialty (80-84),train
+LOT-0732,2015.0,2016,1550.0,,0,0,Costa Rica,Tarrazu,Catuai,Washed / Wet,Green,Specialty (80-84),test
+LOT-0733,2016.0,2016,934.0,11.0,0,3,Brazil,South Of Minas,Bourbon,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0734,2015.0,2016,1850.0,10.0,6,3,Costa Rica,Tarrazu,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0735,2012.0,2012,442.0,,0,0,Colombia,Huila,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0736,2012.0,2012,441.0,15.0,1,8,Mexico,"Jaltocan, Hidalgo",Typica,Natural / Dry,,Specialty (80-84),train
+LOT-0737,2012.0,2012,1310.6,10.0,2,5,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0738,2012.0,2012,1170.0,13.0,0,9,Mexico,Veracruz,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0739,2012.0,2012,950.0,11.0,0,2,Brazil,South Of Minas,Mundo Novo,Washed / Wet,Green,Specialty (80-84),train
+LOT-0740,2012.0,2012,1100.0,12.0,0,2,Brazil,Grama Valley,Mundo Novo,Natural / Dry,Green,Specialty (80-84),test
+LOT-0741,2012.0,2012,1300.0,11.0,0,0,Mexico,Santa Catarina Juquila,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0742,2015.0,2015,1676.4,10.0,0,6,Guatemala,Huehuetenango,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-0743,2014.0,2014,1450.0,12.0,0,0,Malawi,Mzuzu,Gesha,Washed / Wet,Green,Specialty (80-84),train
+LOT-0744,2014.0,2014,1100.0,11.0,0,0,Brazil,South Of Minas,Bourbon,Natural / Dry,Blue-Green,Specialty (80-84),test
+LOT-0745,2012.0,2012,1170.0,13.0,0,3,Mexico,Veracruz,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-0746,2013.0,2013,1338.0,12.0,0,4,Mexico,Veracruz,Mundo Novo,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0747,2012.0,2012,533.0,,3,8,Mexico,"Calnali, Hidalgo",Bourbon,Washed / Wet,,Specialty (80-84),test
+LOT-0748,2012.0,2012,1250.0,12.0,0,13,Mexico,Juquila,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0749,2012.0,2012,1390.8,11.0,0,2,Guatemala,Antigua,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0750,2012.0,2012,1750.0,12.0,0,1,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0751,2012.0,2012,,,2,5,El Salvador,,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0752,2012.0,2012,1100.0,11.0,0,0,Mexico,Veracruz,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0753,2013.0,2013,,,0,1,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0754,2012.0,2012,900.0,10.0,0,3,Mexico,Canoas,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0755,2012.0,2012,1775.0,11.0,0,0,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0756,2012.0,2012,,12.0,0,1,Brazil,,Arusha,Natural / Dry,Green,Specialty (80-84),train
+LOT-0757,,2011,,,0,2,Colombia,Cauca,,,,Specialty (80-84),train
+LOT-0758,2013.0,2013,650.0,11.0,0,0,Taiwan,Nantou,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0759,2014.0,2015,1500.0,12.0,0,0,El Salvador,Apaneca,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0760,2015.0,2015,1350.0,11.0,0,2,Honduras,Marcala,Catuai,Washed / Wet,Green,Specialty (80-84),test
+LOT-0761,2014.0,2014,1180.0,13.0,0,0,Malawi,Mzuzu,Gesha,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0762,2014.0,2014,1100.0,11.0,0,0,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),test
+LOT-0763,2015.0,2015,,,0,9,Brazil,South Of Minas,Yellow Bourbon,Natural / Dry,Green,Specialty (80-84),test
+LOT-0764,2016.0,2016,1450.0,11.0,0,2,Guatemala,Nuevo Oriente,Pacas,Washed / Wet,Green,Specialty (80-84),train
+LOT-0765,2016.0,2017,,10.0,0,0,Taiwan,,,,Blue-Green,Specialty (80-84),test
+LOT-0766,,2017,1100.0,9.0,2,10,Brazil,Brazil Matas De Minas,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-0767,2012.0,2012,1000.0,12.0,0,4,Mexico,Altotonga,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0768,2012.0,2012,1144.0,15.0,1,9,Mexico,San Bartolo Tutotepec,Typica,Washed / Wet,,Specialty (80-84),train
+LOT-0769,2013.0,2013,1750.0,,0,1,Colombia,Huila,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0770,2015.0,2016,1500.0,11.0,0,2,Honduras,Comayagua,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0771,2016.0,2016,934.0,11.0,0,5,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),test
+LOT-0772,2015.0,2015,1600.0,12.0,0,1,Tanzania,Northern,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0773,2015.0,2015,1650.0,13.0,1,6,Tanzania,Ruvuma,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0774,,2016,1000.0,10.0,0,1,Nicaragua,Jinotega,,,Green,Specialty (80-84),train
+LOT-0775,2013.0,2013,1200.0,11.0,0,0,Taiwan,Yunlin 雲林縣石壁,Typica,Other,Green,Specialty (80-84),train
+LOT-0776,2012.0,2013,800.0,,0,0,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Typica,Washed / Wet,Green,Specialty (80-84),test
+LOT-0777,2013.0,2014,1400.0,10.0,1,1,Mexico,"La Concordia, Chiapas",Other,Washed / Wet,,Specialty (80-84),train
+LOT-0778,2013.0,2014,1100.0,12.0,0,0,Mexico,Veracruz,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0779,2014.0,2014,1700.0,12.0,0,1,Tanzania,"Ilomba Vilage, Mbozi",Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0780,2012.0,2012,1200.0,10.0,0,1,Mexico,Colima,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0781,,2011,1800.0,8.0,0,0,Colombia,Huila,,,,Specialty (80-84),train
+LOT-0782,2012.0,2012,1350.0,12.0,0,2,Guatemala,Oriente,Caturra,Washed / Wet,,Specialty (80-84),train
+LOT-0783,2015.0,2015,,,0,1,Brazil,South Of Minas,Yellow Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0784,2014.0,2015,1500.0,9.0,0,4,Guatemala,Atitlan,Bourbon,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0785,2015.0,2015,1350.0,11.0,0,2,Honduras,Marcala,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-0786,2014.0,2015,800.0,12.0,0,0,Thailand,Thailand,,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0787,2014.0,2015,,12.0,0,1,Brazil,Cerrado,Mundo Novo,Natural / Dry,Green,Specialty (80-84),train
+LOT-0788,2016.0,2016,894.0,11.0,0,3,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),test
+LOT-0789,2015.0,2015,1300.0,,0,0,Costa Rica,Tres Rios,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0790,2015.0,2015,,,0,1,Brazil,South Of Minas,Yellow Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0791,2012.0,2012,1040.0,12.0,0,2,Vietnam,Don Duong,Other,Natural / Dry,Green,Specialty (80-84),test
+LOT-0792,2012.0,2012,1800.0,13.0,3,13,Mexico,Tapachula,Typica,Washed / Wet,Green,Specialty (80-84),test
+LOT-0793,2012.0,2012,1250.0,11.0,0,11,Mexico,Coatepec,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0794,2016.0,2017,,,0,6,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-0795,2017.0,2017,1300.0,15.0,0,3,Indonesia,Aceh Gayo,Bourbon,Washed / Wet,,Specialty (80-84),train
+LOT-0796,2014.0,2015,1500.0,12.0,0,5,Tanzania,Kilimanjaro,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0797,2013.0,2014,,11.0,0,2,Costa Rica,Turrialba,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0798,2013.0,2014,,11.0,1,0,Colombia,,,Washed / Wet,Green,Specialty (80-84),test
+LOT-0799,2014.0,2015,1600.0,12.0,0,3,Tanzania,Ngorogoro,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0800,2012.0,2012,1300.0,13.0,0,7,Mexico,Coatepec,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0801,2012.0,2012,,11.0,0,0,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0802,2012.0,2012,,10.0,0,2,United States (Hawaii),Kona,Hawaiian Kona,Washed / Wet,Green,Specialty (80-84),train
+LOT-0803,2011.0,2011,1600.0,8.0,1,5,Colombia,Cauca,,,,Specialty (80-84),test
+LOT-0804,2012.0,2012,1250.0,11.0,0,1,Mexico,Veracruz,Typica,Washed / Wet,Green,Specialty (80-84),test
+LOT-0805,2012.0,2012,1050.0,11.0,0,1,Brazil,Cerrado,Catuai,Semi-washed / Semi-pulped,Blue-Green,Specialty (80-84),train
+LOT-0806,2012.0,2012,940.0,12.0,0,1,Mexico,Coscomatepec,Typica,Washed / Wet,Green,Specialty (80-84),test
+LOT-0807,2016.0,2017,1600.0,10.0,0,7,Honduras,Guinope El Paraíso,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0808,2017.0,2017,1600.0,12.0,0,1,Honduras,El Paraíso,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0809,2012.0,2012,1000.0,12.0,0,1,Brazil,South Of Minas,Mundo Novo,Natural / Dry,Green,Specialty (80-84),train
+LOT-0810,2015.0,2015,1650.0,13.0,0,20,Tanzania,Kilimanjaro,Other,Washed / Wet,Green,Specialty (80-84),test
+LOT-0811,2016.0,2016,944.0,11.0,0,3,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0812,2013.0,2014,800.0,11.0,0,0,Thailand,Thailand,,Washed / Wet,Green,Specialty (80-84),train
+LOT-0813,2013.0,2014,600.0,9.0,0,0,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0814,2014.0,2014,2500.0,13.0,0,1,Malawi,Mzuzu,Gesha,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0815,2012.0,2013,1038.5,11.0,0,0,Brazil,"Minas Gerais, Br",Mundo Novo,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0816,2012.0,2013,650.0,12.0,0,0,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Typica,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0817,2013.0,2013,1900.0,11.0,0,1,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0818,2014.0,2014,1400.0,11.0,0,5,Honduras,Occidental,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0819,2013.0,2014,1300.0,10.0,0,4,Costa Rica,Central Valley,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-0820,2015.0,2015,1250.0,12.0,0,0,Laos,Lao P.D.R.,Other,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0821,2014.0,2014,1350.0,12.0,0,3,Tanzania,Meru,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0822,,2011,1775.0,7.0,0,2,Colombia,Huila,Caturra,,,Specialty (80-84),train
+LOT-0823,2012.0,2012,,11.0,0,3,Guatemala,San Marcos,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0824,2012.0,2012,950.0,12.0,0,2,Brazil,South Of Minas,Mundo Novo,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-0825,2012.0,2012,1402.1,,0,10,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0826,2012.0,2012,981.0,13.0,2,7,Mexico,"Chapulhuacan, Hidalgo",Typica,Semi-washed / Semi-pulped,,Specialty (80-84),train
+LOT-0827,2012.0,2012,690.0,14.0,2,8,Mexico,"Huazalingo, Hidalgo",Mundo Novo,Washed / Wet,,Specialty (80-84),train
+LOT-0828,2014.0,2015,1250.0,11.0,0,2,El Salvador,"El Balsamo, Quezaltepec",Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0829,2016.0,2016,1020.0,11.0,0,4,Brazil,Monte Carmelo,Catuai,Natural / Dry,Green,Specialty (80-84),train
+LOT-0830,2017.0,2017,1219.2,11.0,0,0,Guatemala,Santa Rosa,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0831,2012.0,2013,1000.0,11.0,0,0,Taiwan,Taichung Xinshe 台中市新社區,Typica,Other,Green,Specialty (80-84),train
+LOT-0832,2013.0,2014,,12.0,3,4,Nicaragua,,,Washed / Wet,Green,Specialty (80-84),train
+LOT-0833,2014.0,2015,1877.0,12.0,0,4,Tanzania,Mbeya,Other,Washed / Wet,Green,Specialty (80-84),test
+LOT-0834,2015.0,2015,1550.0,11.0,0,7,Guatemala,Nuevo Oriente,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-0835,2014.0,2014,1250.0,,1,3,Zambia,Mubuyu Estate,Sl28,Washed / Wet,,Specialty (80-84),train
+LOT-0836,2017.0,2017,1901.0,10.0,0,1,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0837,2012.0,2012,1100.0,12.0,0,3,Brazil,Grama Valley,Mundo Novo,Natural / Dry,Green,Specialty (80-84),train
+LOT-0838,2012.0,2012,1000.0,12.0,0,0,Mexico,Fortín De Las Flores,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0839,2017.0,2017,1400.0,12.0,0,1,Honduras,Comayagua,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0840,2010.0,2011,1600.0,9.0,0,1,Colombia,Cundinamarca,,,,Specialty (80-84),train
+LOT-0841,2012.0,2014,,11.0,0,0,Honduras,,,Washed / Wet,Green,Specialty (80-84),test
+LOT-0842,2013.0,2013,1300.0,12.0,0,6,Mexico,Chiapas,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0843,2012.0,2012,1650.0,12.0,0,4,Mexico,Veracruz,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0844,2015.0,2015,1300.0,9.0,0,0,Costa Rica,Tres Rios,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0845,2014.0,2015,700.0,,0,0,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0846,2014.0,2015,1300.0,11.0,2,6,Indonesia,Lington Nihuta,Typica,Other,,Specialty (80-84),train
+LOT-0847,2015.0,2015,1400.0,12.0,0,1,Honduras,Marcala,Catuai,Washed / Wet,Green,Specialty (80-84),test
+LOT-0848,2015.0,2015,,,0,1,Brazil,South Of Minas,Yellow Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0849,2015.0,2015,1425.0,11.0,0,7,Mexico,Chiapas,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-0850,2015.0,2015,,,0,2,Myanmar,Ywar Ngan,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-0851,2015.0,2015,,,0,0,Brazil,South Of Minas,Yellow Bourbon,Natural / Dry,Green,Specialty (80-84),test
+LOT-0852,2016.0,2017,973.0,11.0,0,3,Brazil,Monte Carmelo,Mundo Novo,Natural / Dry,Green,Specialty (80-84),train
+LOT-0853,2015.0,2017,1250.0,11.0,0,0,Indonesia,Bali,Other,Other,Green,Specialty (80-84),train
+LOT-0854,2015.0,2016,,10.0,2,6,Guatemala,Norte,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0855,2017.0,2017,,10.0,1,1,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0856,2016.0,2017,1900.0,,1,4,Costa Rica,Tarrazu,Catuai,Pulped natural / honey,Green,Specialty (80-84),test
+LOT-0857,2013.0,2013,1775.0,,2,0,Colombia,Huila,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0858,2014.0,2014,1350.0,10.0,0,4,Honduras,Comayagua,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0859,2014.0,2014,1550.0,11.0,0,0,Mexico,"Siltepec El Triunfo, Chiapas, Mexico",Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0860,2014.0,2014,1556.0,13.0,0,0,Malawi,Kakoma,Gesha,Washed / Wet,Green,Specialty (80-84),train
+LOT-0861,2014.0,2014,1100.0,11.0,0,0,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0862,2012.0,2013,1250.0,12.0,0,0,Brazil,Sul De Minas,Bourbon,Semi-washed / Semi-pulped,Blue-Green,Specialty (80-84),train
+LOT-0863,2012.0,2012,1250.0,12.0,0,10,Mexico,Coatepec,Typica,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-0864,2012.0,2012,1500.0,12.0,0,2,Mexico,Veracruz,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0865,2013.0,2013,1310.6,11.0,0,1,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-0866,2012.0,2013,,,1,1,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0867,,2010,,,3,12,United States (Hawaii),Kona,,,,Specialty (80-84),train
+LOT-0868,2011.0,2011,1700.0,5.0,0,0,Colombia,Huila,,,,Specialty (80-84),train
+LOT-0869,2011.0,2011,925.0,,0,2,Brazil,Cerrado,Mundo Novo,,,Specialty (80-84),train
+LOT-0870,2014.0,2014,1095.0,12.0,0,1,Uganda,Iganga Namadrope Eastern,,,Green,Specialty (80-84),train
+LOT-0871,2014.0,2015,1040.0,12.0,0,0,Vietnam,Vietnam,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0872,2017.0,2017,1700.0,11.0,0,1,Guatemala,San Marcos,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0873,2012.0,2012,1250.0,13.0,0,23,Mexico,Tepictla,Mundo Novo,Washed / Wet,Green,Specialty (80-84),train
+LOT-0874,2014.0,2015,1600.0,12.0,0,4,Tanzania,Ngorogoro,Other,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0875,2012.0,2012,1100.0,11.0,0,1,Mexico,Oaxaca,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0876,2012.0,2012,774.0,13.0,2,9,Mexico,"Tenango De Doria, Hidalgo",Bourbon,Washed / Wet,,Specialty (80-84),train
+LOT-0877,2012.0,2012,1550.0,12.0,10,14,Mexico,La Concordia,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0878,2013.0,2014,,10.0,0,1,Brazil,,,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0879,2011.0,2011,1750.0,,0,1,Colombia,Huila,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0880,2012.0,2012,1650.0,12.0,0,1,Mexico,La Concordia,Typica,Washed / Wet,,Specialty (80-84),test
+LOT-0881,,2011,1775.0,8.0,0,0,Colombia,Huila,,,,Specialty (80-84),train
+LOT-0882,2012.0,2012,1400.0,11.0,0,4,Mexico,Yajalon,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-0883,2012.0,2012,1400.0,11.0,0,2,Mexico,"La Concordia, Chiapas",Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0884,2014.0,2014,,,0,4,Mexico,Veracruz,,Washed / Wet,Green,Specialty (80-84),train
+LOT-0885,2013.0,2014,1850.0,11.0,0,3,Costa Rica,Tarrazu,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0886,2013.0,2013,750.0,11.0,0,0,Taiwan,Nantou,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0887,2013.0,2013,,11.0,0,0,Taiwan,Changhua Baguashan 彰化市八卦山,Typica,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-0888,2014.0,2014,1400.0,10.0,0,5,Honduras,Comayagua,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0889,2012.0,2012,1650.0,13.0,1,13,Mexico,Tuxtla Gutierrez,Typica,Washed / Wet,Green,Specialty (80-84),test
+LOT-0890,2013.0,2013,1400.0,12.0,0,6,Mexico,"La Concordia, Chiapas",Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0891,2012.0,2012,1752.6,11.0,0,4,Guatemala,Jalapa,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-0892,2012.0,2012,940.0,11.0,0,4,Mexico,"Sacún Palma, Municipio De Chilón, Chiapas",Caturra,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-0893,2012.0,2012,,10.0,1,1,United States (Hawaii),Kona,Hawaiian Kona,Washed / Wet,Green,Specialty (80-84),test
+LOT-0894,2012.0,2012,1200.0,11.0,0,2,Mexico,Veracruz,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0895,2014.0,2015,1500.0,12.0,0,0,Tanzania,Mbinga,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0896,2013.0,2014,1700.0,12.0,0,7,Tanzania,"Ilomba Vilage, Mbozi",Other,Washed / Wet,Green,Specialty (80-84),test
+LOT-0897,2014.0,2014,1260.0,10.0,0,2,Brazil,South Of Minas,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-0898,2015.0,2015,,,0,0,Brazil,South Of Minas,Yellow Bourbon,Natural / Dry,Green,Specialty (80-84),test
+LOT-0899,2016.0,2016,,,0,1,Colombia,La Plata,,,,Specialty (80-84),test
+LOT-0900,,2016,,10.0,0,1,Nicaragua,Jinotega,,,Green,Specialty (80-84),train
+LOT-0901,2017.0,2017,890.0,11.0,0,5,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0902,2017.0,2017,1219.2,12.0,0,3,Guatemala,Santa Rosa,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0903,2017.0,2017,1700.0,10.0,0,1,Guatemala,San Marcos,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0904,2016.0,2016,1800.0,,0,1,Tanzania,Mbinga,,,Green,Specialty (80-84),test
+LOT-0905,2016.0,2016,1450.0,11.0,0,2,Honduras,Marcala,Catuai,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0906,2013.0,2014,,11.0,0,0,Indonesia,Bener Meriah,Sumatra,Semi-washed / Semi-pulped,Blue-Green,Specialty (80-84),test
+LOT-0907,2016.0,2016,800.0,10.0,0,0,Taiwan,Natou County,Typica,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0908,2017.0,2017,,12.0,0,0,Guatemala,Huehuetenango,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-0909,2018.0,2018,1200.0,11.0,0,3,Honduras,Western Region,Catimor,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0910,2013.0,2013,1260.0,12.0,0,3,Brazil,South Of Minas,Yellow Bourbon,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0911,,2011,1600.2,,0,1,Costa Rica,Tarrazu,,,,Specialty (80-84),train
+LOT-0912,2011.0,2011,,,0,0,Thailand,,,,,Specialty (80-84),train
+LOT-0913,2011.0,2011,1499.9,,0,0,Thailand,"Doi Chaang Village, Chiang Rai, Thialand",,,,Specialty (80-84),train
+LOT-0914,2012.0,2012,1650.0,11.0,0,2,Mexico,La Concordia,Typica,Natural / Dry,,Specialty (80-84),train
+LOT-0915,2012.0,2012,1600.0,11.0,0,0,Mexico,La Concordia,Marigojipe,Natural / Dry,,Specialty (80-84),train
+LOT-0916,2013.0,2013,1400.0,12.0,0,9,Mexico,"La Concordia, Chiapas",Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0917,2013.0,2013,1310.6,12.0,0,1,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-0918,2015.0,2015,,12.0,0,1,Costa Rica,Turrialba,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0919,2014.0,2014,850.0,,0,0,Taiwan,Natou County,Typica,Semi-washed / Semi-pulped,,Specialty (80-84),train
+LOT-0920,2014.0,2014,1100.0,13.0,0,0,Malawi,Mzuzu,Gesha,Washed / Wet,Green,Specialty (80-84),train
+LOT-0921,2014.0,2014,1800.0,12.0,0,5,Tanzania,"Oldeani , Mongola",Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0922,2014.0,2014,750.0,,0,1,India,Chikmagalur,,,Green,Specialty (80-84),test
+LOT-0923,2015.0,2016,1000.0,11.0,0,0,India,Chikmagalur Karnataka,Other,Natural / Dry,Green,Specialty (80-84),train
+LOT-0924,2013.0,2014,825.0,11.0,0,0,Haiti,"Dondon, Haiti",Blue Mountain,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0925,2012.0,2012,1400.0,12.0,0,0,Indonesia,Ijen,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0926,2014.0,2014,1200.0,,1,1,Brazil,Sul De Minas,Yellow Bourbon,Semi-washed / Semi-pulped,Green,Specialty (80-84),test
+LOT-0927,2014.0,2014,900.0,11.0,0,0,Taiwan,Natou County,Typica,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0928,2014.0,2014,1219.2,12.0,0,0,Guatemala,Oriente,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0929,2013.0,2013,600.0,11.0,0,0,Taiwan,Taichung Xinshe 台中市新社區,Typica,Other,Green,Specialty (80-84),test
+LOT-0930,2013.0,2013,1150.0,13.0,0,2,Mexico,"La Concordia, Chiapas",Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0931,2014.0,2014,1488.0,12.0,0,2,Uganda,South Western,,,Green,Specialty (80-84),test
+LOT-0932,2013.0,2014,1367.0,11.0,0,7,Uganda,Eastern,,,Green,Specialty (80-84),train
+LOT-0933,2015.0,2015,,12.0,0,2,Taiwan,古坑鄉荷包村尖山坑60號,Typica,Natural / Dry,Green,Specialty (80-84),train
+LOT-0934,2015.0,2015,1219.2,,0,4,Myanmar,Ywar Ngan Township,Catuai,Washed / Wet,Green,Specialty (80-84),test
+LOT-0935,2014.0,2015,1200.0,12.0,1,2,Costa Rica,Occidental,Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-0936,2014.0,2014,1599.0,12.0,0,0,Malawi,Mzuzu,Gesha,Washed / Wet,Green,Specialty (80-84),test
+LOT-0937,2017.0,2017,1219.2,10.0,0,0,Guatemala,Santa Rosa,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-0938,2017.0,2017,1100.0,11.0,0,3,Nicaragua,Jalapa,Caturra,Other,Green,Specialty (80-84),train
+LOT-0939,2017.0,2017,1400.0,10.0,0,5,Honduras,Comayagua,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0940,2017.0,2017,,12.0,0,0,Guatemala,Santa Rosa,Bourbon,,Green,Specialty (80-84),test
+LOT-0941,2012.0,2012,,11.0,0,1,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0942,2012.0,2012,1100.0,11.0,0,3,Mexico,Atoyac De Alvarez,Typica,Natural / Dry,Green,Specialty (80-84),train
+LOT-0943,2012.0,2012,1250.0,13.0,0,5,Mexico,Tapachula,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0944,2012.0,2012,1000.0,11.0,0,6,Mexico,Manzanillo,Typica,Semi-washed / Semi-pulped,Green,Specialty (80-84),test
+LOT-0945,,2010,,,0,17,United States (Hawaii),Kona,,,,Specialty (80-84),train
+LOT-0946,,2011,1450.0,6.0,1,0,Colombia,Cauca,,,,Specialty (80-84),train
+LOT-0947,2012.0,2012,1600.0,12.0,0,5,Mexico,Amatenango De La Frontera,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0948,2012.0,2012,1100.0,12.0,0,10,Mexico,Temaxcalapa,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-0949,2012.0,2012,,12.0,0,2,Brazil,Sul De Minas,Bourbon,Semi-washed / Semi-pulped,Blue-Green,Specialty (80-84),train
+LOT-0950,2014.0,2014,1550.0,10.0,0,6,Guatemala,"San Lucas Toliman, Solola",Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0951,2012.0,2012,763.0,13.0,1,8,Mexico,"Huazalingo, Hidalgo",Caturra,Washed / Wet,,Specialty (80-84),train
+LOT-0952,2013.0,2013,1310.6,12.0,0,4,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0953,2014.0,2014,,12.0,0,0,Taiwan,苗栗三灣,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0954,2014.0,2014,1422.0,12.0,0,0,Malawi,Mzuzu,Gesha,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0955,2013.0,2014,,10.0,1,5,Peru,Puno,,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0956,2014.0,2014,1550.0,,1,1,Mexico,Siltepec El Triunfo,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0957,2017.0,2017,1100.0,12.0,1,17,Mexico,Veracruz,Mundo Novo,Washed / Wet,Green,Specialty (80-84),train
+LOT-0958,2014.0,2014,1100.0,,0,0,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0959,2015.0,2015,1100.0,11.0,0,2,Brazil,Cerrado,Catuai,Natural / Dry,Green,Specialty (80-84),train
+LOT-0960,2015.0,2015,1400.0,12.0,0,1,Honduras,Marcala,Catuai,Washed / Wet,Green,Specialty (80-84),test
+LOT-0961,2012.0,2012,1100.0,13.0,0,1,Mexico,"Coatepec, Coatepec",Typica,Washed / Wet,,Specialty (80-84),train
+LOT-0962,2011.0,2011,1750.0,11.0,0,0,Colombia,Huila,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-0963,2010.0,2011,1880.0,,0,2,Colombia,Cauca,,,,Specialty (80-84),train
+LOT-0964,,2010,,,0,10,United States (Hawaii),Kona,Peaberry,,,Specialty (80-84),train
+LOT-0965,2015.0,2015,1000.0,,0,0,India,Chikmagalur,,,Green,Specialty (80-84),train
+LOT-0966,2016.0,2016,1371.6,10.0,0,0,Guatemala,San Marcos,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-0967,2016.0,2016,,,0,0,Colombia,Huila,Caturra,Washed / Wet,,Specialty (80-84),train
+LOT-0968,2015.0,2015,1350.0,9.0,0,4,Honduras,Marcala,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-0969,2014.0,2014,1200.0,13.0,0,1,Malawi,Mzuzu,Gesha,Washed / Wet,Green,Specialty (80-84),train
+LOT-0970,2014.0,2014,1400.0,14.0,0,3,Philippines,"Davao City, Region 11",Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-0971,2014.0,2014,1200.0,12.0,0,6,Brazil,Mantiqueira De Minas,Yellow Bourbon,Other,Green,Specialty (80-84),train
+LOT-0972,,2017,1100.0,11.0,0,0,Brazil,Matas De Minas,Catuai,Natural / Dry,Green,Specialty (80-84),train
+LOT-0973,2014.0,2014,1450.0,12.0,0,3,Honduras,San Marcos,Catuai,Washed / Wet,Green,Specialty (80-84),test
+LOT-0974,2016.0,2016,1500.0,11.0,0,3,Honduras,Comayagua,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0975,2016.0,2016,1130.0,12.0,0,0,Mexico,Veracruz,,,Green,Specialty (80-84),train
+LOT-0976,2015.0,2015,1100.0,11.0,0,14,Brazil,Cerrado,Catuai,Natural / Dry,Green,Specialty (80-84),train
+LOT-0977,2012.0,2012,1000.0,12.0,0,4,Mexico,Veracruz,Typica,Washed / Wet,,Specialty (80-84),train
+LOT-0978,2012.0,2012,1800.0,13.0,4,13,Mexico,Tapachula,Typica,Washed / Wet,Green,Specialty (80-84),test
+LOT-0979,2012.0,2012,1500.0,12.0,0,1,Mexico,Motozintla,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-0980,2013.0,2013,1524.0,11.0,0,4,Guatemala,"Sacatepequez, Guatemala",Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0981,2015.0,2016,680.0,12.0,0,0,Taiwan,"Dongshan Dist., Tainan City 台南市東山區",Typica,Natural / Dry,Green,Specialty (80-84),train
+LOT-0982,2015.0,2015,,,0,1,Brazil,South Of Minas,Yellow Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-0983,2015.0,2015,1100.0,10.0,0,4,Nicaragua,Jinotega,Catuai,Washed / Wet,Green,Specialty (80-84),test
+LOT-0984,2015.0,2015,1400.0,12.0,0,1,Honduras,Marcala,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-0985,2014.0,2015,1700.0,9.0,0,2,Guatemala,Huehuetenango,Pacamara,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-0986,2014.0,2014,1700.0,13.0,0,5,Tanzania,Karatu Ngorogoro,Other,Washed / Wet,Green,Specialty (80-84),test
+LOT-0987,2013.0,2013,650.0,11.0,0,0,Taiwan,Nantou,Typica,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-0988,2013.0,2013,750.0,13.0,0,0,India,Chikmagalur,,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-0989,2014.0,2014,1300.0,11.0,0,3,Costa Rica,Central Valley,Catuai,Washed / Wet,Green,Specialty (80-84),test
+LOT-0990,2013.0,2014,,11.0,0,3,Brazil,Monte Carmelo,Catuai,Natural / Dry,Green,Specialty (80-84),test
+LOT-0991,2012.0,2012,1450.0,12.0,0,4,Guatemala,Oriente,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-0992,2014.0,2014,1550.0,12.0,0,2,Tanzania,Mbinga,Bourbon,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0993,2015.0,2015,1300.0,11.0,0,0,Costa Rica,Tres Rios,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0994,2014.0,2015,1200.0,,0,4,Philippines,Corillera Administrative,Typica,Natural / Dry,,Specialty (80-84),train
+LOT-0995,2014.0,2015,1450.0,12.0,0,0,Thailand,Chiangrai,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-0996,2015.0,2015,1450.0,13.0,0,1,Honduras,Central Region,Catuai,Natural / Dry,Green,Specialty (80-84),train
+LOT-0997,2015.0,2015,1050.0,12.0,0,2,Tanzania,"Ruvuma, Mbinga",Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-0998,2015.0,2015,1200.0,12.0,0,10,Mexico,"Chiapas, Jaltenango",Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-0999,2014.0,2014,995.0,12.0,0,12,Malawi,Southern- Zomba,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-1000,2016.0,2017,1200.0,9.0,0,7,Nicaragua,"Dipilto, Nueva Segovia",,Washed / Wet,Green,Specialty (80-84),train
+LOT-1001,,2011,,,3,0,United States (Hawaii),Kona,,,,Specialty (80-84),train
+LOT-1002,2012.0,2012,1000.0,12.0,0,1,Brazil,South Of Minas,Mundo Novo,Natural / Dry,Green,Specialty (80-84),test
+LOT-1003,2012.0,2012,1800.0,13.0,3,7,Mexico,Tapachula,Typica,Natural / Dry,Green,Specialty (80-84),train
+LOT-1004,2012.0,2012,1300.0,12.0,0,2,Mexico,Santo Reyes Nopala,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1005,2013.0,2014,853.4,,0,0,United States (Puerto Rico),Yauco Region,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-1006,2016.0,2017,,11.0,0,1,Ethiopia,Sidamo,,Natural / Dry,,Specialty (80-84),train
+LOT-1007,2012.0,2012,1200.0,10.0,0,1,Mexico,Talpa De Allende,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1008,2012.0,2012,1642.0,11.0,0,5,Mexico,Santa Maria Sitepec,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1009,2014.0,2015,1456.0,13.0,0,2,Tanzania,"Iwala Village, Mbeya Rural",Other,Washed / Wet,Green,Specialty (80-84),test
+LOT-1010,2014.0,2015,1706.9,,0,0,United States,Central America,Pache Comun,Natural / Dry,,Specialty (80-84),train
+LOT-1011,2015.0,2015,1100.0,11.0,0,1,Nicaragua,Jinotega,Other,Washed / Wet,,Specialty (80-84),train
+LOT-1012,2016.0,2017,695.0,11.0,5,8,Brazil,Alta Paulista (Sao Paulo),Mundo Novo,Natural / Dry,Green,Specialty (80-84),train
+LOT-1013,2012.0,2012,1650.0,13.0,5,16,Mexico,San Fernando,Typica,Washed / Wet,,Specialty (80-84),train
+LOT-1014,2014.0,2014,1500.0,13.0,0,0,Costa Rica,Naranjo,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-1015,2012.0,2012,,6.0,0,0,United States (Hawaii),,Hawaiian Kona,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-1016,2014.0,2015,1350.0,12.0,0,1,Honduras,San Marcos,Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-1017,2015.0,2015,1219.2,11.0,0,1,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-1018,2012.0,2012,950.0,12.0,0,12,Mexico,"Motozintla, Chiapas",Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-1019,2012.0,2012,1100.0,,0,8,Mexico,Adolfo Lopez Mateos,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1020,2012.0,2013,800.0,,0,3,Thailand,Thailand,,Washed / Wet,Green,Specialty (80-84),train
+LOT-1021,2014.0,2015,,12.0,0,0,Brazil,Cerrado,Mundo Novo,Natural / Dry,Green,Specialty (80-84),train
+LOT-1022,2014.0,2014,1525.0,12.0,0,5,Tanzania,Arusha,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-1023,2013.0,2014,1700.0,12.0,0,3,Uganda,Eastern,Sl14,Natural / Dry,Green,Specialty (80-84),train
+LOT-1024,2013.0,2013,1100.0,11.0,0,0,Taiwan,Nantou,Typica,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-1025,,2018,,11.0,0,9,Brazil,Grama Valley,Bourbon,Pulped natural / honey,Green,Specialty (80-84),train
+LOT-1026,2015.0,2015,758.0,12.0,0,0,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Typica,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-1027,2016.0,2016,1600.0,,0,4,Colombia,Guayata,Caturra,Washed / Wet,Green,Specialty (80-84),test
+LOT-1028,2016.0,2016,,9.0,0,8,Guatemala,Norte,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-1029,2016.0,2016,,11.0,0,3,Brazil,Grama Valley,Yellow Bourbon,Pulped natural / honey,Blue-Green,Specialty (80-84),train
+LOT-1030,2017.0,2017,1450.0,,0,6,El Salvador,Apaneca,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-1031,2017.0,2017,1901.0,10.0,0,2,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-1032,2014.0,2015,,10.0,2,5,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-1033,,2010,,,0,0,Thailand,,Peaberry,,,Specialty (80-84),train
+LOT-1034,2017.0,2017,1600.0,11.0,0,3,Kenya,Kiambu,Sl28,Washed / Wet,Green,Specialty (80-84),test
+LOT-1035,2017.0,2017,1100.0,11.0,0,11,Mexico,Veracruz,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-1036,2015.0,2015,1066.8,,0,5,Myanmar,Pyinoolwin,Other,Other,,Specialty (80-84),train
+LOT-1037,2017.0,2017,200.0,,0,0,Taiwan,Taiwan,Other,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-1038,2012.0,2012,1186.0,13.0,0,12,Mexico,Ixhuatlan Del Cafe,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1039,2013.0,2013,300.0,11.0,0,0,Taiwan,New Taipei Zhonghe 新北市中和區,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1040,2013.0,2013,688.0,11.0,0,0,Taiwan,Nantou,Typica,Other,Green,Specialty (80-84),train
+LOT-1041,2013.0,2013,900.0,11.0,0,0,Taiwan,Taichung Taiping 台中市太平區,Typica,Washed / Wet,,Specialty (80-84),train
+LOT-1042,2014.0,2014,1524.0,12.0,2,5,Guatemala,Jalapa,Pacas,Washed / Wet,Green,Specialty (80-84),train
+LOT-1043,2013.0,2014,1050.0,10.0,1,3,Nicaragua,Matagalpa,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-1044,2014.0,2014,1100.0,10.0,0,0,Brazil,South Of Minas,Bourbon,Natural / Dry,,Specialty (80-84),train
+LOT-1045,2014.0,2014,550.0,9.0,0,0,Taiwan,台中新社,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1046,2014.0,2014,1200.0,12.0,0,8,Brazil,Mantiqueira De Minas,Yellow Bourbon,Natural / Dry,Green,Specialty (80-84),train
+LOT-1047,2014.0,2014,1700.0,12.0,0,0,Tanzania,"Manyara, Karatu",Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-1048,2013.0,2014,1600.0,12.0,0,1,Uganda,Western,,,Green,Specialty (80-84),train
+LOT-1049,2016.0,2017,1300.0,,0,0,Laos,"Paksong,Laos",Catimor,Washed / Wet,Green,Specialty (80-84),test
+LOT-1050,2012.0,2012,1210.0,13.0,0,7,Mexico,Motozintla,Catuai,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-1051,2010.0,2011,1800.0,,0,1,Colombia,Huila,,,,Specialty (80-84),train
+LOT-1052,2012.0,2012,,13.0,0,1,Mexico,Veracruz,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-1053,2012.0,2012,,10.0,2,0,United States (Hawaii),Kona,Hawaiian Kona,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-1054,2012.0,2012,1100.0,11.0,0,3,Mexico,Oaxaca,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1055,2013.0,2014,1200.0,11.0,0,1,Guatemala,Orient,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-1056,2015.0,2015,1706.9,12.0,0,1,Guatemala,Huehuetenango,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-1057,2012.0,2012,1000.0,12.0,0,0,Haiti,Haiti,Typica,Washed / Wet,Green,Specialty (80-84),test
+LOT-1058,2014.0,2015,1680.0,11.0,1,4,Panama,Boquete,Caturra,Other,Green,Specialty (80-84),train
+LOT-1059,2015.0,2015,1450.0,11.0,0,2,Honduras,"Siguatepeque, Comayagua",Caturra,Natural / Dry,Green,Specialty (80-84),train
+LOT-1060,2015.0,2015,,12.0,0,5,Nicaragua,Jinotega,Other,Washed / Wet,Green,Specialty (80-84),test
+LOT-1061,2011.0,2011,,13.0,0,6,United States (Hawaii),Kona,Arusha,Natural / Dry,Blue-Green,Specialty (80-84),test
+LOT-1062,2015.0,2015,,,0,1,Brazil,Monte Carmelo,,Natural / Dry,Green,Specialty (80-84),train
+LOT-1063,2015.0,2015,,,0,2,Myanmar,Ywar Ngan,Catuai,Washed / Wet,Green,Specialty (80-84),test
+LOT-1064,2015.0,2015,1350.0,9.0,0,2,Honduras,Marcala,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-1065,2014.0,2014,1300.0,11.0,0,0,Costa Rica,San Ramon,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-1066,2015.0,2015,1450.0,13.0,0,1,Honduras,Central Region,Catuai,Natural / Dry,Green,Specialty (80-84),test
+LOT-1067,2012.0,2012,1200.0,11.0,0,2,Mexico,Oaxaca,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1068,,2011,,,0,2,Colombia,,,,,Specialty (80-84),test
+LOT-1069,2016.0,2016,,,0,1,Taiwan,Taiwan,Typica,Other,Green,Specialty (80-84),train
+LOT-1070,2015.0,2015,1500.0,11.0,0,0,Guatemala,Antigua,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-1071,2012.0,2012,,11.0,0,3,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-1072,2015.0,2015,,11.0,0,4,Costa Rica,Tarrazu,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-1073,2013.0,2013,1550.0,12.0,0,5,Guatemala,"San Lucas Toliman, Solola",Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-1074,2012.0,2012,,11.0,0,2,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-1075,2015.0,2015,1350.0,13.0,0,1,Indonesia,Sumatra Brastagi,Mandheling,Semi-washed / Semi-pulped,Blue-Green,Specialty (80-84),train
+LOT-1076,2014.0,2014,1550.0,,0,1,Colombia,Santander,Caturra,Natural / Dry,,Specialty (80-84),test
+LOT-1077,2014.0,2014,995.0,12.0,0,1,Malawi,Southern- Zomba,Caturra,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-1078,2014.0,2014,1200.0,12.0,0,4,Mexico,"El Desmoronado, Talpan De Allende Jalisco",Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1079,,2011,,,0,0,United States (Hawaii),,,,,Specialty (80-84),train
+LOT-1080,2014.0,2015,1400.0,12.0,0,1,Tanzania,Arusha,Other,Washed / Wet,Blue-Green,Specialty (80-84),train
+LOT-1081,2016.0,2016,,11.0,0,0,Nicaragua,Nueva Segovia,,,Green,Specialty (80-84),train
+LOT-1082,2016.0,2016,,11.0,0,7,Brazil,Monte Carmelo,,,Green,Specialty (80-84),train
+LOT-1083,2014.0,2014,1400.0,11.0,0,5,Honduras,Occidental,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-1084,2013.0,2014,1745.0,12.0,0,2,Uganda,Western,,,Green,Specialty (80-84),test
+LOT-1085,,2011,,,0,2,Colombia,,,,,Specialty (80-84),train
+LOT-1086,2014.0,2014,1200.0,,0,3,Brazil,South Of Minas,Bourbon,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-1087,2014.0,2014,1383.8,11.0,0,5,Guatemala,Huehuetenango,Bourbon,Natural / Dry,Green,Specialty (80-84),test
+LOT-1088,2013.0,2014,,11.0,1,0,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Green,Specialty (80-84),train
+LOT-1089,2016.0,2016,280.0,12.0,0,0,Mauritius,Chamarel (South West),,,Green,Specialty (80-84),test
+LOT-1090,2015.0,2015,1250.0,11.0,0,3,Brazil,Vale Da Grama,Yellow Bourbon,Semi-washed / Semi-pulped,Green,Specialty (80-84),test
+LOT-1091,2017.0,2017,1500.0,10.0,0,4,Guatemala,Santa Rosa,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-1092,2017.0,2017,1650.0,11.0,0,5,Honduras,Ocotepeque,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-1093,2017.0,2017,,,0,0,Taiwan,Taiwan,Other,Natural / Dry,Blue-Green,Specialty (80-84),train
+LOT-1094,2015.0,2015,,,0,2,Myanmar,Pyin Oo Lwin,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-1095,2013.0,2014,1200.0,12.0,0,1,Uganda,Southern,,,Green,Specialty (80-84),train
+LOT-1096,2014.0,2014,1219.2,11.0,0,3,Guatemala,Oriente,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-1097,2013.0,2014,1250.0,10.0,0,10,Brazil,Mantiqueira De Minas,Yellow Bourbon,Semi-washed / Semi-pulped,,Specialty (80-84),train
+LOT-1098,2012.0,2012,1450.0,15.0,0,1,Mexico,Zaragoza Itundujia,Typica,Washed / Wet,,Specialty (80-84),train
+LOT-1099,2013.0,2013,1859.3,12.0,1,1,Guatemala,Huehuetenango,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-1100,2014.0,2014,600.0,14.0,0,0,Taiwan,南投國姓,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1101,2013.0,2013,600.0,11.0,0,0,Taiwan,Nantou,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1102,2013.0,2014,1700.0,,0,14,China,Yunnan,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-1103,2016.0,2016,1450.0,10.0,0,0,Honduras,Marcala,,,Green,Specialty (80-84),train
+LOT-1104,2013.0,2014,1450.0,,0,1,El Salvador,"Department Of Ahuachapan, Municipality Of Apanecallamatepec Mountain",Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-1105,2012.0,2012,1550.0,12.0,4,16,Mexico,La Concordia,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-1106,2012.0,2012,1050.0,10.0,2,4,Mexico,Pochutla,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1107,2010.0,2010,,10.0,0,1,Ethiopia,Kelem Welega,,,,Specialty (80-84),train
+LOT-1108,2013.0,2013,1310.6,11.0,1,4,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-1109,2012.0,2012,,12.0,5,7,United States (Hawaii),Kona,Hawaiian Kona,Washed / Wet,Green,Specialty (80-84),train
+LOT-1110,2013.0,2013,600.0,11.0,0,0,Taiwan,Taichung Xinshe 台中市新社區,Yellow Bourbon,Other,Green,Specialty (80-84),test
+LOT-1111,2014.0,2014,,12.0,0,5,Tanzania,Arusha,Other,Washed / Wet,Blue-Green,Specialty (80-84),test
+LOT-1112,2015.0,2015,1700.0,13.0,0,5,Tanzania,Mkuu Rombo,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-1113,2012.0,2012,940.0,11.0,0,21,Mexico,Chilón,Typica,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-1114,2016.0,2016,1700.0,12.0,0,0,Burundi,Mumirwa,,,Green,Specialty (80-84),train
+LOT-1115,2016.0,2017,1400.0,10.0,0,4,Honduras,Comayagua,Caturra,Natural / Dry,Green,Specialty (80-84),test
+LOT-1116,2015.0,2015,914.4,11.0,1,26,Myanmar,"Yauk Sauk, Shan State",Other,Natural / Dry,Green,Specialty (80-84),train
+LOT-1117,2017.0,2017,995.0,11.0,0,1,Brazil,Cerrado - Monte Carmelo - Minas Gerais,Catuai,Natural / Dry,Green,Specialty (80-84),test
+LOT-1118,2012.0,2012,808.0,11.0,2,8,Mexico,"Calnali, Hidalgo",Caturra,Washed / Wet,,Specialty (80-84),train
+LOT-1119,2012.0,2013,1400.0,11.0,1,12,Guatemala,Oriente,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-1120,2013.0,2013,700.0,11.0,0,0,Taiwan,Chiayi Fanlu嘉義縣番路鄉,Typica,Semi-washed / Semi-pulped,Green,Specialty (80-84),test
+LOT-1121,2016.0,2016,1600.0,10.0,0,2,Mexico,Sierra Madre Occidental,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-1122,2014.0,2015,,,0,1,Myanmar,Ywar Ngan,Catuai,Natural / Dry,Green,Specialty (80-84),train
+LOT-1123,2015.0,2015,900.0,11.0,0,2,Nicaragua,Matagalpa,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-1124,2012.0,2014,,10.0,0,0,Colombia,,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1125,2014.0,2014,,12.0,4,13,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Green,Specialty (80-84),test
+LOT-1126,2014.0,2014,750.0,,0,1,India,Chikmagalur,,,Blue-Green,Specialty (80-84),test
+LOT-1127,2013.0,2013,750.0,,0,0,India,Chikmagalur,,Natural / Dry,Green,Specialty (80-84),train
+LOT-1128,2012.0,2012,1000.0,12.0,0,12,Mexico,Veracruz,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-1129,2012.0,2012,1310.6,11.0,0,5,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),test
+LOT-1130,2017.0,2017,1550.0,,0,2,Vietnam,Dala,Catimor,Other,,Specialty (80-84),train
+LOT-1131,2015.0,2015,1187.5,11.0,0,2,Nicaragua,Jinotega,Caturra,Washed / Wet,,Specialty (80-84),test
+LOT-1132,2015.0,2015,1400.0,11.0,0,0,Honduras,Marcala,Catuai,Washed / Wet,Green,Specialty (80-84),train
+LOT-1133,2013.0,2013,1310.6,11.0,0,2,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Specialty (80-84),train
+LOT-1134,2012.0,2012,1250.0,11.0,0,2,Mexico,Coatepec,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1135,2012.0,2012,1550.0,14.0,1,2,Mexico,Zaragoza Itundujia,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1136,,2011,,5.0,12,1,United States (Hawaii),Kona,,,,Specialty (80-84),train
+LOT-1137,2012.0,2012,1300.0,15.0,0,0,Mexico,Zaragoza Itundujia,Typica,Washed / Wet,,Specialty (80-84),train
+LOT-1138,2013.0,2013,200.0,11.0,0,0,Taiwan,Yunlin Gukeng He Bao 雲林縣古坑鄉荷苞村,Typica,Other,Green,Specialty (80-84),train
+LOT-1139,2017.0,2017,1100.0,11.0,0,5,Brazil,Mantiqueira De Minas,Bourbon,Pulped natural / honey,Green,Specialty (80-84),train
+LOT-1140,2014.0,2014,850.0,7.0,0,0,Taiwan,苗栗泰安,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1141,2013.0,2014,,10.0,0,4,Nicaragua,,,Natural / Dry,Green,Specialty (80-84),test
+LOT-1142,2013.0,2013,250.0,11.0,0,0,Taiwan,Changhua Baguashan 彰化市八卦山,Typica,Semi-washed / Semi-pulped,Green,Specialty (80-84),train
+LOT-1143,2013.0,2013,,11.0,0,0,Taiwan,Changhua Baguashan 彰化市八卦山,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1144,2012.0,2012,1300.0,14.0,1,17,Mexico,Escuitla,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1145,2017.0,2017,1250.0,10.0,0,5,Nicaragua,Jinotega,Caturra,Washed / Wet,Green,Specialty (80-84),train
+LOT-1146,2012.0,2012,1100.0,11.0,0,12,Mexico,San Miguel Del Puerto,Other,Washed / Wet,Green,Specialty (80-84),train
+LOT-1147,2012.0,2012,1250.0,12.0,0,9,Mexico,Coatepec,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1148,2012.0,2013,800.0,,0,0,Thailand,Thailand,,Washed / Wet,Green,Specialty (80-84),test
+LOT-1149,2013.0,2013,250.0,11.0,0,0,Taiwan,Changhua Baguashan 彰化市八卦山,Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1150,2014.0,2014,1400.0,,0,2,Mexico,"Sierra Fraylesca, Chiapas",Typica,Washed / Wet,Green,Specialty (80-84),train
+LOT-1151,2015.0,2015,,,0,4,Myanmar,"Doe Kwin, Pyin Oo Lwin",Other,Washed / Wet,Green,Specialty (80-84),test
+LOT-1152,2010.0,2010,,5.0,0,2,Ethiopia,Limu,,,,Specialty (80-84),train
+LOT-1153,2012.0,2012,1250.0,12.0,0,6,Mexico,Coatepec,Typica,Natural / Dry,Green,Commercial / Sub-Grade (<80),train
+LOT-1154,2012.0,2012,1100.0,12.0,1,7,Mexico,"Motozintla, Chiapas",Other,Washed / Wet,Green,Commercial / Sub-Grade (<80),test
+LOT-1155,2015.0,2015,,,0,1,Colombia,Huila,,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1156,2014.0,2014,,11.0,1,3,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Green,Commercial / Sub-Grade (<80),train
+LOT-1157,2013.0,2013,1300.0,12.0,0,4,Mexico,Chiapas,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1158,2012.0,2012,1100.0,11.0,0,3,Mexico,Jaltenango,Catuai,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1159,2012.0,2012,1100.0,,0,0,Mexico,Veracruz,Bourbon,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1160,,2011,,5.0,3,0,United States (Hawaii),Kona,,,,Commercial / Sub-Grade (<80),train
+LOT-1161,2012.0,2012,1250.0,11.0,0,0,Mexico,Veracruz,Mundo Novo,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1162,2017.0,2017,1700.0,10.0,0,2,Guatemala,San Marcos,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1163,2012.0,2012,,12.0,7,10,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Blue-Green,Commercial / Sub-Grade (<80),train
+LOT-1164,2012.0,2012,1300.0,12.0,0,3,Mexico,Veracruz,Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1165,2014.0,2015,1250.0,11.0,0,0,Nicaragua,Jinotega,Caturra,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1166,2017.0,2017,1500.0,11.0,0,5,Kenya,Kiambu,Sl34,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1167,2016.0,2017,,10.0,0,1,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),test
+LOT-1168,2013.0,2014,600.0,10.0,0,0,Taiwan,"Baihe Dist., Tainan City 臺南市白河區",Typica,Washed / Wet,Blue-Green,Commercial / Sub-Grade (<80),train
+LOT-1169,2014.0,2015,1000.0,,0,0,Taiwan,"Taiwu Township , Pingtung County 屏東縣泰武鄉",Typica,Natural / Dry,,Commercial / Sub-Grade (<80),train
+LOT-1170,2013.0,2013,1300.0,12.0,0,5,Mexico,Chiapas,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1171,2013.0,2013,1022.0,13.0,0,4,Mexico,Chiapas,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1172,2013.0,2013,1400.0,12.0,0,4,Mexico,"La Concordia, Chiapas",Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1173,2013.0,2013,1100.0,10.0,0,4,Costa Rica,Brunca,Catuai,Washed / Wet,Blue-Green,Commercial / Sub-Grade (<80),test
+LOT-1174,2013.0,2014,,12.0,1,2,Peru,Huanuco,,Washed / Wet,Green,Commercial / Sub-Grade (<80),test
+LOT-1175,2013.0,2014,800.0,12.0,0,0,Thailand,Thailand,,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1176,2012.0,2012,1050.0,10.0,1,22,Mexico,Pochutla,Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1177,2012.0,2012,1450.0,14.0,0,0,Mexico,Zaragoza Itundujia,Bourbon,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1178,2012.0,2012,1100.0,12.0,0,7,Mexico,Tuxtla Gutierrez,Typica,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1179,2012.0,2012,,,0,4,Guatemala,Antigua,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1180,2016.0,2017,1250.0,,0,12,El Salvador,Cacahuatique,Bourbon,Washed / Wet,Blue-Green,Commercial / Sub-Grade (<80),train
+LOT-1181,2016.0,2017,1219.2,10.0,0,1,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1182,2013.0,2013,1310.6,11.0,0,6,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1183,2013.0,2014,800.0,12.0,0,0,Thailand,Thailand,,Washed / Wet,Blue-Green,Commercial / Sub-Grade (<80),train
+LOT-1184,2012.0,2012,1264.0,,0,9,Mexico,"Coatepec, Coatepec",Mundo Novo,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1185,,2010,,,1,0,Thailand,,Peaberry,,,Commercial / Sub-Grade (<80),train
+LOT-1186,2013.0,2013,1400.0,12.0,0,6,Mexico,"La Concordia, Chiapas",Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1187,2012.0,2012,975.0,13.0,5,6,Mexico,"Tenango De Doria, Hidalgo",Caturra,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1188,,2011,1800.0,10.0,0,4,Colombia,Huila,,,,Commercial / Sub-Grade (<80),train
+LOT-1189,2009.0,2011,1325.9,,1,19,Guatemala,"Chuva, San Marcos",,,,Commercial / Sub-Grade (<80),train
+LOT-1190,2012.0,2012,1250.0,12.0,0,11,Mexico,Tepetzingo,Typica,Washed / Wet,,Commercial / Sub-Grade (<80),test
+LOT-1191,2012.0,2012,1550.0,13.0,0,5,Mexico,La Concordia,Caturra,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1192,2014.0,2015,700.0,,0,1,Taiwan,Nantou,Typica,Natural / Dry,,Commercial / Sub-Grade (<80),train
+LOT-1193,2015.0,2015,1050.0,12.0,0,6,Nicaragua,Jinotega,Caturra,Natural / Dry,Green,Commercial / Sub-Grade (<80),train
+LOT-1194,2012.0,2012,1550.0,12.0,1,20,Mexico,La Concordia,Caturra,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1195,2013.0,2013,1550.0,,0,2,Colombia,Cundinamarca,Caturra,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1196,2012.0,2012,1100.0,12.0,0,5,Mexico,"Coatepec, Coatepec",Typica,Washed / Wet,Blue-Green,Commercial / Sub-Grade (<80),train
+LOT-1197,2013.0,2014,1219.2,10.0,0,2,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1198,2012.0,2012,800.0,13.0,0,30,Mexico,Xicotepec De Juarez,Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1199,2014.0,2014,1219.2,10.0,1,4,Guatemala,Oriente,Other,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1200,2013.0,2014,1200.0,,0,3,Colombia,Pereira,Caturra,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1201,2016.0,2017,200.0,13.0,1,2,Cote d'Ivoire,Cnra Station Of Divo,,Washed / Wet,Blue-Green,Commercial / Sub-Grade (<80),test
+LOT-1202,2012.0,2012,750.0,14.0,0,19,Mexico,Zentla,Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1203,2012.0,2012,950.0,14.0,0,23,Mexico,Zentla,Typica,Washed / Wet,,Commercial / Sub-Grade (<80),test
+LOT-1204,2012.0,2012,,,0,0,United States,Chikmagalur,Arusha,Natural / Dry,Green,Commercial / Sub-Grade (<80),train
+LOT-1205,2012.0,2012,,11.0,0,6,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),test
+LOT-1206,2014.0,2014,850.0,11.0,0,0,Taiwan,Natou County,Typica,Washed / Wet,Blue-Green,Commercial / Sub-Grade (<80),train
+LOT-1207,2012.0,2012,1000.0,13.0,0,10,Mexico,Veracruz,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),test
+LOT-1208,2017.0,2017,1219.2,10.0,0,0,Guatemala,Santa Rosa,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1209,2017.0,2017,1650.0,11.0,0,5,Honduras,Ocotepeque,Catuai,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1210,2012.0,2012,1550.0,14.0,0,8,Mexico,Zaragoza Itundujia,Typica,Washed / Wet,,Commercial / Sub-Grade (<80),test
+LOT-1211,2016.0,2016,1320.0,11.0,0,6,Guatemala,Occidente,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),test
+LOT-1212,2015.0,2015,1550.0,11.0,0,6,Guatemala,Nuevo Oriente,Catuai,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1213,2012.0,2013,,10.0,5,20,Costa Rica,San Rafael,Catuai,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1214,,2010,1200.0,,0,8,Mexico,"Pluma Hidalogo, Oaxaca",Typica,,,Commercial / Sub-Grade (<80),train
+LOT-1215,2012.0,2012,1450.0,14.0,0,34,Mexico,Yajalon,Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1216,2013.0,2014,853.4,13.0,0,0,United States (Puerto Rico),Yauco Region,Other,Washed / Wet,Green,Commercial / Sub-Grade (<80),test
+LOT-1217,2017.0,2017,1700.0,10.0,0,1,Guatemala,San Marcos,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1218,,2011,,10.0,0,3,,,,,,Commercial / Sub-Grade (<80),train
+LOT-1219,2012.0,2012,1500.0,,0,2,Mexico,Zaragoza Itundujia,Typica,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1220,2012.0,2012,1100.0,11.0,0,45,Mexico,Tlacuilotepec,Mundo Novo,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1221,2012.0,2012,1200.0,10.0,0,0,Mexico,Talpa De Allende,Typica,Washed / Wet,Blue-Green,Commercial / Sub-Grade (<80),train
+LOT-1222,2012.0,2012,1300.0,12.0,0,12,Mexico,"Iliatenco, Guerrero",Mundo Novo,Natural / Dry,,Commercial / Sub-Grade (<80),train
+LOT-1223,2014.0,2014,1219.2,12.0,0,3,Guatemala,Oriente,Other,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1224,2014.0,2014,1350.0,11.0,0,12,Honduras,Intibuca,Pacas,Washed / Wet,Green,Commercial / Sub-Grade (<80),test
+LOT-1225,2012.0,2013,1400.0,,0,4,Peru,San Ignacio,Typica,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1226,2012.0,2012,,14.0,7,38,Mexico,Amatenango De La Frontera,Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1227,2012.0,2012,1550.0,14.0,3,17,Mexico,Zaragoza Itundujia,Typica,Semi-washed / Semi-pulped,Green,Commercial / Sub-Grade (<80),test
+LOT-1228,2012.0,2012,1400.0,,0,0,Mexico,Zaragoza Itundujia,Typica,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1229,2013.0,2013,1300.0,12.0,0,8,Mexico,"La Concordia, Chiapas",Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1230,2016.0,2017,1100.0,10.0,0,4,Nicaragua,Jalapa,Caturra,Other,Green,Commercial / Sub-Grade (<80),train
+LOT-1231,2016.0,2016,,,0,1,Ecuador,"San Juan, Playas",,,Blue-Green,Commercial / Sub-Grade (<80),train
+LOT-1232,2013.0,2014,,12.0,5,8,United States (Hawaii),Kona,,Natural / Dry,Green,Commercial / Sub-Grade (<80),train
+LOT-1233,2013.0,2013,1310.6,12.0,1,8,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1234,2012.0,2012,1320.0,14.0,0,0,Mexico,Veracruz,Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1235,2012.0,2012,1250.0,14.0,0,0,Mexico,Veracruz,Typica,Semi-washed / Semi-pulped,,Commercial / Sub-Grade (<80),train
+LOT-1236,2012.0,2012,1350.0,12.0,0,0,Mexico,"Ohuapan, Tlaltetela",Bourbon,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1237,2013.0,2014,1850.0,,0,5,China,Yunnan,Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1238,2012.0,2012,1150.0,13.0,0,2,Mexico,Yecuatla,Caturra,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1239,2016.0,2016,,10.0,1,7,Nicaragua,Nueva Segovia,,,Green,Commercial / Sub-Grade (<80),train
+LOT-1240,2014.0,2015,,11.0,1,1,Nicaragua,,,Natural / Dry,Green,Commercial / Sub-Grade (<80),test
+LOT-1241,2014.0,2014,1219.2,12.0,0,3,Guatemala,Oriente,Other,Washed / Wet,Green,Commercial / Sub-Grade (<80),test
+LOT-1242,2013.0,2014,800.0,10.0,0,0,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1243,2012.0,2012,1400.0,13.0,0,1,Mexico,Tapachula,Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1244,2012.0,2012,1300.0,10.0,0,1,Mexico,Cofradia De Suchitlan,Typica,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1245,,2011,,,0,0,United States (Hawaii),Kona,,,,Commercial / Sub-Grade (<80),test
+LOT-1246,2014.0,2014,1600.0,,0,0,Mexico,"Sierra, Chiapas",Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1247,2012.0,2012,1400.0,12.0,0,14,Mexico,Villa Talea De Castro,Typica,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1248,2012.0,2012,1200.0,13.0,1,3,Mexico,Los Angeles,Caturra,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1249,2014.0,2014,,12.0,3,4,Brazil,Monte Carmelo,Catuai,Natural / Dry,Green,Commercial / Sub-Grade (<80),train
+LOT-1250,2012.0,2012,1500.0,14.0,0,0,Mexico,Zaragoza Itundujia,Typica,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1251,2014.0,2014,,10.0,0,0,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Blue-Green,Commercial / Sub-Grade (<80),train
+LOT-1252,2012.0,2012,,11.0,0,9,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),test
+LOT-1253,2014.0,2014,1219.2,10.0,0,2,Guatemala,Oriente,Other,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1254,2012.0,2013,1310.6,11.0,1,4,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1255,2012.0,2012,1300.0,13.0,31,47,Mexico,"Xochitonalco, Huautla",Typica,Natural / Dry,Green,Commercial / Sub-Grade (<80),test
+LOT-1256,2012.0,2012,,11.0,4,31,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Green,Commercial / Sub-Grade (<80),test
+LOT-1257,2014.0,2015,,11.0,2,8,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Green,Commercial / Sub-Grade (<80),train
+LOT-1258,2016.0,2017,1300.0,13.0,0,1,Indonesia,Ijen,Java,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1259,2012.0,2012,1050.0,11.0,0,3,Mexico,Cordoba,Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),test
+LOT-1260,2016.0,2016,,,0,0,Ecuador,"San Juan, Playas",,,Blue-Green,Commercial / Sub-Grade (<80),test
+LOT-1261,2016.0,2017,650.0,,3,4,Taiwan,"台南市東山區( Dongshan Dist., Tainan City)",Yellow Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1262,2013.0,2013,1200.0,10.0,0,28,China,Yunnan,Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1263,2013.0,2013,1310.6,11.0,3,9,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1264,2014.0,2014,1350.0,11.0,2,6,Honduras,Intibuca,Pacas,Natural / Dry,Green,Commercial / Sub-Grade (<80),train
+LOT-1265,2014.0,2014,1219.2,10.0,1,2,Guatemala,Oriente,Other,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1266,2014.0,2014,,12.0,2,3,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Green,Commercial / Sub-Grade (<80),train
+LOT-1267,,2011,,10.0,1,3,Colombia,,,,Green,Commercial / Sub-Grade (<80),train
+LOT-1268,2012.0,2012,850.0,12.0,2,7,Mexico,"Motozintla, Chiapas",Other,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1269,2012.0,2012,,11.0,0,7,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),test
+LOT-1270,2014.0,2015,1200.0,12.0,2,4,Costa Rica,Occidental,Caturra,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1271,2012.0,2012,1248.0,11.0,0,3,Mexico,Petatlan,Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1272,2014.0,2014,,11.0,0,2,Brazil,,,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1273,2013.0,2013,1310.6,11.0,0,2,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1274,2016.0,2016,1000.0,10.0,0,0,Nicaragua,Jinotega,,,Blue-Green,Commercial / Sub-Grade (<80),test
+LOT-1275,2012.0,2013,775.0,11.0,0,0,Taiwan,"Dongshan Dist., Tainan City 臺南市東山區",Typica,Washed / Wet,Blue-Green,Commercial / Sub-Grade (<80),train
+LOT-1276,2013.0,2013,,12.0,1,5,United States (Hawaii),Kona,,Natural / Dry,Green,Commercial / Sub-Grade (<80),train
+LOT-1277,2012.0,2012,1300.0,13.0,0,3,Mexico,Coatepec,Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1278,2013.0,2013,1310.6,11.0,2,15,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1279,2017.0,2017,890.0,,0,3,Brazil,South Of Minas,Bourbon,Natural / Dry,Green,Commercial / Sub-Grade (<80),train
+LOT-1280,2012.0,2012,1500.0,15.0,4,5,Mexico,Zaragoza Itundujia,Typica,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1281,2014.0,2014,1219.2,10.0,1,2,Guatemala,Oriente,Other,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1282,2013.0,2014,825.0,10.0,0,1,Haiti,"Dondon, Haiti",Typica,Washed / Wet,,Commercial / Sub-Grade (<80),test
+LOT-1283,2013.0,2014,,12.0,1,5,United States (Hawaii),Kona,,Natural / Dry,Green,Commercial / Sub-Grade (<80),test
+LOT-1284,2012.0,2012,1200.0,12.0,1,11,Mexico,"Motozintla, Chiapas",Other,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1285,2014.0,2014,795.0,,0,6,United States,"Kwanza Norte Province, Angola",,Natural / Dry,,Commercial / Sub-Grade (<80),train
+LOT-1286,2014.0,2015,1200.0,,7,9,Peru,San Ignacio,Caturra,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1287,2016.0,2017,,,0,0,India,Chickmangalore,,Natural / Dry,Green,Commercial / Sub-Grade (<80),train
+LOT-1288,,2010,1200.0,,0,0,Mexico,"Pluma Hidalogo, Oaxaca",Typica,,,Commercial / Sub-Grade (<80),train
+LOT-1289,2012.0,2012,,12.0,0,4,Guatemala,Oriente,Bourbon,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1290,2012.0,2012,1100.0,13.0,0,14,Mexico,Coatepec,Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1291,2011.0,2012,,11.0,0,5,Guatemala,Oriente,Bourbon,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1292,2012.0,2012,1310.6,11.0,0,8,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1293,2014.0,2014,,,0,0,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Green,Commercial / Sub-Grade (<80),train
+LOT-1294,2012.0,2012,1400.0,,2,4,Mexico,Zaragoza Itundujia,Typica,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1295,2011.0,2012,,12.0,4,26,Indonesia,Indonesia,Other,Natural / Dry,,Commercial / Sub-Grade (<80),train
+LOT-1296,2013.0,2014,,,0,3,United States (Hawaii),Kona,,Natural / Dry,Blue-Green,Commercial / Sub-Grade (<80),train
+LOT-1297,2012.0,2012,1250.0,12.0,0,12,Mexico,Tepictla,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1298,2014.0,2014,1350.0,11.0,0,7,Honduras,Intibuca,Pacas,Natural / Dry,Green,Commercial / Sub-Grade (<80),train
+LOT-1299,2012.0,2013,1000.0,12.0,0,2,Philippines,"Benguet, Mountain Province",,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1300,2017.0,2017,,11.0,0,6,Brazil,Monte Carmelo,,Natural / Dry,Green,Commercial / Sub-Grade (<80),train
+LOT-1301,2012.0,2012,1310.6,11.0,0,15,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1302,2012.0,2012,,12.0,0,10,Guatemala,Oriente,Bourbon,Washed / Wet,,Commercial / Sub-Grade (<80),test
+LOT-1303,2012.0,2012,1100.0,11.0,4,20,Mexico,Tlacuilotepec,Pacamara,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1304,2012.0,2012,1100.0,12.0,0,8,Mexico,,Other,Washed / Wet,,Commercial / Sub-Grade (<80),test
+LOT-1305,2012.0,2012,1200.0,11.0,0,20,Mexico,Ocosingo,Mundo Novo,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1306,2012.0,2012,1280.0,13.0,23,29,Mexico,Huautla De Jimenez,Typica,Washed / Wet,Blue-Green,Commercial / Sub-Grade (<80),test
+LOT-1307,2013.0,2014,,10.0,20,1,India,,,Natural / Dry,Green,Commercial / Sub-Grade (<80),train
+LOT-1308,2012.0,2012,850.0,14.0,15,7,Mexico,Menglian,Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1309,2012.0,2012,1500.0,,0,6,Mexico,Zaragoza Itundujia,Typica,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1310,2012.0,2012,1250.0,12.0,0,30,Mexico,Coatepec,Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),test
+LOT-1311,2012.0,2012,,11.0,0,10,Guatemala,Oriente,Bourbon,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1312,2012.0,2012,,11.0,0,8,Guatemala,Oriente,Bourbon,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1313,2013.0,2013,1700.0,12.0,0,7,Mexico,Chiapas,Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),test
+LOT-1314,2014.0,2014,,,1,2,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Blue-Green,Commercial / Sub-Grade (<80),train
+LOT-1315,2012.0,2012,1140.0,14.0,3,11,Mexico,"Chocaman, Veracruz",Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1316,2013.0,2013,1310.6,11.0,1,1,Guatemala,Oriente,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1317,2012.0,2012,1200.0,13.0,0,27,Mexico,Xalapa,Typica,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1318,2012.0,2012,1250.0,12.0,0,19,Mexico,Coatepec,Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1319,2013.0,2014,,12.0,63,9,Vietnam,,,Natural / Dry,,Commercial / Sub-Grade (<80),train
+LOT-1320,2012.0,2012,,,9,17,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,,Commercial / Sub-Grade (<80),train
+LOT-1321,2016.0,2015,,11.0,0,0,Brazil,Campos Altos - Cerrado,,,Green,Commercial / Sub-Grade (<80),train
+LOT-1322,2014.0,2014,1350.0,11.0,1,16,Honduras,Intibuca,Pacas,Washed / Wet,Green,Commercial / Sub-Grade (<80),test
+LOT-1323,2014.0,2014,1200.0,,1,1,Mexico,Sierra Alta Mixe Y Zapoteca,Typica,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1324,2013.0,2014,,,0,15,Colombia,,,Natural / Dry,Blue-Green,Commercial / Sub-Grade (<80),train
+LOT-1325,2014.0,2014,,11.0,5,9,United States (Hawaii),Kona,Hawaiian Kona,Natural / Dry,Green,Commercial / Sub-Grade (<80),train
+LOT-1326,2010.0,2011,1020.0,8.0,1,0,Haiti,Marmelade,,,,Commercial / Sub-Grade (<80),train
+LOT-1327,2014.0,2015,1200.0,11.0,0,7,Costa Rica,Occidental,Caturra,Washed / Wet,Green,Commercial / Sub-Grade (<80),test
+LOT-1328,2012.0,2012,800.0,12.0,4,24,Mexico,Tlatlauquitepec,Mundo Novo,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1329,2012.0,2012,1800.0,11.0,0,0,Mexico,Veracruz,Bourbon,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1330,2014.0,2014,1000.0,12.0,0,1,Mexico,"Sierra Norte Yajalon, Chiapas",Typica,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1331,2017.0,2017,,11.0,0,55,Brazil,Cerrado,,Natural / Dry,Green,Commercial / Sub-Grade (<80),test
+LOT-1332,2014.0,2014,1450.0,10.0,0,4,Honduras,Marcala,Catuai,Washed / Wet,Green,Commercial / Sub-Grade (<80),test
+LOT-1333,2014.0,2014,1450.0,10.0,0,4,Honduras,Marcala,Catuai,Washed / Wet,Green,Commercial / Sub-Grade (<80),train
+LOT-1334,2014.0,2014,1450.0,10.0,0,3,Honduras,Marcala,Catuai,Washed / Wet,Green,Commercial / Sub-Grade (<80),test
+LOT-1335,2012.0,2012,900.0,11.0,0,20,Mexico,Juchique De Ferrer,Bourbon,Washed / Wet,,Commercial / Sub-Grade (<80),train
+LOT-1336,2012.0,2012,350.0,14.0,8,16,Haiti,"Department D'Artibonite , Haiti",Typica,Natural / Dry,Blue-Green,Commercial / Sub-Grade (<80),train
+LOT-1337,2016.0,2017,1100.0,13.0,1,5,Nicaragua,Jalapa,Caturra,Other,Green,Commercial / Sub-Grade (<80),test
