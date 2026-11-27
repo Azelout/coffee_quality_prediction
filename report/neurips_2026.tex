@@ -143,13 +143,53 @@ This dataset classify coffee lots in several ratings class, using the ratings of
 
 -  \texttt{Commercial/Sub-Grade(<80)}  
 
-We can see that 4 over 5 classes are in the 80 to 90 range. To have significant results, our model need to be very good, as the boundaries between the 3 top classes are extremely close.
+We can see that 3 over 4 classes are in the 80 to 90 range. To have significant results, our model need to be very good, as the boundaries between the 3 top classes are extremely close.
 
 Thankfully, it has a 10/10 usability score on kaggle, which ensure us to have exploitable results, and a strong features base to go further in the classification model we aim to build.  
 
 \section{Machine Learning Problem and Baseline}
 
 \subsection{Define the Machine Learning Problem}
+
+\paragraph{Main question.} Can the production data of a coffee lot (origin, altitude, variety, processing, defects\ldots), known \emph{before} any cupping session, predict its quality class? We turn this into a measurable goal: reach a macro F1 of at least \textbf{0.55} in 5-fold cross-validation on the training set, while the logistic regression baseline reaches $0.46 \pm 0.03$.
+
+\paragraph{Task.} Supervised multi-class classification with 3 classes.
+
+\paragraph{Target variable.} \texttt{quality\_class}, derived from \texttt{total\_cup\_points} (score out of 100):
+\texttt{Commercial / Sub-Grade} ($<80$), \texttt{Specialty} (80--84) and \texttt{Exemplary} ($\geq 85$).
+The \texttt{Presidential} ($\geq 90$) class contains a single lot, so we merge it into \texttt{Exemplary}: a class with one example cannot be learned or evaluated.
+The classes are strongly imbalanced: 78.2\,\% \texttt{Specialty}, 13.8\,\% \texttt{Commercial} and 7.9\,\% \texttt{Exemplary} (1{,}337 lots).
+
+\paragraph{Input variables.} We keep only the production features (Table~\ref{tab:features}).
+We exclude \texttt{total\_cup\_points}, because the target is computed from it, and the 10 sensory scores (aroma, flavor, acidity\ldots), because they add up to \texttt{total\_cup\_points}: using them would mean predicting the score from the score itself, and they are not available to a buyer before tasting.
+Identifiers (\texttt{lot\_id}, \texttt{farm\_name}, \texttt{producer}) are also removed.
+
+\begin{table}[h]
+  \caption{Input features used by the models.}
+  \label{tab:features}
+  \centering
+  \begin{tabular}{ll}
+    \toprule
+    Type & Features \\
+    \midrule
+    Numeric (6) & \texttt{harvest\_year}, \texttt{grading\_year}, \texttt{altitude\_mean\_meters}, \\
+                & \texttt{moisture\_percentage}, \texttt{category\_one\_defects}, \texttt{category\_two\_defects} \\
+    Categorical (5) & \texttt{country\_of\_origin}, \texttt{region}, \texttt{variety}, \texttt{processing\_method}, \texttt{color} \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+External country-level data (climate, economy) is kept as an optional extension for the end of the project; the core problem uses only the CQI dataset.
+
+\paragraph{Expected output.} For each lot, the model returns the predicted class and one probability per class. The probabilities tell the buyer how confident the prediction is (for example, a lot at 45\,\% \texttt{Exemplary} and 50\,\% \texttt{Specialty} deserves a tasting before purchase). Because we weight the rare classes during training, these probabilities are pushed toward \texttt{Commercial} and \texttt{Exemplary}; we will read them as a confidence ranking, not as exact frequencies, unless we calibrate them.
+
+\paragraph{Evaluation criteria.} Accuracy is misleading here: always predicting \texttt{Specialty} already gives 78\,\% accuracy but a macro F1 of only 0.29. We therefore use:
+\begin{itemize}
+  \item \textbf{Macro F1} (primary metric): the mean of the F1 scores of the 3 classes, so each class counts the same whatever its size.
+  \item \textbf{Recall of \texttt{Commercial}} (secondary metric): for a buyer, the most costly error is to buy a sub-grade lot that the model predicted as \texttt{Specialty}. The baseline reaches a \texttt{Commercial} recall of $0.64 \pm 0.05$ in cross-validation. A model that improves macro F1 but lowers this cross-validated recall will be discussed as a trade-off, not accepted automatically. This comparison never uses the test set.
+  \item \textbf{Balanced accuracy} and \textbf{per-class precision and recall}, with the confusion matrix, to see which classes are confused.
+\end{itemize}
+Models are compared with 5-fold stratified cross-validation on the training set (80\,\%, 1{,}069 lots), and we report each score as mean $\pm$ standard deviation over the folds. The test set (20\,\%, 268 lots) is used once, for the final model only.
 
 \subsection{Define Your Baseline}
 
